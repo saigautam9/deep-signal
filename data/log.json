@@ -2189,6 +2189,16 @@
       "mode": "monitor",
       "fp": "us imposes sweeping tariffs on 60 trading partners",
       "date": "2026-07-24"
+    },
+    {
+      "headline": "U.S.-Iran Conflict Escalates with Retaliatory Strikes Across the Middle East",
+      "summary": "The conflict between the U.S. and Iran spiked overnight. The U.S. launched its 13th straight night of airstrikes on Iranian targets. In response, Iranian-aligned forces fired at U.S. bases in Iraq and targeted oil shipping routes in the Red Sea.",
+      "why": "This is a sharp military escalation. Direct exchanges of heavy fire across multiple countries threaten to spark a broader regional war and disrupt vital global energy supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s iran conflict escalates with retaliatory strikes across the",
+      "date": "2026-07-24"
     }
   ]
 }
