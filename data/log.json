@@ -2289,6 +2289,36 @@
       "mode": "monitor",
       "fp": "u s enforces broad tariffs on 60 trading partners",
       "date": "2026-07-24"
+    },
+    {
+      "headline": "U.S. and Iran Exchange Heavy Strikes as Conflict Spreads Across Four Middle East Countries",
+      "summary": "Iran launched drone and missile strikes targeting U.S. military facilities in Bahrain, Jordan, Kuwait, and Iraq. The attacks came right after the U.S. military finished its 13th consecutive night of airstrikes against targets in Iran. The sharp military escalation has pushed global oil prices past $100 a barrel as Red Sea tanker attacks continue.",
+      "why": "This is a sharp, direct military escalation between major global forces, threatening global energy supplies and critical international trade routes.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran exchange heavy strikes as conflict spreads",
+      "date": "2026-07-24"
+    },
+    {
+      "headline": "Massive Wildfires Force Over 180,000 People to Flee in France and Spain",
+      "summary": "Uncontrolled forest fires fueled by a severe heatwave forced more than 180,000 residents and tourists to evacuate across southwestern France and central Spain. Spain declared a national emergency as multiple blazes merged near Madrid, while French authorities had to use boats to rescue trapped tourists from the Cap Ferret peninsula.",
+      "why": "This is a major natural disaster requiring national emergency declarations, military deployments, and emergency evacuations by land and sea.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "massive wildfires force over 180 000 people to flee in",
+      "date": "2026-07-24"
+    },
+    {
+      "headline": "New U.S. Tariffs Take Effect Against 60 Trading Partners",
+      "summary": "At midnight on July 24, new U.S. Section 301 tariffs of 10% to 12.5% went into effect for 60 trading partners, including the European Union, China, Japan, and the UK. The Trump administration introduced these new levies under forced labor regulations to replace temporary global tariffs that expired.",
+      "why": "This is a major economic policy shift affecting nearly 99% of all U.S. imports, directly altering international trade rules and raising global consumer cost pressures.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "new u s tariffs take effect against 60 trading partners",
+      "date": "2026-07-24"
     }
   ]
 }
