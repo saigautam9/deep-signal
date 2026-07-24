@@ -2199,6 +2199,16 @@
       "mode": "monitor",
       "fp": "u s iran conflict escalates with retaliatory strikes across the",
       "date": "2026-07-24"
+    },
+    {
+      "headline": "US-Iran Conflict Escalates with Strikes Across the Middle East as Oil Surges Past $100",
+      "summary": "Iran launched drone strikes targeting US military bases in Kuwait, Bahrain, and Jordan after a 13th consecutive night of heavy US airstrikes on Iranian targets. The expanding fighting pushed global Brent crude oil prices past $100 per barrel amid fears of severe energy market disruptions.",
+      "why": "This represents a sharp military escalation across multiple nations in the Middle East, with direct retaliatory attacks on foreign military bases and a major surge in global energy prices that threatens global inflation and economic stability.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran conflict escalates with strikes across the middle east",
+      "date": "2026-07-24"
     }
   ]
 }
