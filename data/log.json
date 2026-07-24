@@ -2219,6 +2219,16 @@
       "mode": "monitor",
       "fp": "us and iran exchange direct military strikes as middle east",
       "date": "2026-07-24"
+    },
+    {
+      "headline": "US and Iran exchange direct strikes as Middle East conflict escalates",
+      "summary": "The US military launched its 13th consecutive night of airstrikes on targets in Iran, while Iran retaliated by striking US military sites in Bahrain, Kuwait, and Jordan. President Trump warned he is considering a major expansion of attacks, while Houthi rebel strikes on Red Sea oil tankers have pushed oil prices past $100 a barrel.",
+      "why": "Direct military strikes between the US and Iran risk sparking a full-scale regional war, threatening global security and severely disrupting global energy markets.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran exchange direct strikes as middle east conflict",
+      "date": "2026-07-24"
     }
   ]
 }
