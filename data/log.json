@@ -2279,6 +2279,16 @@
       "mode": "evening",
       "fp": "tropical storm bertha triggers severe flooding across gulf coast",
       "date": "2026-07-24"
+    },
+    {
+      "headline": "U.S. Enforces Broad Tariffs on 60 Trading Partners",
+      "summary": "The U.S. put broad new tariffs into effect today against 60 trading partners. This covers almost 99 percent of all goods imported into America.",
+      "why": "This is a major policy change that suddenly rewrites trade rules for most of the world and directly affects consumer prices globally.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s enforces broad tariffs on 60 trading partners",
+      "date": "2026-07-24"
     }
   ]
 }
