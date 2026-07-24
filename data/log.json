@@ -2209,6 +2209,16 @@
       "mode": "monitor",
       "fp": "us iran conflict escalates with strikes across the middle east",
       "date": "2026-07-24"
+    },
+    {
+      "headline": "US and Iran exchange direct military strikes as Middle East conflict escalates",
+      "summary": "The US military launched its 13th consecutive night of strikes in Iran. Iranian forces responded with drone strikes against US military bases in Bahrain and Jordan, while Houthi rebels hit two Saudi oil tankers in the Red Sea. Crude oil prices jumped past $100 a barrel as the US warned it was considering a massive military attack.",
+      "why": "Direct tit-for-tat military strikes between US and Iranian forces across multiple Middle Eastern countries mark a major military escalation. This directly threatens global shipping, spikes energy prices, and risks triggering a full-scale war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran exchange direct military strikes as middle east",
+      "date": "2026-07-24"
     }
   ]
 }
