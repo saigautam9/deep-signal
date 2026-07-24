@@ -2229,6 +2229,56 @@
       "mode": "monitor",
       "fp": "us and iran exchange direct strikes as middle east conflict",
       "date": "2026-07-24"
+    },
+    {
+      "headline": "U.S. prepares massive new strikes against Iran as Middle East conflict escalates",
+      "summary": "American forces have carried out two weeks of military strikes against Iranian targets, and President Trump warned even larger attacks are coming. Foreign mediators are pushing for a 10-day ceasefire, but both sides remain on high alert while shipping routes stay threatened.",
+      "why": "A full-scale war in the region could shut down key oil channels and drive up energy prices for households around the world.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "u s prepares massive new strikes against iran as middle",
+      "date": "2026-07-24"
+    },
+    {
+      "headline": "U.S. launches sweeping new import tariffs on 60 nations",
+      "summary": "The U.S. government has put new taxes between 10% and 12.5% on goods imported from 60 countries, including Europe, China, and India. The new levies affect nearly 99% of all U.S. foreign trade, following earlier legal battles over trade policy.",
+      "why": "New tariffs make foreign goods more expensive for everyday shoppers and threaten to spark global trade disputes.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "u s launches sweeping new import tariffs on 60 nations",
+      "date": "2026-07-24"
+    },
+    {
+      "headline": "Yemen's Houthis declare Red Sea shipping blockade",
+      "summary": "Rebel forces in Yemen have declared a maritime blockade targeting commercial shipping and naval routes around Saudi Arabia and the Red Sea. The blockade comes as regional violence continues to spread across the Middle East.",
+      "why": "Restricting one of the world's busiest water pathways disrupts supply chains and increases shipping costs for basic goods like food and fuel.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "yemen s houthis declare red sea shipping blockade",
+      "date": "2026-07-24"
+    },
+    {
+      "headline": "Economic warning highlights global tech stock and corporate debt risks",
+      "summary": "A major global report warned that financial markets face growing danger from heavily overpriced tech stocks and massive corporate debt in China. Meanwhile, sharp currency drops in Asia are forcing central banks to jump in and stabilize trading.",
+      "why": "If big debt loads or inflated tech stock prices snap, it could trigger a broader financial downturn that hits everyday savings and jobs.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "economic warning highlights global tech stock and corporate debt risks",
+      "date": "2026-07-24"
+    },
+    {
+      "headline": "Tropical Storm Bertha triggers severe flooding across Gulf Coast",
+      "summary": "Tropical Storm Bertha hit the Gulf Coast with record rainfall, stranding residents and forcing emergency teams into active water rescues. The heavy storm system is moving inland, threatening severe flash flooding across neighboring states.",
+      "why": "Frequent extreme weather events destroy homes, paralyze local economies, and strain municipal recovery budgets.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "tropical storm bertha triggers severe flooding across gulf coast",
+      "date": "2026-07-24"
     }
   ]
 }
