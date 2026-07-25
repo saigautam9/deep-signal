@@ -2449,6 +2449,16 @@
       "mode": "afternoon",
       "fp": "us pauses saudi nuclear deal over israel diplomacy",
       "date": "2026-07-25"
+    },
+    {
+      "headline": "Massive Wildfires Force Over 250,000 to Evacuate Across France and Spain",
+      "summary": "Fast-moving wildfires are raging across France and Spain, forcing more than 250,000 people to flee their homes. Spain has declared a national emergency as blazes approach the outskirts of Madrid, while European emergency teams deploy to assist local firefighters.",
+      "why": "This is a major natural disaster causing mass human displacement and emergency operations across multiple European nations.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "massive wildfires force over 250 000 to evacuate across france",
+      "date": "2026-07-25"
     }
   ]
 }
