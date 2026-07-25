@@ -2529,6 +2529,26 @@
       "mode": "evening",
       "fp": "eu fines google 1 billion prompting u s trade investigation",
       "date": "2026-07-25"
+    },
+    {
+      "headline": "Wildfires force 200,000 people to flee across France and Spain",
+      "summary": "Massive wildfires are burning out of control across parts of France and Spain. Emergency officials put regions on national alert as nearly 200,000 residents were forced to evacuate their homes or lock down to avoid toxic smoke.",
+      "why": "This is a major natural disaster causing mass human displacement and posing immediate danger to thousands of lives and key infrastructure across Southern Europe.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "wildfires force 200 000 people to flee across france and",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "Middle East tension escalates with refinery attacks and naval blockades",
+      "summary": "Iran-backed Houthi rebels struck a Saudi Arabian oil refinery, and the U.S. Navy fired on a ship attempting to break an embargo near Iranian ports. The Strait of Hormuz remains closed, cutting off key global oil shipments.",
+      "why": "This represents a sharp military escalation in a vital international shipping corridor, directly threatening global energy security and raising the risk of direct conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "middle east tension escalates with refinery attacks and naval blockades",
+      "date": "2026-07-25"
     }
   ]
 }
