@@ -2329,6 +2329,56 @@
       "mode": "monitor",
       "fp": "middle east conflict escalates as us blocks shipping and iran",
       "date": "2026-07-25"
+    },
+    {
+      "headline": "US-Iran Clashes Escalating in Persian Gulf",
+      "summary": "Military strikes between the US and Iran have worsened in the Persian Gulf, with naval fire hitting ships and regional bases [1.1.2]. The conflict is blocking critical shipping lanes like the Strait of Hormuz, driving global oil prices past $95 a barrel.",
+      "why": "Disrupted oil routes mean higher gas and energy prices for households and businesses across the globe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us iran clashes escalating in persian gulf",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "Russian Airstrikes Deal Severe Damage in Ukraine",
+      "summary": "A surge of Russian missile and drone attacks struck civilian infrastructure and logistics centers across Ukraine, including a strike near Kyiv. The strikes caused dozens of casualties and disrupted local supply networks.",
+      "why": "Continued destruction of basic infrastructure worsens a severe humanitarian crisis and delays economic recovery.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russian airstrikes deal severe damage in ukraine",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "US Launches Broad Tariffs on Dozens of Nations",
+      "summary": "The US is rolling out new import duties between 10% and 12.5% on about 60 major trading partners across Asia and Europe. Washington is also targeting foreign generic drug makers and threatening new levies on European goods.",
+      "why": "Higher import duties usually make everyday products and medicines more expensive for ordinary shoppers.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us launches broad tariffs on dozens of nations",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "EU Fines Google $1 Billion, Sparking Trade Friction",
+      "summary": "European regulators handed Google a $1 billion antitrust fine for favoring its own search and app store services over rivals. The US responded by opening a formal inquiry into European trade practices and threatening economic retaliation.",
+      "why": "Tension between major economies over tech rules can disrupt global trade and spark tit-for-tat economic battles.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "eu fines google 1 billion sparking trade friction",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "Israel Launches Broad West Bank Military Operation",
+      "summary": "Israeli military commanders ordered a wide-scale operation across Palestinian villages in the West Bank after a lethal shooting near a settlement. The move brings heavy military activity to local towns and escalates regional security risks.",
+      "why": "More violence endangers civilian lives and pushes long-term stability further out of reach.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "israel launches broad west bank military operation",
+      "date": "2026-07-25"
     }
   ]
 }
