@@ -2389,6 +2389,16 @@
       "mode": "monitor",
       "fp": "u s and iran exchange strikes as middle east conflict",
       "date": "2026-07-25"
+    },
+    {
+      "headline": "US Navy Disables Merchant Tanker as Iran Attacks American Bases Across Middle East",
+      "summary": "U.S. forces fired on and disabled a merchant tanker trying to breach an American naval blockade of Iranian ports. Overnight, Iran launched missile and drone strikes against U.S. military bases in Bahrain, Jordan, and Kuwait.",
+      "why": "Firing directly on commercial shipping to enforce a naval blockade alongside strikes on American military bases across three countries marks a major military escalation that directly threatens global trade and risks a wider war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us navy disables merchant tanker as iran attacks american bases",
+      "date": "2026-07-25"
     }
   ]
 }
