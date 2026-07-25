@@ -2459,6 +2459,26 @@
       "mode": "monitor",
       "fp": "massive wildfires force over 250 000 to evacuate across france",
       "date": "2026-07-25"
+    },
+    {
+      "headline": "Massive Wildfires in France and Spain Force Over 260,000 Evacuations",
+      "summary": "Out-of-control wildfires across France and Spain have forced more than 267,000 people to flee their homes. Spain declared its first-ever national emergency for a wildfire, while France mobilized 1,500 soldiers and heavy military aircraft as flames approached the suburbs of Bordeaux.",
+      "why": "This is a major natural disaster representing one of the largest peacetime evacuations in modern European history, directly endangering population centers and overwhelming regional emergency response capacities.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "massive wildfires in france and spain force over 260 000",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "U.S.-Iran Military Conflict Escalates as Cease-Fire Talks Stall and Oil Surges Past $100",
+      "summary": "Fighting between the U.S. and Iran intensified after Tehran rejected a U.S. cease-fire proposal. The U.S. expanded strikes deeper into Iranian infrastructure, while Iran-backed Houthi forces struck oil tankers in the Red Sea, pushing global Brent crude prices over $100 per barrel.",
+      "why": "A sharp military escalation involving direct strikes between major powers alongside the disruption of vital global maritime oil routes creates an immediate threat of wider regional war and serious economic shocks.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s iran military conflict escalates as cease fire talks",
+      "date": "2026-07-25"
     }
   ]
 }
