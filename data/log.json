@@ -2379,6 +2379,16 @@
       "mode": "morning",
       "fp": "israel launches broad west bank military operation",
       "date": "2026-07-25"
+    },
+    {
+      "headline": "U.S. and Iran Exchange Strikes as Middle East Conflict Escalates",
+      "summary": "The U.S. military launched missile strikes across Iran and enforced a naval blockade in the region. Iran retaliated by firing missiles at U.S. bases in neighboring countries, while Houthi allies targeted oil refineries in Saudi Arabia.",
+      "why": "This is a direct military clash between major powers that risks a full-scale regional war and threatens to choke off the Strait of Hormuz, a key choke point for global oil supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran exchange strikes as middle east conflict",
+      "date": "2026-07-25"
     }
   ]
 }
