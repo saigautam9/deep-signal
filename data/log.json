@@ -2399,6 +2399,56 @@
       "mode": "monitor",
       "fp": "us navy disables merchant tanker as iran attacks american bases",
       "date": "2026-07-25"
+    },
+    {
+      "headline": "Escalating US-Iran Conflict Threatens Global Oil and Trade Routes",
+      "summary": "Military strikes and drone attacks across the Middle East have pushed the US and Iran toward a wider conflict. Both nations are flexing military power near the Strait of Hormuz, a narrow sea passage essential for world oil shipments. Global shipping routes and energy markets are facing serious disruptions as tensions climb.",
+      "why": "If this critical shipping bottleneck gets blocked, fuel and energy prices worldwide could skyrocket almost overnight.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "escalating us iran conflict threatens global oil and trade routes",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "Massive Wildfires Force 200,000 to Evacuate in Southern Europe",
+      "summary": "Uncontrolled wildfires driven by extreme heatwaves swept through southern France and Spain, forcing over 200,000 people to evacuate. Firefighters are struggling against hot, dry winds as flames burn through forests and threaten whole towns. Emergency services across the region are stretched to their limits to protect homes and infrastructure.",
+      "why": "It shows how extreme weather events can quickly overwhelm local emergency systems and displace massive populations.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "massive wildfires force 200 000 to evacuate in southern europe",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "New US Tariffs Trigger Risks of Global Trade War",
+      "summary": "Washington is building higher tariff walls to protect domestic industries from foreign competition. Major trading partners in Europe and Asia are planning retaliatory tariffs on US exports in response. Economists warn that these trade barriers will raise costs for businesses and drive up prices for consumers.",
+      "why": "Higher trade walls make imported goods more expensive, acting like an added tax on everyday items from electronics to grocery staples.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "new us tariffs trigger risks of global trade war",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "UN Chief Visits Syria to Aid Reconstruction After Regime Collapse",
+      "summary": "UN Secretary-General Antonio Guterres made a historic visit to Syria following the fall of the Assad regime. He met with new leadership under President Ahmed al-Sharaa to help stabilize the country and coordinate rebuilding efforts. The UN is pushing to protect Syria's territorial integrity and create conditions for millions of refugees to return home.",
+      "why": "A peaceful transition in Syria could stabilize the entire Middle East and help millions of displaced families finally rebuild their lives.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "un chief visits syria to aid reconstruction after regime collapse",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "US Pauses Saudi Nuclear Deal Over Israel Diplomacy",
+      "summary": "The US placed a new civilian nuclear energy deal with Saudi Arabia on hold just hours after signing it. Washington made clear the agreement will only move forward if Saudi Arabia formally normalizes diplomatic ties with Israel. The sudden condition complicates nuclear energy plans and reshuffles diplomatic negotiations across the region.",
+      "why": "Linking nuclear technology access to Middle East peace deals will reshape energy and power dynamics in the region for decades.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us pauses saudi nuclear deal over israel diplomacy",
+      "date": "2026-07-25"
     }
   ]
 }
