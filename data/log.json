@@ -2479,6 +2479,56 @@
       "mode": "monitor",
       "fp": "u s iran military conflict escalates as cease fire talks",
       "date": "2026-07-25"
+    },
+    {
+      "headline": "Escalating U.S.-Iran Strikes Threaten Global Energy Supplies",
+      "summary": "Direct military actions between the U.S. and Iran have intensified across the Middle East over the past several days. U.S. naval forces intercepted vessels attempting to breach port blockades, while Iranian-backed forces launched strikes against U.S. bases in Iraq and Jordan.",
+      "why": "Disruptions near critical maritime routes like the Strait of Hormuz threaten to trigger a major global energy shortage and drive up fuel prices worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "escalating u s iran strikes threaten global energy supplies",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "Wildfires Force Mass Evacuations Across France and Spain",
+      "summary": "Uncontrolled wildfires driven by extreme heat and strong winds have displaced more than 200,000 residents and tourists in southern Europe. Emergency responders are operating under national alert states near Madrid and southern France as smoke warnings cover major population centers.",
+      "why": "The displacement highlights worsening climate vulnerabilities across Europe that endanger human lives, agricultural output, and local economies.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "wildfires force mass evacuations across france and spain",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "Global Tech Sector Loses Nearly $800 Billion in Market Cap",
+      "summary": "Major global technology shares suffered one of their largest single-day declines in years, shedding roughly $797 billion in total value. The market downturn was triggered by investor concerns over new international trade levies and tightening government restrictions on AI hardware exports.",
+      "why": "Sudden downturns in tech valuations reduce wealth stored in public pension funds, weaken investor confidence, and slow funding for future digital infrastructure.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global tech sector loses nearly 800 billion in market cap",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "U.S. Imposes New Tariffs on 60 Trading Nations",
+      "summary": "The U.S. government announced broad import tariffs between 10% and 12.5% on goods from 60 partner economies. The move attempts to reconstruct federal trade policy following recent Supreme Court challenges to earlier tariff regulations.",
+      "why": "Broad trade barriers increase costs for international supply chains, raising consumer prices and heightening the risk of global retaliatory trade wars.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "u s imposes new tariffs on 60 trading nations",
+      "date": "2026-07-25"
+    },
+    {
+      "headline": "EU Fines Google $1 Billion, Prompting U.S. Trade Investigation",
+      "summary": "European antitrust regulators issued a $1 billion penalty against Google for prioritizing its own services over competitors on digital platforms. In response, Washington launched a formal investigation into European trade practices targeting major American technology companies.",
+      "why": "Escalating legal and regulatory disputes between the U.S. and Europe threaten cross-border digital commerce and split international tech policy.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "eu fines google 1 billion prompting u s trade investigation",
+      "date": "2026-07-25"
     }
   ]
 }
