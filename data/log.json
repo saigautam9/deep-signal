@@ -2319,6 +2319,16 @@
       "mode": "monitor",
       "fp": "new u s tariffs take effect against 60 trading partners",
       "date": "2026-07-24"
+    },
+    {
+      "headline": "Middle East Conflict Escalates as US Blocks Shipping and Iran Targets Gulf Bases",
+      "summary": "The US military fired on a merchant ship trying to break its blockade of Iranian ports. In response and amid 13 nights of exchange, Iran launched missiles and drones targeting US military positions in Bahrain, Jordan, and Kuwait, while Houthi rebels fired missiles into Saudi Arabia.",
+      "why": "Direct military attacks between US forces and Iran across several Middle Eastern nations mark a sharp military escalation, putting key global trade corridors like the Strait of Hormuz and regional stability at immediate risk.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "middle east conflict escalates as us blocks shipping and iran",
+      "date": "2026-07-25"
     }
   ]
 }
