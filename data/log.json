@@ -2649,6 +2649,16 @@
       "mode": "afternoon",
       "fp": "mass student protests spark political upheaval in india",
       "date": "2026-07-26"
+    },
+    {
+      "headline": "Massive wildfires force nearly 300,000 people to flee in France and Spain",
+      "summary": "Huge wildfires are spreading across France and Spain, moving toward major urban centers like Bordeaux. Extreme heat and dry winds are fanning the flames, forcing around 220,000 people in France and over 75,000 in Spain to evacuate their homes.",
+      "why": "This is a major natural disaster causing massive human displacement, threatening major European cities, and overwhelming regional emergency responses.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "massive wildfires force nearly 300 000 people to flee in",
+      "date": "2026-07-26"
     }
   ]
 }
