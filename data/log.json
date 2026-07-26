@@ -2599,6 +2599,56 @@
       "mode": "morning",
       "fp": "massive youth protests over exam leaks shake india",
       "date": "2026-07-26"
+    },
+    {
+      "headline": "US air campaign on Iran escalates Middle East crisis",
+      "summary": "The United States has launched extensive airstrikes against military and energy targets across Iran following repeated attacks on commercial shipping. The conflict has squeezed trade through the Strait of Hormuz, pushing crude oil prices up sharply around the globe.",
+      "why": "Higher fuel prices and expanding military clashes risk driving up global inflation and starting a wider war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us air campaign on iran escalates middle east crisis",
+      "date": "2026-07-26"
+    },
+    {
+      "headline": "Massive wildfires force hundreds of thousands to flee Western Europe",
+      "summary": "Unprecedented summer heatwaves have ignited destructive wildfires moving rapidly toward major cities in France and Spain, including Bordeaux and Madrid. Authorities have evacuated over 300,000 residents as emergency services struggle to contain the blazes.",
+      "why": "Extreme climate events are directly threatening major economic hubs and displacing huge populations.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "massive wildfires force hundreds of thousands to flee western europe",
+      "date": "2026-07-26"
+    },
+    {
+      "headline": "US tariff threats ignite global trade panic",
+      "summary": "The US administration announced plans for steep new tariffs targeting dozens of countries, including a threat of 50 percent tariffs against Canada. Foreign leaders are rushing into emergency negotiations to prevent a full-scale trade dispute.",
+      "why": "New trade barriers could make everyday goods far more expensive and slow down global economic growth.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us tariff threats ignite global trade panic",
+      "date": "2026-07-26"
+    },
+    {
+      "headline": "Escalating West Bank violence raises fears of regional spread",
+      "summary": "Raids, military operations, and settler clashes across the West Bank have surged, leading to widespread civilian displacement and arrests. International diplomats warn that the deepening crisis could destroy remaining peace efforts in the region.",
+      "why": "Surging violence endangers millions of civilian lives and threatens broader regional stability.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "escalating west bank violence raises fears of regional spread",
+      "date": "2026-07-26"
+    },
+    {
+      "headline": "Mass student protests spark political upheaval in India",
+      "summary": "Tens of thousands of young people across India have taken to the streets to protest national exam leaks and government corruption. The country's education minister resigned as officials faced intense criticism over police crackdowns.",
+      "why": "Unrest in the world's most populous nation threatens internal stability and highlights deep economic frustration among youth.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "mass student protests spark political upheaval in india",
+      "date": "2026-07-26"
     }
   ]
 }
