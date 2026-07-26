@@ -2549,6 +2549,56 @@
       "mode": "monitor",
       "fp": "middle east tension escalates with refinery attacks and naval blockades",
       "date": "2026-07-25"
+    },
+    {
+      "headline": "US and Iran pause airstrikes while standoff continues over vital oil route",
+      "summary": "The US military has paused airstrikes on Iranian targets after weeks of heavy bombing, but both nations remain in a tense standoff over the Strait of Hormuz. While diplomatic talks are underway, Iranian military leaders warned they will retaliate if US strikes resume.",
+      "why": "This narrow waterway acts as the world's main oil pipeline, so any conflict there immediately drives up gas and energy prices for everyone.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran pause airstrikes while standoff continues over vital",
+      "date": "2026-07-26"
+    },
+    {
+      "headline": "Raging wildfires force mass evacuations across France and Spain",
+      "summary": "Record heatwaves have triggered massive wildfires in southern Europe, leading Spain to declare a national emergency as blazes threaten Madrid. Tens of thousands of people have fled their homes as fires spread toward major cities like Bordeaux.",
+      "why": "It shows how extreme heat is destroying critical infrastructure and forcing entire cities to scramble as power grids and emergency services get pushed to the brink.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "raging wildfires force mass evacuations across france and spain",
+      "date": "2026-07-26"
+    },
+    {
+      "headline": "US court blocks federal limits on mail-in voting across 23 states",
+      "summary": "A federal appeals court has stopped the US administration from enforcing new rules that restricted mail-in voting in nearly half the country. Judges ruled that key parts of the executive order violated the constitution ahead of crucial upcoming elections.",
+      "why": "This ruling ensures millions of voters can still cast their ballots by mail, directly shaping who will control the US government.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us court blocks federal limits on mail in voting across",
+      "date": "2026-07-26"
+    },
+    {
+      "headline": "US imposes sweeping new tariffs on major trading partners",
+      "summary": "The US government has announced broad new tariffs covering nearly all foreign imports coming into the country. The policy targets goods from major international partners, creating fresh economic friction around the world.",
+      "why": "When trade gets hit with heavy taxes, everyday prices go up for shoppers everywhere while companies struggle to rewire their supply chains.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us imposes sweeping new tariffs on major trading partners",
+      "date": "2026-07-26"
+    },
+    {
+      "headline": "Massive youth protests over exam leaks shake India",
+      "summary": "Tens of thousands of young people across India have taken to the streets following major leaks and fraud in national entrance exams. What started as outrage over test scores has quickly grown into a huge political movement directly challenging the government.",
+      "why": "With millions of young people demanding fair access to education and jobs, this is the biggest political challenge in years for the world's most populous nation.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "massive youth protests over exam leaks shake india",
+      "date": "2026-07-26"
     }
   ]
 }
