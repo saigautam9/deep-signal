@@ -2709,6 +2709,56 @@
       "mode": "morning",
       "fp": "india overhauls national exam system after massive youth protests",
       "date": "2026-07-27"
+    },
+    {
+      "headline": "US and Iran hold fire after two weeks of strikes",
+      "summary": "The United States and Iran have temporarily halted direct military attacks following nearly two weeks of escalating strikes on military targets and shipping routes. Both sides paused operations as international mediators try to secure a lasting agreement to keep the critical Strait of Hormuz open to global shipping.",
+      "why": "A lasting pause could stabilize global oil markets, while renewed conflict threatens worldwide energy supplies.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us and iran hold fire after two weeks of strikes",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "US rolls out new double-digit tariffs on dozens of nations",
+      "summary": "The US government has imposed sweeping new tariffs on over 60 countries, sparking sharp pushback from trade partners in Europe and Asia. American officials claim the import taxes will protect domestic industries, while foreign governments are preparing retaliatory measures.",
+      "why": "Sudden trade barriers drive up prices for everyday goods and threaten to fuel global inflation.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us rolls out new double digit tariffs on dozens of",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "Extreme wildfires force massive evacuations across Southern Europe",
+      "summary": "Devastating wildfires fueled by intense heatwaves have swept across parts of France and Spain, forcing more than 250,000 people from their homes. Firefighters are struggling to control blazes that threaten major agricultural regions and key residential zones.",
+      "why": "Severe climate events put human lives at immediate risk, destroy vital crops, and strain local economies.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "extreme wildfires force massive evacuations across southern europe",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "German authorities heighten security after deadly Berlin attack",
+      "summary": "Germany has placed its security forces on high alert following a fatal van-ramming attack at a festival in Berlin. European law enforcement agencies are increasing police presence at public gatherings while investigators piece together the events.",
+      "why": "Rising security risks at major public events affect civic freedom and force governments to overhaul public safety.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "german authorities heighten security after deadly berlin attack",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "India sets up tech task force to overhaul national exam system",
+      "summary": "Indian Prime Minister Narendra Modi appointed tech entrepreneur Nandan Nilekani to lead a complete rebuild of the country's national testing system. The decision follows weeks of massive student protests triggered by widespread test paper leaks that threw millions of young lives into chaos.",
+      "why": "Rebuilding trust in these exams directly shapes the future and careers of tens of millions of young people.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "india sets up tech task force to overhaul national exam",
+      "date": "2026-07-27"
     }
   ]
 }
