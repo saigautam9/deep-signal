@@ -2659,6 +2659,56 @@
       "mode": "monitor",
       "fp": "massive wildfires force nearly 300 000 people to flee in",
       "date": "2026-07-26"
+    },
+    {
+      "headline": "US and Iran pause strikes after two weeks of conflict",
+      "summary": "The US paused its nightly airstrikes against Iran after military advisers warned that missile stocks were running low and key targets were exhausted. Iran also held its fire while diplomats in Oman tried to negotiate a deal to reopen vital trade routes. President Trump said he is giving peace talks room to work, though the situation remains very tense.",
+      "why": "Reopening the Strait of Hormuz is essential to stopping global fuel prices from soaring and keeping the world economy from grinding to a halt.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran pause strikes after two weeks of conflict",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "Record wildfires force 350,000 to flee across France and Spain",
+      "summary": "A fierce summer heatwave has sparked monstrous wildfires across southern Europe, forcing over 350,000 people to leave their homes. The flames near Bordeaux and Madrid are so hot that they are creating their own lightning storms and spreading fast. Emergency crews are overwhelmed, and French officials are even weighing whether to evacuate entire cities.",
+      "why": "This marks one of Europe's largest peacetime evacuations in history, showing how extreme climate disasters can quickly disrupt life for millions.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "record wildfires force 350 000 to flee across france and",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "Ebola outbreak surges past 3,200 cases in DR Congo",
+      "summary": "A deadly Ebola outbreak in the Democratic Republic of Congo has jumped to more than 3,200 cases and claimed over 1,400 lives [1.4.2]. Infections shot up by a thousand cases in just ten days as the virus pushed into two new provinces. Aid groups are now racing against time to fly medical supplies into remote areas before the virus spreads any further.",
+      "why": "Without quick containment, this rapidly growing outbreak could spill across international borders and trigger a wider health disaster.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ebola outbreak surges past 3 200 cases in dr congo",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "UN chief visits Damascus to support Syria's transition",
+      "summary": "UN chief Ant\u00f3nio Guterres made a landmark visit to Damascus to meet Syria's new president, Ahmad Al-Sharaa. The UN promised international support to help rebuild ruined cities, fix broken public services, and bring stability back to the country. Global leaders view this transition as a rare opening to reconstruct the nation after years of devastating civil war.",
+      "why": "A stable Syria could calm long-standing tensions across the Middle East and finally allow millions of refugees to return home safely.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "un chief visits damascus to support syria s transition",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "India overhauls national exam system after massive youth protests",
+      "summary": "Prime Minister Narendra Modi announced a total revamp of India's testing system following huge youth-led protests over leaked exam papers. Tech entrepreneur Nandan Nilekani will lead a new task force to build leak-proof, digital testing methods, backed by fresh legislation. Millions of young people had taken to the streets to demand fair access to college seats and government jobs.",
+      "why": "This overhaul directly affects the career prospects and economic future of hundreds of millions of young people in the world's most populous nation.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "india overhauls national exam system after massive youth protests",
+      "date": "2026-07-27"
     }
   ]
 }
