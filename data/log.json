@@ -2759,6 +2759,56 @@
       "mode": "afternoon",
       "fp": "india sets up tech task force to overhaul national exam",
       "date": "2026-07-27"
+    },
+    {
+      "headline": "US and Iran hold fire after weeks of heavy airstrikes",
+      "summary": "The US suspended its two-week bombing campaign in Iran after military advisers warned missile supplies were running low. Iran held back its own retaliatory strikes in return, bringing a brief pause to a conflict that has shaken global energy markets.",
+      "why": "A temporary pause offers brief relief to global oil supplies, but the threat of a wider Middle East war remains high.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran hold fire after weeks of heavy airstrikes",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "Nvidia in talks for massive $250 billion AI data center deal",
+      "summary": "Tech giant Nvidia is discussing backing $250 billion in financing for OpenAI to build next-generation AI data centers. If finalized, it would mark one of the largest tech infrastructure investments in history.",
+      "why": "AI built on this scale demands power equivalent to whole cities, rapidly reshaping global energy grids and finance.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "nvidia in talks for massive 250 billion ai data center",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "UN Security Council meets as Russia escalates attacks on Ukraine",
+      "summary": "Ukraine called an urgent UN meeting following some of the largest Russian missile and drone barrages of the war on Kyiv. Meanwhile, Britain agreed to share advanced jamming technology so Ukraine can mass-produce its own drone defenses.",
+      "why": "The surge in aerial bombardments directly threatens millions of civilians and deepens Europe's worst security crisis.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "un security council meets as russia escalates attacks on ukraine",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "US push to cut Chinese mineral dependence hits heavy snags",
+      "summary": "A US campaign to secure domestic supplies of critical defense minerals like rare earths is falling far short of its goals. America remains heavily reliant on Chinese refining, leaving high-tech supply chains exposed.",
+      "why": "Without these vital raw materials, manufacturing modern defense systems, electronics, and green tech could hit severe bottlenecks.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "us push to cut chinese mineral dependence hits heavy snags",
+      "date": "2026-07-27"
+    },
+    {
+      "headline": "UN places iconic global landmarks on endangered list due to war",
+      "summary": "UNESCO added six historic sites and major animal migration corridors to its List of World Heritage in Danger. Sites across Lebanon, Ukraine, Palestine, and South Sudan face immediate threat from active military conflict and climate stress.",
+      "why": "Escalating global wars and extreme weather are permanently erasing irreplaceable human history and crucial natural ecosystems.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "un places iconic global landmarks on endangered list due to",
+      "date": "2026-07-27"
     }
   ]
 }
