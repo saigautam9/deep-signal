@@ -2809,6 +2809,16 @@
       "mode": "evening",
       "fp": "un places iconic global landmarks on endangered list due to",
       "date": "2026-07-27"
+    },
+    {
+      "headline": "Powerful 7.1 Earthquake Strikes Southern Japan",
+      "summary": "A major 7.1 magnitude earthquake struck the Kumamoto region in southern Japan. It hit with the maximum level of shaking on Japan's seismic scale. Buildings collapsed, fires broke out, and a shopping mall partially caved in with people trapped inside. Power was cut to tens of thousands of homes, and over 150,000 residents were told to evacuate.",
+      "why": "This is a major natural disaster hitting a populated region. It caused immediate structural destruction, fires, trapped citizens, and an emergency response to save lives.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "powerful 7 1 earthquake strikes southern japan",
+      "date": "2026-07-28"
     }
   ]
 }
