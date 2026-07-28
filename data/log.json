@@ -2869,6 +2869,16 @@
       "mode": "evening",
       "fp": "white house asks supreme court for emergency ruling on mail",
       "date": "2026-07-28"
+    },
+    {
+      "headline": "Major 7.1-magnitude earthquake hits southern Japan",
+      "summary": "A powerful 7.1-magnitude earthquake struck Kumamoto on Japan's southern island of Kyushu. The severe shaking collapsed parts of a busy shopping mall and industrial buildings, trapping people inside, causing local fires, and cutting power to tens of thousands of homes.",
+      "why": "This is a major natural disaster causing immediate life-threatening damage and severe infrastructure destruction. Authorities instructed over 300,000 residents to evacuate and dispatched thousands of military personnel to help emergency rescue teams.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "major 7 1 magnitude earthquake hits southern japan",
+      "date": "2026-07-28"
     }
   ]
 }
