@@ -2879,6 +2879,16 @@
       "mode": "monitor",
       "fp": "major 7 1 magnitude earthquake hits southern japan",
       "date": "2026-07-28"
+    },
+    {
+      "headline": "Major 7.1-Magnitude Earthquake Strikes Southern Japan, Triggering Collapses and Mass Evacuations",
+      "summary": "A strong, shallow earthquake hit Kumamoto Prefecture in southern Japan. The quake registered the highest possible shaking level on Japan's seismic intensity scale. It caused buildings to collapse, including a shopping mall in Kashima where gas explosions trapped shoppers and staff. Factory structures fell, power went out across the region, hundreds of people were injured, and multiple deaths were reported. Japanese officials ordered roughly 300,000 residents to evacuate and sent thousands of troops to help rescue trapped survivors.",
+      "why": "This qualifies as a major natural disaster. The earthquake reached maximum seismic intensity, destroyed buildings, left people trapped under rubble, and forced a widespread emergency response with hundreds of thousands evacuated.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "major 7 1 magnitude earthquake strikes southern japan triggering collapses",
+      "date": "2026-07-28"
     }
   ]
 }
