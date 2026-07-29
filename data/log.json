@@ -2989,6 +2989,26 @@
       "mode": "monitor",
       "fp": "huge wildfires in southwest france force 220 000 people to",
       "date": "2026-07-29"
+    },
+    {
+      "headline": "U.S. and Saudi Arabia Launch Joint Air Strikes in Iraq as Middle East Hostilities Escalate",
+      "summary": "U.S. and Saudi armed forces conducted joint precision air strikes targeting Iran-aligned militias in eastern Iraq following dozens of Iranian drone and missile attacks. In response, Iran resumed missile strikes against U.S. forces and move to intercept commercial oil tankers in the Strait of Hormuz.",
+      "why": "This represents a sharp military escalation involving direct joint combat operations by the U.S. and Saudi Arabia against Iranian targets, alongside heightened threats to global maritime trade.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and saudi arabia launch joint air strikes in",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Powerful 7.1 Magnitude Earthquake Strikes Southwestern Japan",
+      "summary": "A major 7.1 magnitude earthquake hit Kumamoto Prefecture on Japan's southern island of Kyushu, leaving at least 13 people dead, collapsing homes, halting high-speed rail lines, and leaving tens of thousands without electricity or gas.",
+      "why": "This is a major natural disaster resulting in immediate loss of life, structural collapses, and severe infrastructure disruption.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "powerful 7 1 magnitude earthquake strikes southwestern japan",
+      "date": "2026-07-29"
     }
   ]
 }
