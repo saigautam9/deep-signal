@@ -2919,6 +2919,56 @@
       "mode": "monitor",
       "fp": "us and saudi forces launch joint air strikes in iraq",
       "date": "2026-07-29"
+    },
+    {
+      "headline": "US and Saudi Arabia Launch Joint Strikes on Iran-Backed Militias",
+      "summary": "The US and Saudi Arabia carried out joint airstrikes against Iran-backed armed groups in Iraq following drone attacks on Saudi oil facilities. Iran also launched ballistic missiles at US forces, though air defense systems intercepted all of them. The renewed fighting threatens shipping through the Strait of Hormuz, where one-fifth of the world's oil flows.",
+      "why": "A prolonged conflict in this bottleneck could spike global energy prices and drag major world powers into a wider war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and saudi arabia launch joint strikes on iran backed",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Deadly Earthquake Hits Japan, Triggering Urgent Rescue Operations",
+      "summary": "A powerful earthquake struck Kumamoto in southwestern Japan, killing at least 13 people and destroying dozens of structures. Emergency crews and military troops are digging through rubble in a race to find missing residents. Displaced families are being moved into temporary shelters across the region.",
+      "why": "Beyond the tragic loss of life, severe disasters in major industrial regions can ripple through global technology supply chains.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "deadly earthquake hits japan triggering urgent rescue operations",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Raging Wildfires Force Over 200,000 Evacuations in Southern France",
+      "summary": "Fast-moving wildfires in southern France forced more than 220,000 people to flee their homes overnight. Firefighters from across Europe are fighting the flames amid severe summer heatwaves and dry winds. Thousands of families are currently staying in temporary emergency shelters as dense smoke blankets nearby towns.",
+      "why": "Increasingly frequent climate disasters are pushing emergency services to their limits and causing huge economic losses.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "raging wildfires force over 200 000 evacuations in southern france",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Meta and BlackRock Team Up for $14 Billion AI Infrastructure Deal",
+      "summary": "Meta and asset manager BlackRock announced a $14 billion deal to build a massive data center campus in El Paso, Texas. The facility will feed the huge electric and computing power required for advanced artificial intelligence models. Tech giants are increasingly teaming up with global finance firms to fund their massive AI buildouts.",
+      "why": "This huge investment shows how the race to build AI is reshaping local energy grids and steering corporate capital worldwide.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "meta and blackrock team up for 14 billion ai infrastructure",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "US Boardroom Diversity Falls to Lowest Level in a Decade",
+      "summary": "New appointments of women and racial minorities to S&P 500 corporate boards dropped to 40 percent this year. Major corporations are quietly walking back their diversity programs following intense political pressure and legal challenges in the US. Board recruiters report that white men are once again taking the lion's share of newly open seats.",
+      "why": "This retreat marks a major shift in how the world's largest companies select leaders and guide future business policies.",
+      "domain": "Society",
+      "severity": "MEDIUM",
+      "mode": "morning",
+      "fp": "us boardroom diversity falls to lowest level in a decade",
+      "date": "2026-07-29"
     }
   ]
 }
