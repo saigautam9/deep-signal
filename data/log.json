@@ -2889,6 +2889,16 @@
       "mode": "monitor",
       "fp": "major 7 1 magnitude earthquake strikes southern japan triggering collapses",
       "date": "2026-07-28"
+    },
+    {
+      "headline": "Iran Launches Missiles at U.S. Base as U.S. and Saudi Arabia Strike Militias in Iraq",
+      "summary": "Iran launched a barrage of ballistic missiles at a U.S. military base in Jordan, which U.S. air defense systems intercepted. In tandem, U.S. and Saudi air forces conducted joint precision airstrikes against Iran-aligned militia facilities in eastern Iraq following dozens of drone attacks against American forces and Saudi oil infrastructure.",
+      "why": "This marks a sharp military escalation that shatters a multi-day pause in hostilities between the U.S. and Iran, directly drawing Saudi Arabia into joint combat operations and heightening the risk of a wider regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "iran launches missiles at u s base as u s",
+      "date": "2026-07-29"
     }
   ]
 }
