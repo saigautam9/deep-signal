@@ -3019,6 +3019,46 @@
       "mode": "monitor",
       "fp": "strong 7 1 magnitude earthquake strikes southern japan",
       "date": "2026-07-29"
+    },
+    {
+      "headline": "US and Saudi Arabia Strike Iran-Backed Militias in Iraq",
+      "summary": "US and Saudi jets launched joint strikes against Iran-aligned forces in Iraq after dozens of drone attacks hit regional oil facilities [1.1.2]. Meanwhile, Iranian forces stopped several oil tankers around the Strait of Hormuz, pushing regional tensions to a dangerous new high.",
+      "why": "Escalating military clashes in key shipping corridors risk cutting off global oil supplies and driving up energy prices worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and saudi arabia strike iran backed militias in iraq",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Washington Summit Seeks Way Forward on Ukraine and Middle East Conflicts",
+      "summary": "The US president held back-to-back meetings with Ukraine's Volodymyr Zelenskyy and Israel's Benjamin Netanyahu. The talks centered on military aid conditions, trade policies, and potential frameworks to pause fighting in both war zones.",
+      "why": "Decisions made in these diplomatic talks directly determine where global military aid flows and how peace lines get drawn.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "washington summit seeks way forward on ukraine and middle east",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Middle East War Spikes Fuel Costs, Hurting Global Travel and Trade",
+      "summary": "Escalating drone and missile strikes around key sea lanes have sent aviation and maritime fuel prices soaring. Major international airlines are reporting heavy losses and bumping up ticket surcharges, while cargo ships face record insurance costs.",
+      "why": "When transport costs jump, the price of everyday imported goods goes up for families everywhere.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "middle east war spikes fuel costs hurting global travel and",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Physical Attacks on Cloud Data Centers Highlight New Tech Vulnerabilities",
+      "summary": "Satellite images confirmed recent Iranian missile strikes damaged Amazon data center facilities in Bahrain. Military forces are increasingly targeting physical tech infrastructure, claiming cloud networks support regional defense operations.",
+      "why": "Damaging physical cloud servers can instantly paralyze banking, healthcare, and daily digital services for entire regions.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "physical attacks on cloud data centers highlight new tech vulnerabilities",
+      "date": "2026-07-29"
     }
   ]
 }
