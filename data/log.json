@@ -3009,6 +3009,16 @@
       "mode": "monitor",
       "fp": "powerful 7 1 magnitude earthquake strikes southwestern japan",
       "date": "2026-07-29"
+    },
+    {
+      "headline": "Strong 7.1 magnitude earthquake strikes southern Japan",
+      "summary": "A powerful 7.1 magnitude earthquake hit near Kumamoto in southwestern Japan. It killed several people, shook down structures, and sparked dozens of aftershocks.",
+      "why": "A magnitude 7.1 quake is a major natural disaster that causes immediate destruction, loss of life, and severe disruption to regional infrastructure.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "strong 7 1 magnitude earthquake strikes southern japan",
+      "date": "2026-07-29"
     }
   ]
 }
