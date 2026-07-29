@@ -2899,6 +2899,26 @@
       "mode": "monitor",
       "fp": "iran launches missiles at u s base as u s",
       "date": "2026-07-29"
+    },
+    {
+      "headline": "Major 7.1 Earthquake Strikes Southwestern Japan",
+      "summary": "A strong magnitude 7.1 earthquake hit the Kumamoto region in southern Japan [1.1.4]. The quake collapsed buildings, trapped people inside a shopping mall, cut power to tens of thousands of homes, and killed at least 13 people. Soldiers and emergency crews are racing against the clock to dig out survivors.",
+      "why": "It is a major natural disaster causing loss of life, widespread destruction, and an urgent crisis for emergency responders.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "major 7 1 earthquake strikes southwestern japan",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "US and Saudi Forces Launch Joint Air Strikes in Iraq",
+      "summary": "American and Saudi military jets hit several militia bases in eastern Iraq overnight. The strikes came after Iran-backed groups launched over 30 drone and missile attacks at US troops and Saudi energy facilities. Meanwhile, Jordan intercepted five incoming missiles fired from Iran.",
+      "why": "This represents a sharp military escalation involving key global powers inside a crucial region for world oil supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and saudi forces launch joint air strikes in iraq",
+      "date": "2026-07-29"
     }
   ]
 }
