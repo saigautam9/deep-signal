@@ -2969,6 +2969,26 @@
       "mode": "morning",
       "fp": "us boardroom diversity falls to lowest level in a decade",
       "date": "2026-07-29"
+    },
+    {
+      "headline": "US and Saudi forces strike Iran-backed targets in Iraq as Gulf tensions spike",
+      "summary": "US and Saudi jets bombed Iran-aligned militia sites in Iraq after facing dozens of drone attacks. At the same time, Iranian forces stopped three oil tankers near the Strait of Hormuz, where a fifth of all global oil flows.",
+      "why": "Direct joint military strikes in a key conflict zone combined with threats to the world's main oil highway mark a sharp military escalation that could trigger a wider war or hurt global fuel supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and saudi forces strike iran backed targets in iraq",
+      "date": "2026-07-29"
+    },
+    {
+      "headline": "Huge wildfires in southwest France force 220,000 people to flee",
+      "summary": "Fast-moving wildfires near Bordeaux have forced over 220,000 people to leave their homes. Firefighters are stretched thin trying to protect towns during an intense heatwave.",
+      "why": "Moving hundreds of thousands of residents out of harm's way makes this a major natural disaster and one of the largest emergency evacuations in modern European history.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "huge wildfires in southwest france force 220 000 people to",
+      "date": "2026-07-29"
     }
   ]
 }
