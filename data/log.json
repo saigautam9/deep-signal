@@ -3139,6 +3139,16 @@
       "mode": "monitor",
       "fp": "us and iran exchange direct missile strikes across the middle",
       "date": "2026-07-30"
+    },
+    {
+      "headline": "US and Iran trade direct military strikes as Middle East conflict escalates",
+      "summary": "The US and Saudi Arabia launched joint airstrikes against Iran-backed groups in Iraq, and US forces hit targets inside Iran. Iran retaliated by firing missiles at US military bases in Jordan and attacking targets in Kuwait. Jordanian forces intercepted several incoming missiles.",
+      "why": "Direct missile and airstrike exchanges between the US and Iran mark a sharp military escalation that risks dragging multiple countries into a wider regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran trade direct military strikes as middle east",
+      "date": "2026-07-30"
     }
   ]
 }
