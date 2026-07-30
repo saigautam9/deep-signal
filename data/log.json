@@ -3149,6 +3149,26 @@
       "mode": "monitor",
       "fp": "us and iran trade direct military strikes as middle east",
       "date": "2026-07-30"
+    },
+    {
+      "headline": "Russian Missile Crashes in NATO Member Poland During Mass Attack on Ukraine",
+      "summary": "A Russian cruise missile crossed into Polish airspace and landed in a field in eastern Poland during a heavy aerial assault across Ukraine. NATO scrambled fighter jets, and Polish officials held an emergency meeting to assess the breach.",
+      "why": "A missile landing inside a NATO member country creates a direct risk of escalating the conflict into an armed confrontation between NATO and Russia.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "russian missile crashes in nato member poland during mass attack",
+      "date": "2026-07-30"
+    },
+    {
+      "headline": "US Military Launches Wave of Retaliatory Airstrikes Against Iranian Targets",
+      "summary": "The United States launched a heavy barrage of airstrikes targeting dozens of Iranian military bases, missile sites, and command centers after Iran fired ballistic missiles at U.S. forces stationed in Jordan.",
+      "why": "Direct missile trades between American and Iranian forces represent a sharp military escalation that threatens to ignite a broader regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us military launches wave of retaliatory airstrikes against iranian targets",
+      "date": "2026-07-30"
     }
   ]
 }
