@@ -3129,6 +3129,16 @@
       "mode": "monitor",
       "fp": "us launches massive new airstrikes on iran",
       "date": "2026-07-30"
+    },
+    {
+      "headline": "US and Iran exchange direct missile strikes across the Middle East",
+      "summary": "The US and Iran launched fresh rounds of heavy missile strikes against each other today, ending a brief lull in fighting. Neighboring Jordan shot down incoming missiles over its airspace, while a strike in northern Kuwait killed one person.",
+      "why": "This is a sharp military escalation involving major international forces. Direct back-and-forth missile strikes threaten to pull neighboring countries deeper into a broader regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran exchange direct missile strikes across the middle",
+      "date": "2026-07-30"
     }
   ]
 }
