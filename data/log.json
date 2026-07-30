@@ -3119,6 +3119,16 @@
       "mode": "morning",
       "fp": "federal reserve holds rates high amid rising inflation risks",
       "date": "2026-07-30"
+    },
+    {
+      "headline": "US launches massive new airstrikes on Iran",
+      "summary": "The US military carried out a heavy two-hour wave of airstrikes on dozens of Iranian military targets overnight. The strikes were a direct response after Iran launched missiles at American troops stationed at a base in Jordan. This shattered a brief five-day pause in direct fighting between the two sides.",
+      "why": "This is a sharp military escalation between major powers in the Middle East, risking an even wider regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us launches massive new airstrikes on iran",
+      "date": "2026-07-30"
     }
   ]
 }
