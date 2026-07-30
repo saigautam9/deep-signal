@@ -3179,6 +3179,56 @@
       "mode": "monitor",
       "fp": "us launches major wave of airstrikes against iranian military targets",
       "date": "2026-07-30"
+    },
+    {
+      "headline": "US and Iran Exchange Strikes as Middle East Conflict Expands",
+      "summary": "The U.S. military launched heavy strikes on military targets inside Iran and Iraq following attacks on American bases. Iran fired back with missiles across the region, striking targets in neighboring Gulf nations while air defenses in Jordan intercepted incoming threats.",
+      "why": "A full-scale regional war risks choking off world energy supplies and spiking gas prices for everyday consumers globally.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran exchange strikes as middle east conflict expands",
+      "date": "2026-07-30"
+    },
+    {
+      "headline": "Suspected Russian Missile Lands in Poland, Raising NATO Alarms",
+      "summary": "A stray missile crashed into an open field in Poland, blasting a massive crater and triggering emergency security meetings across Europe. Officials suspect the weapon spilled over from ongoing strikes in Ukraine, marking a risky breach near NATO borders.",
+      "why": "Accidents or miscalculations spilling onto NATO soil risk pulling Western military forces directly into the conflict with Russia.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "suspected russian missile lands in poland raising nato alarms",
+      "date": "2026-07-30"
+    },
+    {
+      "headline": "Deadly Heatwave Batters Europe, Triggering Wildfires and Heat Deaths",
+      "summary": "Scorching heatwaves and sweeping wildfires across Southern Europe have forced thousands of residents to evacuate their homes. Public health agencies reported nearly 10,000 heat-related deaths in Germany alone as power grids and hospitals strain under extreme temperatures.",
+      "why": "Record-breaking heat acts like a slow-motion emergency, overloading power grids, destroying crops, and pushing healthcare systems to their limits.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "deadly heatwave batters europe triggering wildfires and heat deaths",
+      "date": "2026-07-30"
+    },
+    {
+      "headline": "US Central Bank Holds Interest Rates High Over Inflation Fears",
+      "summary": "The U.S. Federal Reserve decided to freeze interest rates at current levels rather than cutting them. Central bankers warned that rising regional conflicts and stubborn energy costs are keeping prices higher than expected.",
+      "why": "Keeping interest rates high acts like a handbrake on the economy, keeping home mortgages, credit cards, and business loans expensive.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us central bank holds interest rates high over inflation fears",
+      "date": "2026-07-30"
+    },
+    {
+      "headline": "Powerful Earthquake Hits Japan, Leaving Thousands Displaced",
+      "summary": "A major earthquake struck Japan's Kumamoto region, collapsing buildings and cutting off power to thousands of homes. Rescue teams are working through intense summer heat and severe aftershocks to reach trapped survivors.",
+      "why": "Severe disasters in major industrial hubs disrupt critical manufacturing supply chains that industries around the world rely on daily.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "powerful earthquake hits japan leaving thousands displaced",
+      "date": "2026-07-30"
     }
   ]
 }
