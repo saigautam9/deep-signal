@@ -3229,6 +3229,16 @@
       "mode": "evening",
       "fp": "powerful earthquake hits japan leaving thousands displaced",
       "date": "2026-07-30"
+    },
+    {
+      "headline": "U.S. Launches Major Airstrikes on Iran in Sharp Escalation",
+      "summary": "The United States military carried out a heavy wave of overnight airstrikes hitting dozens of military targets in Iran. The strikes came after Iran fired ballistic missiles at U.S. bases in Jordan and drone attacks hit cargo ships in Egyptian waters.",
+      "why": "This is a sharp military escalation between two major powers. The fighting is expanding into new countries and threatening global oil supply lines, raising the danger of a wider regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s launches major airstrikes on iran in sharp escalation",
+      "date": "2026-07-30"
     }
   ]
 }
