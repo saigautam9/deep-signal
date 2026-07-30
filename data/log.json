@@ -3169,6 +3169,16 @@
       "mode": "monitor",
       "fp": "us military launches wave of retaliatory airstrikes against iranian targets",
       "date": "2026-07-30"
+    },
+    {
+      "headline": "US Launches Major Wave of Airstrikes Against Iranian Military Targets",
+      "summary": "US forces carried out a heavy two-hour wave of airstrikes against dozens of Iranian military targets overnight, hitting command centers, missile sites, and drone facilities across Iran. The strikes followed an Iranian ballistic missile attack aimed at US troops stationed in Jordan. Iran quickly responded with fresh missile and drone attacks across the region, including strikes in Kuwait and near Egyptian ports.",
+      "why": "This represents a sharp military escalation directly between the United States and Iran. Direct US strikes on Iranian soil shatter a fragile pause in fighting, stall diplomatic talks, and raise the risk of a broader regional war that threatens global energy supplies and critical international trade routes.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us launches major wave of airstrikes against iranian military targets",
+      "date": "2026-07-30"
     }
   ]
 }
