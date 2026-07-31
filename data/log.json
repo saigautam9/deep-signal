@@ -3239,6 +3239,16 @@
       "mode": "monitor",
       "fp": "u s launches major airstrikes on iran in sharp escalation",
       "date": "2026-07-30"
+    },
+    {
+      "headline": "US Announces Deal for Complete Disarmament of Hamas in Gaza",
+      "summary": "President Donald Trump announced that the US-led Board of Peace reached an agreement for Hamas and other armed groups to completely disarm in Gaza [2.1.6]. Under the proposed plan, Israeli troops will pull back as disarmament occurs, making way for an international force and a new Palestinian police force to manage security under a non-political government.",
+      "why": "This represents a major geopolitical shift that could bring an end to the Gaza war and fundamentally alter governance and security in the region.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us announces deal for complete disarmament of hamas in gaza",
+      "date": "2026-07-31"
     }
   ]
 }
