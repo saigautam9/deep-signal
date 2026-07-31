@@ -3249,6 +3249,16 @@
       "mode": "monitor",
       "fp": "us announces deal for complete disarmament of hamas in gaza",
       "date": "2026-07-31"
+    },
+    {
+      "headline": "Hamas Agrees to Disarm in Landmark Gaza Deal",
+      "summary": "Hamas agreed to a phased roadmap to lay down its weapons and dismantle its tunnel network in exchange for Israeli troop withdrawals and an end to hostilities in Gaza [1.2.2].",
+      "why": "This is a massive policy breakthrough because Hamas has treated armed struggle as its central mission for decades, marking a major turning point toward ending the war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "hamas agrees to disarm in landmark gaza deal",
+      "date": "2026-07-31"
     }
   ]
 }
