@@ -3259,6 +3259,56 @@
       "mode": "monitor",
       "fp": "hamas agrees to disarm in landmark gaza deal",
       "date": "2026-07-31"
+    },
+    {
+      "headline": "Gaza War Enters Potential Turning Point With Hamas Disarmament Proposal",
+      "summary": "Hamas and other Palestinian groups have agreed to a multiphase plan to store their weapons under a national committee if Israeli forces fully withdraw from Gaza [1.3.2]. International mediators are pushing to finalize verification details, though Israel has yet to officially approve the terms.",
+      "why": "If realized, this deal could bring an end to the brutal war and alter the political trajectory of the Middle East.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "gaza war enters potential turning point with hamas disarmament proposal",
+      "date": "2026-07-31"
+    },
+    {
+      "headline": "US-Iran Conflict and Red Sea Attacks Threaten Global Shipping and Oil",
+      "summary": "Rising military clashes between the US, Saudi Arabia, and Iran-backed forces near key waterways like the Strait of Hormuz and the Red Sea are disrupting vital shipping routes. Soaring oil prices have boosted energy company earnings, but shipping delays are sparking broader inflation worries.",
+      "why": "Disruptions at these maritime bottlenecks immediately raise the cost of gasoline, heat, and everyday goods worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us iran conflict and red sea attacks threaten global shipping",
+      "date": "2026-07-31"
+    },
+    {
+      "headline": "AI Gold Rush Squeezes Tech Supply Chains as Apple Market Cap Drops",
+      "summary": "Apple lost nearly $500 billion in market value after warning that component shortages are hitting consumer device production. The sudden boom in AI data centers is eating up global hardware supplies, shifting market dominance back to chipmakers.",
+      "why": "The frenzy to build AI infrastructure is now starving traditional electronics makers of basic parts, hitting tech prices and availability.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ai gold rush squeezes tech supply chains as apple market",
+      "date": "2026-07-31"
+    },
+    {
+      "headline": "Severe European Drought and Heatwave Strain Power Grids and Shipping",
+      "summary": "Record summer temperatures and drying rivers across Europe are forcing nuclear power plants to throttle down production because cooling water is too warm or scarce. Low water levels on major rivers like the Danube are also halting cargo barges and worsening transport delays.",
+      "why": "Extreme climate events are directly undermining basic energy and transport systems that modern economies rely on every day.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "severe european drought and heatwave strain power grids and shipping",
+      "date": "2026-07-31"
+    },
+    {
+      "headline": "China Speeds Up Public Spending to Fight Slow Economic Growth",
+      "summary": "Beijing announced plans to accelerate government spending and support domestic buying power while trying to avoid heavy-handed economic bailouts. Meanwhile, China continues to project military power near disputed regions in the South China Sea.",
+      "why": "China is the world's factory and a major buyer of raw materials, so its economic health directly impacts global jobs and trade.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "china speeds up public spending to fight slow economic growth",
+      "date": "2026-07-31"
     }
   ]
 }
