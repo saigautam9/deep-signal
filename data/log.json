@@ -3309,6 +3309,56 @@
       "mode": "evening",
       "fp": "china speeds up public spending to fight slow economic growth",
       "date": "2026-07-31"
+    },
+    {
+      "headline": "US and Israel prepare major strikes on Iranian energy hubs",
+      "summary": "The United States and Israel are planning heavy military strikes on Iran's energy infrastructure [1.2.7]. Conflict has already spread across the region, with cross-border attacks hitting sites in several countries. Mediators are trying to broker peace talks, but fighting continues to scale up.",
+      "why": "Targeting oil and power grids risks severe global energy shortages, driving up fuel prices and hitting household budgets worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and israel prepare major strikes on iranian energy hubs",
+      "date": "2026-08-01"
+    },
+    {
+      "headline": "Hamas offers to disarm under new Gaza peace proposal",
+      "summary": "Hamas announced it is willing to lay down its heavy weapons if Israel stops its military strikes and fully pulls back from Gaza. The breakthrough comes from a U.S.-brokered ceasefire framework. Both sides remain cautious, and big hurdles stay in the way of full implementation.",
+      "why": "If implemented, it could end the devastating war in Gaza and restore safety for millions of civilians.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "hamas offers to disarm under new gaza peace proposal",
+      "date": "2026-08-01"
+    },
+    {
+      "headline": "Russia hits Kyiv with massive overnight missile barrage",
+      "summary": "Russian forces launched dozens of ballistic missiles and drones directly at Ukraine's capital city. At least nine civilians were killed, dozens were injured, and several homes were destroyed. The heavy attack prompted nearby NATO air defense jets to scramble.",
+      "why": "It shows that the war in Eastern Europe continues to inflict severe casualties on civilians while keeping neighboring countries on high alert.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russia hits kyiv with massive overnight missile barrage",
+      "date": "2026-08-01"
+    },
+    {
+      "headline": "Foreign hackers target municipal water supplies in the US",
+      "summary": "U.S. security officials warned that foreign hackers linked to Iran are attempting to break into municipal water systems in multiple states. Investigators say the digital attacks target utility networks that control treatment and distribution. Authorities are working to patch computer systems before serious damage occurs.",
+      "why": "It proves that modern conflict is shifting directly to essential public services, putting basic clean drinking water at risk.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "foreign hackers target municipal water supplies in the us",
+      "date": "2026-08-01"
+    },
+    {
+      "headline": "Record heat and drought dry up major rivers across continents",
+      "summary": "Extreme heatwaves and shrinking rainfall are pushing water levels in European rivers to historic lows while millions in the U.S. face heat warnings. Local authorities warn that drying waterways are threatening farming, shipping, and municipal water supplies. Emergency teams are managing growing shortages as extreme summer temperatures peak.",
+      "why": "Failing water supplies and strained power grids directly endanger food crops, raise energy costs, and make daily living harder for millions.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "record heat and drought dry up major rivers across continents",
+      "date": "2026-08-01"
     }
   ]
 }
