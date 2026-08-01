@@ -3369,6 +3369,56 @@
       "mode": "monitor",
       "fp": "tanker attacks and drone strikes mark sharp escalation in middle",
       "date": "2026-08-01"
+    },
+    {
+      "headline": "Middle East Conflict Chokes the Strait of Hormuz",
+      "summary": "U.S. airstrikes on Iran and retaliatory attacks in the Persian Gulf have trapped thousands of seafarers in the Strait of Hormuz [1.2.4]. Several oil tankers have been hit, driving up energy prices around the world. Military actions are expanding across the region, while peace talks remain stalled.",
+      "why": "If this narrow water highway stays blocked, energy prices will spike everywhere and drive up the cost of everyday goods globally.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "middle east conflict chokes the strait of hormuz",
+      "date": "2026-08-01"
+    },
+    {
+      "headline": "Heavy Russian Barrages Hit Kyiv as War Intensifies",
+      "summary": "Russian forces launched a massive overnight missile attack on five districts of Kyiv, killing at least ten people and injuring dozens. Ukraine responded with long-range strikes against Russian oil depots and naval targets. The surge in long-range strikes marks one of the heaviest escalations in months.",
+      "why": "",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "heavy russian barrages hit kyiv as war intensifies",
+      "date": "2026-08-01"
+    },
+    {
+      "headline": "Global Markets Shocked as U.S. Borrowing Costs Soar",
+      "summary": "Concerns over stubborn inflation and aggressive new trade tariffs have pushed long-term U.S. bond yields to a 19-year high. The Federal Reserve is under intense pressure from markets to raise rates, even as politicians push for lower interest costs. Investors fear that higher borrowing costs will slow down business growth around the world.",
+      "why": "When borrowing money gets this expensive in the world's largest economy, it acts like a heavy drag on global growth.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "global markets shocked as u s borrowing costs soar",
+      "date": "2026-08-01"
+    },
+    {
+      "headline": "Record Heatwaves and Fires Devastate Western Europe",
+      "summary": "A severe summer heatwave has sparked uncontrollable wildfires across Spain, France, and parts of the UK. Hundreds of thousands of people have been evacuated as blazes destroy farmland and threaten power grids. Emergency crews are working around the clock under extreme conditions.",
+      "why": "The heat is breaking records, ruining crops, and proving how quickly extreme weather can disrupt food supplies and energy grids.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "record heatwaves and fires devastate western europe",
+      "date": "2026-08-01"
+    },
+    {
+      "headline": "Massive Border Rush at Spanish Enclave Ignites EU Debate",
+      "summary": "Tens of thousands of migrants crossed into Spain's North African territory of Ceuta from Morocco before security forces stepped in. Dozens of people died in the chaos, prompting Spain to install a massive floating sea barrier. European leaders are now debating how to handle escalating migration pressures along shared borders.",
+      "why": "The crisis highlights deep humanitarian pressures in Africa and tests how European nations manage their borders and foreign relationships.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "massive border rush at spanish enclave ignites eu debate",
+      "date": "2026-08-01"
     }
   ]
 }
