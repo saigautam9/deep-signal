@@ -3359,6 +3359,16 @@
       "mode": "morning",
       "fp": "record heat and drought dry up major rivers across continents",
       "date": "2026-08-01"
+    },
+    {
+      "headline": "Tanker Attacks and Drone Strikes Mark Sharp Escalation in Middle East Conflict",
+      "summary": "A projectile hit an oil tanker off Oman and damaged its engine room. Iran stopped other ships from moving through the Strait of Hormuz. Meanwhile, Kuwait shot down incoming Iranian drones, and the U.S. and Israel are planning joint strikes on Iran's energy plants.",
+      "why": "This is a sharp military escalation in a critical trade choke point. Blocking the Strait of Hormuz cuts off a huge portion of the world's daily oil supply, which could drive up global energy prices and spark a much larger regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "tanker attacks and drone strikes mark sharp escalation in middle",
+      "date": "2026-08-01"
     }
   ]
 }
