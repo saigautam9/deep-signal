@@ -3419,6 +3419,16 @@
       "mode": "afternoon",
       "fp": "massive border rush at spanish enclave ignites eu debate",
       "date": "2026-08-01"
+    },
+    {
+      "headline": "Ukraine Runs Out of Patriot Missiles as Russian Ballistic Attack Hits Kyiv",
+      "summary": "Ukraine has run out of interceptor missiles for its U.S.-made Patriot air defense systems. Russia launched a massive strike with 27 ballistic missiles and nearly 200 drones, mainly targeting Kyiv. Because Ukraine had no interceptor rounds left, it could only shoot down a single ballistic missile. The attack killed at least 10 people and injured dozens.",
+      "why": "This represents a severe military crisis. Without interceptor missiles, Ukraine's capital is left almost completely exposed to incoming heavy ballistic attacks, creating a major strategic vulnerability in the conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "ukraine runs out of patriot missiles as russian ballistic attack",
+      "date": "2026-08-02"
     }
   ]
 }
