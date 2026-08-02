@@ -3429,6 +3429,26 @@
       "mode": "monitor",
       "fp": "ukraine runs out of patriot missiles as russian ballistic attack",
       "date": "2026-08-02"
+    },
+    {
+      "headline": "OpenAI says new AI model solved 10 unsolved math problems",
+      "summary": "OpenAI revealed that its upcoming AI model, named Astra, solved ten open math and computer science problems that stumped human experts for over a decade. The team published full computer-checked proofs on GitHub so mathematicians can verify the work.",
+      "why": "This is a major technology breakthrough. The AI moved beyond taking tests to doing real scientific research and discovering new mathematical truths.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "openai says new ai model solved 10 unsolved math problems",
+      "date": "2026-08-02"
+    },
+    {
+      "headline": "US pauses planned military strikes on Iran after regional leaders intervene",
+      "summary": "President Donald Trump canceled a planned military attack against Iranian energy targets after Middle Eastern countries asked for time to negotiate. The proposed deal focuses on fully reopening the Strait of Hormuz and curbing Iran's nuclear activities.",
+      "why": "This halts a sharp military escalation and potential widespread war in the Middle East that threatened global energy markets.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us pauses planned military strikes on iran after regional leaders",
+      "date": "2026-08-02"
     }
   ]
 }
