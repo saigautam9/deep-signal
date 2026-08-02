@@ -3499,6 +3499,56 @@
       "mode": "morning",
       "fp": "european heatwave forces hungary to plan nuclear plant shutdown",
       "date": "2026-08-02"
+    },
+    {
+      "headline": "Ukraine Runs Out of Key Air Defense Missiles",
+      "summary": "Russia launched a heavy barrage of missiles and drones at Kyiv, killing ten people. Ukrainian leaders warned that their military has exhausted its supply of Patriot interceptor missiles. Without fresh shipments, major cities and energy grids are left completely vulnerable to attacks.",
+      "why": "Without air defense shields, civilians and critical power networks are left exposed to daily bombardment.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine runs out of key air defense missiles",
+      "date": "2026-08-02"
+    },
+    {
+      "headline": "US-Iran Tensions Spike Over Vital Oil Trade Route",
+      "summary": "President Trump paused planned military strikes against Iran, claiming a deal was near to reopen the Strait of Hormuz. However, Iranian leaders rejected his claim as a lie and kept their forces on high alert. The ongoing standoff leaves a crucial global trade lane locked down.",
+      "why": "When this narrow waterway gets blocked, global oil supplies drop and fuel prices jump for everyone.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us iran tensions spike over vital oil trade route",
+      "date": "2026-08-02"
+    },
+    {
+      "headline": "Global Weather Agency Warns of Intense El Ni\u00f1o",
+      "summary": "The World Meteorological Organization warned that a strong El Ni\u00f1o pattern is rapidly building up in the Pacific Ocean. It will drive extreme heatwaves, severe droughts, and heavy floods across much of the globe over the coming months.",
+      "why": "Wild weather ruins harvests and drives up grocery bills, making basic food harder to afford worldwide.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global weather agency warns of intense el ni o",
+      "date": "2026-08-02"
+    },
+    {
+      "headline": "Border Surges Trigger Travel Restrictions Across Europe",
+      "summary": "Deadly migrant clashes at Spanish enclaves in North Africa have pushed several European nations to panic. Italy suspended its open-border travel agreement with Spain and brought back physical border checks.",
+      "why": "Closing open borders inside Europe disrupts trade, travel, and trust between neighboring nations like locking gates between connected backyards.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "border surges trigger travel restrictions across europe",
+      "date": "2026-08-02"
+    },
+    {
+      "headline": "EU Law Forcing Clear Labels on AI Content Takes Effect",
+      "summary": "New European Union regulations took effect today, requiring tech companies to clearly label artificial intelligence content. Any synthetic images, audio, or text must now carry transparent tags so people know when they are looking at AI work.",
+      "why": "It draws a clear line between human creations and machine fakes, setting a global benchmark for digital honesty.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "eu law forcing clear labels on ai content takes effect",
+      "date": "2026-08-02"
     }
   ]
 }
