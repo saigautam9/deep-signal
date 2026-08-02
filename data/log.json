@@ -3449,6 +3449,56 @@
       "mode": "monitor",
       "fp": "us pauses planned military strikes on iran after regional leaders",
       "date": "2026-08-02"
+    },
+    {
+      "headline": "Ukraine Strikes Deep in Russia as Nuclear Plant Loses Power",
+      "summary": "Long-range Ukrainian drones hit three oil refineries nearly a thousand miles inside Russia, aiming to starve Moscow's military of fuel. Meanwhile, the Russian-occupied Zaporizhzhia nuclear plant briefly lost its main external power line again, forcing emergency measures to keep reactors safe.",
+      "why": "Taking out distant fuel hubs drains Russia's war engine, but ongoing power cuts at the nuclear plant raise dangerous radiation risks for Europe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ukraine strikes deep in russia as nuclear plant loses power",
+      "date": "2026-08-02"
+    },
+    {
+      "headline": "US Holds Off Iran Strikes to Pursue Hormuz Deal",
+      "summary": "President Trump canceled planned military attacks on Iranian energy sites, saying both sides agreed to basic terms for a peace deal. The proposed agreement aims to reopen the Strait of Hormuz shipping route and halt Iran's nuclear work after regional leaders pushed for diplomatic talks.",
+      "why": "Keeping the Strait of Hormuz open prevents a sudden spike in world fuel prices and stops a massive regional war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us holds off iran strikes to pursue hormuz deal",
+      "date": "2026-08-02"
+    },
+    {
+      "headline": "Gaza Peace Plan Pushed as Deadly Fighting Continues",
+      "summary": "The US unveiled a new 15-point proposal to disarm Hamas and secure a lasting ceasefire in Gaza. However, Israeli air strikes killed at least eight people on Sunday as negotiators continue to argue over troop withdrawals and disarmament terms.",
+      "why": "Millions of trapped civilians remain at risk while world powers struggle to turn a paper proposal into actual safety on the ground.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "gaza peace plan pushed as deadly fighting continues",
+      "date": "2026-08-02"
+    },
+    {
+      "headline": "Deadly Bomb Attack Strikes Restaurant in Heart of Moscow",
+      "summary": "A bomb carried by a woman exploded outside a fine-dining restaurant in central Moscow, killing three people and injuring more than twenty. The blast happened right outside a skyscraper where a Russian military official was reportedly attending a party.",
+      "why": "Bringing violence directly into the capital shows that security is breaking down on the Russian home front as conflict spreads beyond the battlefield.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "deadly bomb attack strikes restaurant in heart of moscow",
+      "date": "2026-08-02"
+    },
+    {
+      "headline": "European Heatwave Forces Hungary to Plan Nuclear Plant Shutdown",
+      "summary": "Severe heat and drought have caused river levels across Europe to drop drastically. Hungary announced plans to temporarily turn off its main nuclear power plant because the Danube River is now too low to safely cool the reactors.",
+      "why": "Extreme weather is directly threatening major power plants, proving that climate shocks can quickly turn into regional energy blackouts.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "european heatwave forces hungary to plan nuclear plant shutdown",
+      "date": "2026-08-02"
     }
   ]
 }
