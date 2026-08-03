@@ -3549,6 +3549,56 @@
       "mode": "evening",
       "fp": "eu law forcing clear labels on ai content takes effect",
       "date": "2026-08-02"
+    },
+    {
+      "headline": "Severe Wildfires Ravage Southern Europe and Western U.S.",
+      "summary": "Record summer heatwaves continue to feed destructive wildfires across Greece, France, Spain, and the U.S. Pacific Northwest. The blazes have forced mass evacuations and claimed lives, including two pilots killed in a helicopter crash during firefighting efforts in Greece.",
+      "why": "Escalating extreme weather events are overwhelming emergency services and inflicting mounting economic and human costs across continents.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "severe wildfires ravage southern europe and western u s",
+      "date": "2026-08-03"
+    },
+    {
+      "headline": "U.S. and Iran Edge Toward Negotiations Over Gulf Crisis",
+      "summary": "President Donald Trump called off planned air strikes on Iran after regional allies urged a diplomatic resolution. Meanwhile, Iranian officials are holding talks with Oman to manage shipping through the vital Strait of Hormuz.",
+      "why": "Keeping the Strait open and avoiding direct war prevents a global energy crisis and protects world trade.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "u s and iran edge toward negotiations over gulf crisis",
+      "date": "2026-08-03"
+    },
+    {
+      "headline": "U.S. Senate Moves to Block Executive Control Over Science Funding",
+      "summary": "Senate leaders inserted a bipartisan spending provision to prevent political appointees from vetoing federal research grants. The White House had sought to review scientific and medical grants to ensure they align with administration priorities.",
+      "why": "Keeping political appointees out of grant selection protects billions in funding for objective scientific and health research.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "u s senate moves to block executive control over science",
+      "date": "2026-08-03"
+    },
+    {
+      "headline": "Border Chaos in Spain's Ceuta Triggers European Migration Clash",
+      "summary": "Thousands of migrants attempted to enter Spain's North African territory of Ceuta from Morocco, leading Spain to deploy floating maritime barriers and boost security. Spanish leaders publicly criticized other European nations for failing to share the burden of the growing emergency.",
+      "why": "The surge highlights growing border pressures that threaten to split the European Union on humanitarian and security policies.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "border chaos in spain s ceuta triggers european migration clash",
+      "date": "2026-08-03"
+    },
+    {
+      "headline": "Myanmar Junta Permits Rare Meeting with Aung San Suu Kyi",
+      "summary": "Myanmar's military government allowed ousted leader Aung San Suu Kyi to meet with an official from the International Red Cross. Photos from the visit mark her first confirmed contact with an international representative since being imprisoned following the 2021 military coup.",
+      "why": "This small crack in the junta's isolation offers diplomatic leverage to regional leaders seeking an end to Myanmar's civil conflict.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "myanmar junta permits rare meeting with aung san suu kyi",
+      "date": "2026-08-03"
     }
   ]
 }
