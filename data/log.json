@@ -3649,6 +3649,56 @@
       "mode": "evening",
       "fp": "ukrainian strikes push russian oil refining to historic lows",
       "date": "2026-08-03"
+    },
+    {
+      "headline": "Record Heatwave and Wildfires Trigger Agricultural Crisis Across Europe",
+      "summary": "Blistering heatwaves and unchecked wildfires are battering Europe, forcing farmers in Britain to abandon failing crops and Romanian factories to halt production to save power. In Switzerland, the military is airlifting water to mountain farms as alpine pastures dry up. Firefighters across Greece and France continue fighting stubborn blazes driven by strong winds.",
+      "why": "Severe weather is directly damaging food harvests and straining power grids, hitting households through higher living costs and food shortages.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "record heatwave and wildfires trigger agricultural crisis across europe",
+      "date": "2026-08-04"
+    },
+    {
+      "headline": "Congo Battles Its Largest Ebola Outbreak in History",
+      "summary": "The Democratic Republic of the Congo is facing its worst-ever Ebola outbreak, with cases surging past 3,600 and over 1,500 reported deaths. Health organizations are opening emergency treatment centers in eastern provinces to contain the fast-moving virus. The crisis is made worse because ongoing local conflict makes medical aid hard to deliver safely.",
+      "why": "A dangerous virus spreading unchecked in a war-torn region threatens millions of vulnerable people and risks spilling across international borders.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "congo battles its largest ebola outbreak in history",
+      "date": "2026-08-04"
+    },
+    {
+      "headline": "US and Iran Push for Deal to Reopen Strategic Strait of Hormuz",
+      "summary": "The US and Iran are holding tense negotiations through Oman to reopen the Strait of Hormuz after months of military escalation. Under the proposed plan, Iran and Oman would manage split shipping lanes and collect transit fees from passing cargo ships. The talks come as global markets watch closely, with Washington threatening further military action if an agreement fails.",
+      "why": "This narrow sea passage controls a massive chunk of the world's oil, so any disruption directly drives up fuel and food prices for everyone.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us and iran push for deal to reopen strategic strait",
+      "date": "2026-08-04"
+    },
+    {
+      "headline": "Sudden Migration Surge into Spanish Enclave Triggers EU Security Talks",
+      "summary": "Tens of thousands of migrants crossed into the Spanish North African enclave of Ceuta, creating an immediate humanitarian crisis. Dozens of people lost their lives during the dangerous border crossings, prompting emergency calls for action from European leaders. The European Union is now considering stronger border enforcement and increased financial support for Morocco.",
+      "why": "The sudden crisis is straining humanitarian resources and reopening bitter political debates over how Europe handles border control and immigration.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "sudden migration surge into spanish enclave triggers eu security talks",
+      "date": "2026-08-04"
+    },
+    {
+      "headline": "Energy Shock Drives Up Global Inflation Risks and Oil Profits",
+      "summary": "Middle East tensions have driven global oil prices higher, resulting in windfall profits for major energy companies like BP and Saudi Aramco. However, central banks warn that persistent energy price hikes could reignite global inflation. Household budgets worldwide are taking the hit as transportation and heating costs rise.",
+      "why": "When fuel prices stay high, the cost of making and moving almost every everyday product goes up with it.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "energy shock drives up global inflation risks and oil profits",
+      "date": "2026-08-04"
     }
   ]
 }
