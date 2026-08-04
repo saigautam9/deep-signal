@@ -3699,6 +3699,56 @@
       "mode": "afternoon",
       "fp": "energy shock drives up global inflation risks and oil profits",
       "date": "2026-08-04"
+    },
+    {
+      "headline": "Extreme Heat, Wildfires, and Drought Stall Trade and Homes",
+      "summary": "Wildfires continue to burn across Western North America and Europe, destroying homes and forcing thousands to evacuate. At the same time, severe drought has shrunk major waterways like Europe's Rhine River, preventing cargo ships from moving goods. The combined weather extremes are hitting both local communities and international shipping lanes hard.",
+      "why": "Extreme climate events act as physical roadblocks to modern life, destroying property and cutting off vital supply routes.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "extreme heat wildfires and drought stall trade and homes",
+      "date": "2026-08-04"
+    },
+    {
+      "headline": "US and Iran Near Deal to Reopen Crucial Strait of Hormuz",
+      "summary": "The US and Iran are closing in on a deal to reopen the Strait of Hormuz after weeks of conflict threatened to cut off global oil shipments. President Trump held off on planned military strikes while mediators set up a shared shipping route through the waterway. Oil prices dropped over 5% as news of the diplomatic breakthrough eased fears of a wider war.",
+      "why": "Keeping this vital sea lane open prevents global fuel shortages and protects everyday consumers from skyrocketing energy bills.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "us and iran near deal to reopen crucial strait of",
+      "date": "2026-08-04"
+    },
+    {
+      "headline": "US Steps In to Stop Rapid Collapse of Japanese Yen",
+      "summary": "The US Treasury made a rare move by joining Japan to directly buy up the yen and stabilize the falling currency. Financial leaders feared that if the yen kept plummeting, it could trigger a dangerous chain reaction in global financial markets. Officials pledged to do whatever it takes to keep the currency stable.",
+      "why": "When giant economies step in to save a falling currency, they are preventing financial panics that could shake global banking systems.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us steps in to stop rapid collapse of japanese yen",
+      "date": "2026-08-04"
+    },
+    {
+      "headline": "Cuba Suffers Another Total Grid Collapse, Plunging Millions Into Darkness",
+      "summary": "Cuba's national electrical grid failed entirely again, leaving millions of people across the island without power, air conditioning, or running water. Severe fuel shortages and crumbling, decades-old power plants have made blackouts a recurring nightmare. Government crews are working in phases to restore basic electricity, but resources remain dangerously low.",
+      "why": "Repeated total power failures turn daily life into an emergency, cutting off hospitals, refrigeration, and basic human needs.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "cuba suffers another total grid collapse plunging millions into darkness",
+      "date": "2026-08-04"
+    },
+    {
+      "headline": "Global Trade Restrictions Reach All-Time Record High",
+      "summary": "New global data reveals that countries are slapping new tariffs, trade bans, and subsidies on goods at the highest rate ever recorded. World leaders are increasingly turning inward to protect domestic industries, creating friction even between close trading partners. This protectionist shift is making shipping goods across borders far more complicated and costly.",
+      "why": "Trade barriers act like a blanket tax on global shopping, quietly driving up the price of everything from groceries to electronics.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "global trade restrictions reach all time record high",
+      "date": "2026-08-04"
     }
   ]
 }
