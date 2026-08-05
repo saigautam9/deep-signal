@@ -3749,6 +3749,56 @@
       "mode": "evening",
       "fp": "global trade restrictions reach all time record high",
       "date": "2026-08-04"
+    },
+    {
+      "headline": "US and Iran negotiate to reopen critical oil shipping lane",
+      "summary": "The US and Iran are holding talks in Oman to reopen the Strait of Hormuz after five months of military conflict. President Trump warned of heavy strikes if negotiations fail, though reports indicate US military stockpiles of long-range missiles are heavily drained. A deal could come within days to restore international shipping through the Persian Gulf.",
+      "why": "Unlocking the strait is essential to stabilizing global energy markets and preventing a broader economic shock.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran negotiate to reopen critical oil shipping lane",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "US prepares 50% tariffs on $20 billion in Canadian imports",
+      "summary": "The US government announced plans to levy 50% tariffs on nearly $20 billion worth of Canadian products starting in mid-August. The sweeping tariffs target sectors ranging from apparel to industrial building materials. Canadian business leaders are warning of severe disruptions to cross-border commerce.",
+      "why": "The massive tax hike threatens to strain North American supply chains and drive up consumer prices across the continent.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us prepares 50 tariffs on 20 billion in canadian imports",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "Secret European diplomatic talks explore end to Ukraine war",
+      "summary": "Former senior officials from France, Germany, Britain, and Russia met privately in Vienna to outline potential terms for ending the war in Ukraine. The informal diplomatic push comes as Western nations face mounting pressures over military inventory shortages. While unofficial, the talks mark a rare effort to build a framework for peace.",
+      "why": "It offers a rare diplomatic opening that could eventually lay the groundwork to end Europe's deadliest conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "secret european diplomatic talks explore end to ukraine war",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "China retaliates against US with drone export bans and sanctions",
+      "summary": "China announced new economic penalties against the US, including export restrictions on drones and sanctions on six American entities. The retaliatory action follows US bans on Chinese drone imports and fresh supply chain restrictions. The dispute comes ahead of a planned summit between US and Chinese leaders next month.",
+      "why": "This escalation directly impacts tech supply chains and deepens economic conflict between the world's two largest economies.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "china retaliates against us with drone export bans and sanctions",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "DRC and Uganda launch joint border effort to halt Ebola spread",
+      "summary": "Health officials in the Democratic Republic of the Congo and Uganda deployed mobile testing laboratories along their shared border to fight an emerging Ebola outbreak. The rapid-response units allow local medical teams to diagnose cases within hours at busy transit hubs. Authorities hope the joint push will cut off transmission routes quickly.",
+      "why": "Fast cross-border containment is essential to stopping a dangerous virus from expanding into a wider regional health emergency.",
+      "domain": "Health",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "drc and uganda launch joint border effort to halt ebola",
+      "date": "2026-08-05"
     }
   ]
 }
