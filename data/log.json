@@ -3799,6 +3799,56 @@
       "mode": "morning",
       "fp": "drc and uganda launch joint border effort to halt ebola",
       "date": "2026-08-05"
+    },
+    {
+      "headline": "High-Stakes Talks Aim to Reopen the Strait of Hormuz",
+      "summary": "Negotiators from the U.S., Qatar, and Oman are working on a deal to reopen the Strait of Hormuz and halt military strikes between the U.S. and Iran. The draft agreement suggests letting Iran inspect incoming ships in exchange for stopping attacks, while reports reveal the U.S. has nearly exhausted its stockpiles of long-range precision missiles.",
+      "why": "Unblocking this narrow waterway is essential for keeping global oil supplies flowing and preventing a worldwide economic crisis.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "high stakes talks aim to reopen the strait of hormuz",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "Massive Russian Air Strikes Hit Kyiv Region",
+      "summary": "A barrage of Russian missiles and drones hit Ukraine's capital region overnight, killing at least 17 people and injuring dozens more. The strikes destroyed major food and postal supply warehouses, prompting fresh calls from Ukrainian leaders for advanced Western air defense systems.",
+      "why": "The attacks expose Ukraine's dangerous air defense shortages and threaten key supply lines for millions of civilians.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "massive russian air strikes hit kyiv region",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "Record-Breaking Heat Waves Blast Japan and the Korean Peninsula",
+      "summary": "Extreme heat is pounding East Asia, pushing temperatures to record highs and triggering widespread health warnings across Japan and South Korea. Millions of people are blasting air conditioners, placing immense pressure on local power networks and threatening livestock and farming.",
+      "why": "Severe climate conditions pose direct health risks to millions while threatening energy grids and agricultural food security.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "record breaking heat waves blast japan and the korean peninsula",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "Mediators Push Demilitarization Framework in Gaza Peace Talks",
+      "summary": "International diplomats are trying to cement a ceasefire framework for Gaza that involves disarming militant groups and stopping Israeli strikes. Despite ongoing negotiations, occasional strikes and disagreements over long-term security terms continue to hinder a final peace deal.",
+      "why": "Securing a lasting agreement is the primary route to ending civilian suffering and preventing broader violence across the Middle East.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "mediators push demilitarization framework in gaza peace talks",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "U.S. Prepares Ban on Chinese Data Center Devices and Robotics",
+      "summary": "The U.S. government is drafting new rules to ban Chinese-made data center hardware and imported humanoid robots over national security concerns. The planned restrictions represent another major escalation in the economic and technology friction between Washington and Beijing.",
+      "why": "Splitting global tech supply chains will drive up costs for cutting-edge technology and shape how artificial intelligence develops worldwide.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "u s prepares ban on chinese data center devices and",
+      "date": "2026-08-05"
     }
   ]
 }
