@@ -3849,6 +3849,56 @@
       "mode": "afternoon",
       "fp": "u s prepares ban on chinese data center devices and",
       "date": "2026-08-05"
+    },
+    {
+      "headline": "US and Iran Near Deal to Reopen Crucial Oil Route",
+      "summary": "Talks mediated by Oman are close to reopening the Strait of Hormuz, the narrow sea passage where much of the world's oil travels [1.4.8]. The proposed agreement gives Iran more control over incoming ships to end five months of war. Meanwhile, reports show the US military is running low on long-range defense missiles after heavy fighting.",
+      "why": "Opening this sea lane stops energy prices from soaring and could prevent a wider global economic crash.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran near deal to reopen crucial oil route",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "Record Wildfires Cause Havoc Across Europe and North America",
+      "summary": "Severe heat and drought have sparked record-breaking wildfires across Spain and France, burning areas larger than major cities and creating dangerous smoke storms. In North America, mega-fires have charred over two million acres, pushing air quality in major cities to hazardous levels. Tens of thousands of families have been forced to evacuate their homes.",
+      "why": "Supercharged climate disasters are overwhelming fire services and making whole regions temporarily unlivable.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "record wildfires cause havoc across europe and north america",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "Explosive Drone Found Near Ukrainian Plane at German Airport",
+      "summary": "German counter-terrorism police are investigating after an explosive-laden drone was spotted right next to a Ukrainian cargo plane at Leipzig Airport. NATO has raised its security alert while European leaders hold emergency meetings. This incident comes right as Russian air attacks intensify across Ukraine.",
+      "why": "A bomb attempt on German soil brings the war dangerously close to pulling NATO directly into the conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "explosive drone found near ukrainian plane at german airport",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "UN Warns El Ni\u00f1o Weather Will Push 49 Million Into Hunger",
+      "summary": "The UN World Food Programme warned that a strengthening El Ni\u00f1o weather pattern will drive 49 million more people into severe hunger. Millions of families across eight vulnerable nations are losing crops to extreme heat and drought. The UN is scrambling emergency aid, but humanitarian budgets are already stretched thin.",
+      "why": "Extreme weather is destroying food supplies in poor regions, threatening a massive global humanitarian crisis.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "un warns el ni o weather will push 49 million",
+      "date": "2026-08-05"
+    },
+    {
+      "headline": "US Moves to Ban Chinese Components in AI Data Centers",
+      "summary": "The US government is preparing to ban key Chinese optical parts used in high-speed artificial intelligence data centers. Officials argue the ban is necessary to stop potential digital espionage and secure vital internet infrastructure. The move creates a bigger wedge between the two countries in their race to lead the AI revolution.",
+      "why": "Splitting global technology networks makes future AI hardware more expensive and harder to build worldwide.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us moves to ban chinese components in ai data centers",
+      "date": "2026-08-05"
     }
   ]
 }
