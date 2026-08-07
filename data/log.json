@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Iran at war again as peace deal fails",
-      "summary": "The peace deal between the US and Iran has broken down. The US attacked over 100 targets in Iran, and Iran fought back at US bases and tried to block a crucial shipping route. Now they're in a fierce battle for control of the waterway.",
-      "why": "This fight is blocking the main supply of energy for the world, which could quickly make fuel prices go up very high.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us and iran at war again as peace deal fails",
-      "date": "2026-07-13"
-    },
-    {
-      "headline": "Russia bans diesel exports after drone attacks on refineries",
-      "summary": "Russia has stopped exporting diesel fuel because simple drones from Ukraine have damaged many of its oil refineries. People in Russia are now waiting in long lines for fuel, and the government is even importing fuel from India. Diesel prices in Europe have gone up to record highs because one of the world's biggest sellers is no longer selling.",
-      "why": "It shows how small, cheap drones can really hurt a powerful country's economy and make transportation more expensive for everyone.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "russia bans diesel exports after drone attacks on refineries",
-      "date": "2026-07-13"
-    },
-    {
-      "headline": "Venezuela's twin earthquakes leave thousands dead and cities ruined",
-      "summary": "Over 4,300 people have died after two huge earthquakes hit Venezuela just 39 seconds apart. The rare 'doublet' quake destroyed entire neighborhoods, and thousands of people are still missing. The UN is trying to raise money to help, but Venezuela is already struggling financially.",
-      "why": "It's the worst natural disaster in the region in over a century, causing a huge health crisis and displacing thousands of people.",
-      "domain": "Society",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "venezuela s twin earthquakes leave thousands dead and cities ruined",
-      "date": "2026-07-13"
-    },
-    {
-      "headline": "Qatar delays global gas supply increase after shipping attacks",
-      "summary": "Qatar has put on hold its plans to send more natural gas to the world after one of its ships was attacked in the Middle East. The country's main energy facility is now running at very low levels to keep workers safe. Ships are turning back rather than risk going through the dangerous waters.",
-      "why": "This delay will make it much harder and more expensive for Europe and Asia to heat their homes this winter.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "qatar delays global gas supply increase after shipping attacks",
-      "date": "2026-07-13"
-    },
-    {
-      "headline": "Severe El Ni\u00f1o weather threatens global food price surge",
-      "summary": "Weather experts warn that a severe El Ni\u00f1o cycle could cause a global food crisis that lasts for years. Extreme heat is already causing huge wildfires in Canada and Spain, and droughts are damaging crops. If this continues, the cost of basic groceries could go up worldwide.",
-      "why": "It means families everywhere will feel the pinch at the supermarket, while poorer countries could face severe food shortages.",
-      "domain": "Climate",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "severe el ni o weather threatens global food price surge",
-      "date": "2026-07-13"
-    },
-    {
       "headline": "U.S. and Iran Exchange Heavy Airstrikes and Retaliatory Missile Attacks Across the Persian Gulf",
       "summary": "The U.S. military launched a fresh wave of precision airstrikes on dozens of Iranian military targets, aiming to keep the Strait of Hormuz open. In direct retaliation, Iran's Islamic Revolutionary Guard Corps (IRGC) fired missiles and drones targeting U.S. military bases in Kuwait, Bahrain, and Jordan. The strikes prompted air raid sirens in Bahrain, led Jordan to shoot down four incoming missiles, and forced Kuwait's military to engage hostile targets in its airspace. This major military escalation marks a near-total collapse of the tentative June ceasefire.",
       "why": "This is a major military escalation and direct combat between U.S. and Iranian forces that has expanded into a wider regional conflict. It directly threatens global energy security through the declared closure of the Strait of Hormuz, a vital maritime chokepoint for the world's oil and gas supply.",
@@ -3998,6 +3948,56 @@
       "severity": "HIGH",
       "mode": "evening",
       "fp": "mass border surge creates humanitarian crisis in spanish enclave",
+      "date": "2026-08-07"
+    },
+    {
+      "headline": "Gaza Peace Efforts Wobble as Regional Strikes Resume",
+      "summary": "A proposed peace plan to end fighting in Gaza is hitting major roadblocks after fresh Israeli military strikes in Gaza and southern Lebanon. Meanwhile, rebel attacks in Yemen show how quickly regional violence can reignite.",
+      "why": "Millions of lives hang in the balance, and renewed fighting risks sparking wider conflicts that could choke global trade routes.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "gaza peace efforts wobble as regional strikes resume",
+      "date": "2026-08-07"
+    },
+    {
+      "headline": "Record Wildfires and Extreme Heat Scorch Southern Europe",
+      "summary": "Unprecedented heatwaves have triggered massive wildfires across France, Spain, Italy, and Greece, forcing hundreds of thousands of people from their homes. Scientists say climate change made these record-breaking blazes far more likely and destructive.",
+      "why": "It destroys local livelihoods and shows how extreme weather is hitting essential food, housing, and energy systems like a sledgehammer.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "record wildfires and extreme heat scorch southern europe",
+      "date": "2026-08-07"
+    },
+    {
+      "headline": "US Issues Executive Orders to Restrict Birthright Citizenship",
+      "summary": "The US president signed new executive orders aimed at limiting automatic citizenship for children born in the country to non-citizens. The controversial move attempts to bypass long-standing constitutional rules after recent Supreme Court decisions.",
+      "why": "Changing who gets automatic legal rights alters the lives of millions of families and resets basic rules in the world's largest economy.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us issues executive orders to restrict birthright citizenship",
+      "date": "2026-08-07"
+    },
+    {
+      "headline": "Health Agencies Sound Urgent Alarm Over Ebola Outbreak in Congo",
+      "summary": "The World Health Organization and Africa CDC are rushing emergency aid to the Democratic Republic of the Congo to contain a dangerous Ebola outbreak. Health officials are pushing for rapid testing and vaccines before the virus spreads across borders.",
+      "why": "Containing deadly virus outbreaks early is crucial to prevent global health emergencies that cost countess lives and crash economies.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "health agencies sound urgent alarm over ebola outbreak in congo",
+      "date": "2026-08-07"
+    },
+    {
+      "headline": "High Energy and Fertilizer Costs Threaten Global Food Supplies",
+      "summary": "Ongoing trade spats and shipping disruptions around the Strait of Hormuz have sent fuel and fertilizer prices soaring worldwide. International relief agencies warn these price hikes are already threatening basic crop harvests in vulnerable nations.",
+      "why": "When fertilizer costs spike, farmers grow less food, making everyday groceries harder to afford for millions of families around the globe.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "high energy and fertilizer costs threaten global food supplies",
       "date": "2026-08-07"
     }
   ]
