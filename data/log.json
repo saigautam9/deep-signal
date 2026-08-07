@@ -3949,6 +3949,56 @@
       "mode": "morning",
       "fp": "myanmar military leader visits thailand seeking international recognition",
       "date": "2026-08-06"
+    },
+    {
+      "headline": "US and China trade fresh economic punches with new tariffs",
+      "summary": "The United States has put broad new import taxes into effect, triggering a fast response from China with its own retaliatory tariffs. Businesses and stock markets are feeling the pressure as both nations raise the cost of importing goods. Experts warn this back-and-forth could disrupt global electronics and manufacturing supply chains.",
+      "why": "When major nations raise taxes on trade, everyday products and food get more expensive for families everywhere.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and china trade fresh economic punches with new tariffs",
+      "date": "2026-08-07"
+    },
+    {
+      "headline": "Extreme weather and wildfires force thousands to flee homes",
+      "summary": "Massive wildfires in the northwestern US have forced over 60,000 people to evacuate as extreme heat sparks fast-moving blazes. At the same time, heavy monsoon downpours in Asia caused deadly landslides that swept through vulnerable refugee settlements. Emergency crews in both regions are working around the clock to save lives and restore power.",
+      "why": "Severe climate events are increasingly displacing entire communities and putting massive financial strains on local economies.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "extreme weather and wildfires force thousands to flee homes",
+      "date": "2026-08-07"
+    },
+    {
+      "headline": "Deal near to reopen vital Middle East oil route",
+      "summary": "Iran and Oman are close to an agreement to reopen the Strait of Hormuz. The narrow ocean passage was locked down during recent conflict, cutting off major fuel shipments around the globe. Under the proposed plan, Oman would help manage ship traffic so oil tankers can sail safely again.",
+      "why": "This single narrow channel carries 20 percent of the world's oil, so reopening it will help lower global fuel costs for everyone.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "deal near to reopen vital middle east oil route",
+      "date": "2026-08-07"
+    },
+    {
+      "headline": "Health teams race to stop Ebola outbreak in Central Africa",
+      "summary": "The World Health Organization and Africa CDC are rushing emergency aid to the Democratic Republic of the Congo to tackle an Ebola outbreak. Nearby Uganda successfully stopped its own outbreak last week, showing quick contact tracing works. Health leaders are now focusing on protecting local doctors and delivering vaccines to high-risk areas.",
+      "why": "Stopping a deadly virus early keeps a local emergency from turning into a worldwide pandemic.",
+      "domain": "Health",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "health teams race to stop ebola outbreak in central africa",
+      "date": "2026-08-07"
+    },
+    {
+      "headline": "Mass border surge creates humanitarian crisis in Spanish enclave",
+      "summary": "Thousands of migrants recently crossed into Ceuta, a tiny Spanish territory on the coast of North Africa. Local shelters quickly overflowed, prompting European Union leaders to reconsider how they handle border security with neighboring countries. Aid workers are now scrambling to provide food, medical care, and temporary housing to those stranded.",
+      "why": "This sudden surge highlights how deeply global migration movements are testing infrastructure and political unity in Europe.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "mass border surge creates humanitarian crisis in spanish enclave",
+      "date": "2026-08-07"
     }
   ]
 }
