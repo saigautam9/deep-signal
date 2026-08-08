@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Iran in tense standoff over Strait of Hormuz",
-      "summary": "The US and Iran are in a heated argument over a vital waterway called the Strait of Hormuz. This route is crucial because a fifth of the world's oil passes through it. The US has threatened to block Iranian ships and charge other ships a fee for safety. Iran responded by attacking US military bases in nearby countries. This escalation has halted peace talks, raising fears of a full-scale war.",
-      "why": "If this waterway closes, it's like blocking a major blood vessel for global energy. This would cause fuel and shipping prices to skyrocket worldwide.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us and iran in tense standoff over strait of hormuz",
-      "date": "2026-07-13"
-    },
-    {
       "headline": "Venezuela's earthquake crisis turns into survival struggle",
       "summary": "Three weeks after massive earthquakes hit northern Venezuela, over 4,300 people have died and tens of thousands are still missing. The disaster caused $37 billion in damage, leaving millions without clean water, power, or food. The country's economy was already struggling, and the government is overwhelmed and unable to lead recovery efforts.",
       "why": "This is a huge humanitarian disaster that will likely force millions more people to flee Venezuela, changing the regional refugee crisis.",
@@ -3998,6 +3988,16 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "turkey saudi arabia and pakistan sign major mutual defense pact",
+      "date": "2026-08-08"
+    },
+    {
+      "headline": "Saudi Arabia, Turkey, and Pakistan Sign NATO-Style Mutual Defense Pact",
+      "summary": "Saudi Arabia, Turkey, and Pakistan have signed a major agreement called the Makkah Joint Defense Agreement [2.2.8]. Under the pact, an armed attack on any single country will be treated as an attack on all three. The agreement commits the three nations to joint defense cooperation, intelligence sharing, and mutual deterrence.",
+      "why": "This is a massive realignment in global security. It creates a powerful military alliance combining a nuclear-armed state (Pakistan), NATO's second-largest standing army (Turkey), and a dominant regional power (Saudi Arabia).",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "saudi arabia turkey and pakistan sign nato style mutual defense",
       "date": "2026-08-08"
     }
   ]
