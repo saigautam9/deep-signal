@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "U.S. Reinstates Iran Naval Blockade and Imposes Strait of Hormuz Cargo Toll Amid Massive Military Escalation",
-      "summary": "Following the collapse of a shaky ceasefire, President Donald Trump announced that the U.S. is reimposing a naval blockade on Iranian ports and will charge a 20% toll on all other cargo transiting the Strait of Hormuz to cover American security costs. This follows a weekend of heavy fighting, featuring U.S. strikes against dozens of Iranian targets\u2014including the first combat use of American sea drones\u2014and retaliatory Iranian strikes targeting U.S. bases and allies in Jordan, Bahrain, Kuwait, Qatar, and Oman.",
-      "why": "The Strait of Hormuz is a vital global trade choke point handling a fifth of the world's oil and gas. Reinstating a blockade, imposing an unprecedented unilateral maritime toll, and entering a direct multi-front hot war between the U.S. and Iran marks a major military escalation with severe consequences for global energy markets and international security.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s reinstates iran naval blockade and imposes strait of",
-      "date": "2026-07-13"
-    },
-    {
       "headline": "US and Iran in tense standoff over Strait of Hormuz",
       "summary": "The US and Iran are in a heated argument over a vital waterway called the Strait of Hormuz. This route is crucial because a fifth of the world's oil passes through it. The US has threatened to block Iranian ships and charge other ships a fee for safety. Iran responded by attacking US military bases in nearby countries. This escalation has halted peace talks, raising fears of a full-scale war.",
       "why": "If this waterway closes, it's like blocking a major blood vessel for global energy. This would cause fuel and shipping prices to skyrocket worldwide.",
@@ -3998,6 +3988,16 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "saudi arabia turkey and pakistan sign mutual defense pact",
+      "date": "2026-08-08"
+    },
+    {
+      "headline": "Turkey, Saudi Arabia, and Pakistan Sign Major Mutual Defense Pact",
+      "summary": "Turkey, Saudi Arabia, and Pakistan signed the Makkah Joint Defense Agreement [1.1.9]. Under this deal, an attack on any one country is treated as an attack on all three. It brings together a NATO member, a major Gulf power, and a nuclear-armed nation into a shared defense shield.",
+      "why": "This is a major military policy shift and geopolitical development. Creating a NATO-style 'attack one, attack all' alliance among these three heavyweights alters the regional security balance across the Middle East and South Asia.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "turkey saudi arabia and pakistan sign major mutual defense pact",
       "date": "2026-08-08"
     }
   ]
