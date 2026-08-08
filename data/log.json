@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Typhoon Bavi hits eastern China, forcing millions to evacuate",
-      "summary": "Bavi hit China's coast as a strong storm, bringing strong winds and floods. Officials moved over two million people to safety before it struck. The storm has caused power outages, uprooted trees, and disrupted transportation.",
-      "why": "It's the strongest storm to hit China this year, showing the huge impact of extreme weather on global manufacturing and people's lives.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "typhoon bavi hits eastern china forcing millions to evacuate",
-      "date": "2026-07-13"
-    },
-    {
-      "headline": "European heatwave causes over 10,000 deaths",
-      "summary": "A severe heatwave has caused over 10,000 deaths in Europe. Germany has reported 5,000 victims, and dry conditions have sparked wildfires in Spain. The heat is damaging roads, melting tracks, and overwhelming emergency services.",
-      "why": "This tragedy shows that even wealthy countries are struggling to cope with the deadly effects of climate change.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "european heatwave causes over 10 000 deaths",
-      "date": "2026-07-13"
-    },
-    {
-      "headline": "Philippine Vice President Sara Duterte's impeachment trial continues",
-      "summary": "The Senate trial of Vice President Sara Duterte is happening in Manila. She's accused of corruption and making threats. If found guilty, she'll lose her job and can't run again, which could change the country's politics.",
-      "why": "This trial is a big deal that could affect a major democratic country in Southeast Asia.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "philippine vice president sara duterte s impeachment trial continues",
-      "date": "2026-07-13"
-    },
-    {
-      "headline": "US Senator Lindsey Graham dies suddenly at 71",
-      "summary": "Senator Lindsey Graham passed away from a sudden heart condition after returning from a trip to Ukraine. He was a well-known voice on foreign policy and a key supporter of US aid to Ukraine and Israel.",
-      "why": "His death removes a major figure who supported US military aid to Ukraine and Israel during critical global conflicts.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "us senator lindsey graham dies suddenly at 71",
-      "date": "2026-07-13"
-    },
-    {
-      "headline": "U.S. and Iran trade heavy strikes as Strait of Hormuz conflict explodes",
-      "summary": "The uneasy peace between the U.S. and Iran has completely broken down. Over the last 24 hours, the two sides have traded massive military blows [1.2.2]. It started when Iran declared the Strait of Hormuz\u2014the world\u2019s most important choke point for oil\u2014closed. The U.S. responded with heavy airstrikes to open it back up. Iran then fired missiles and drones at U.S. bases in Kuwait, Jordan, and Bahrain. Now, oil prices are spiking, and there are major fears of a wider war.",
-      "why": "This is a direct, heavy military clash between two major powers over a global trade artery. It is not a slow-moving political spat; it is active combat that is already pulling in surrounding countries and threatening to mess up the global economy.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran trade heavy strikes as strait of",
-      "date": "2026-07-13"
-    },
-    {
       "headline": "US and Iran Exchange Massive Strikes Over Strait of Hormuz as Region Braces for War",
       "summary": "Following the collapse of a recent ceasefire, the US military launched intensive airstrikes against over 140 Iranian targets, debuting combat sea drones to strike facilities in Bandar Abbas. In immediate retaliation, Iran's Revolutionary Guard Corps (IRGC) launched missile and drone attacks targeting US military bases in Kuwait, Jordan, Bahrain, and Qatar. In response to the clashes, President Donald Trump declared a US naval blockade on Iranian shipping and announced a unilateral 20% toll on cargo crossing the Strait of Hormuz, which Iran has declared closed. The escalations have sent global oil prices surging by 5%.",
       "why": "This marks a severe and rapid military escalation between the United States and Iran, transitioning from proxy conflicts to direct, heavy exchange of fire. The active battle over the Strait of Hormuz\u2014the world's most critical maritime energy bottleneck\u2014directly threatens global energy markets and risks pulling the wider Middle East into an open, regional war.",
@@ -3998,6 +3948,56 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "t rkiye saudi arabia and pakistan sign historic mutual defense",
+      "date": "2026-08-08"
+    },
+    {
+      "headline": "Turkey, Saudi Arabia, and Pakistan form major military alliance",
+      "summary": "Turkey, Saudi Arabia, and Pakistan signed a historic joint defense agreement [1.2.4]. They pledged that an attack on any one country will be treated as an attack on all three. This brings together three major military powers across Europe, the Middle East, and South Asia.",
+      "why": "It creates a massive new military bloc that fundamentally reshapes the global balance of power.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "turkey saudi arabia and pakistan form major military alliance",
+      "date": "2026-08-08"
+    },
+    {
+      "headline": "US Senate votes to penalize countries buying Russian oil",
+      "summary": "The U.S. Senate overwhelmingly passed a strict new sanctions bill targeting Russia and Iran. The legislation seeks tariffs as high as 100% on countries like China and India that continue purchasing Russian petroleum.",
+      "why": "It risks triggering massive trade disputes and forcing major nations to drastically overhaul their energy supplies.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us senate votes to penalize countries buying russian oil",
+      "date": "2026-08-08"
+    },
+    {
+      "headline": "Diplomats race to secure the Strait of Hormuz after military clashes",
+      "summary": "Negotiators from the U.S., Qatar, and Oman are holding urgent talks with Iran to keep trade flowing through the Strait of Hormuz. Recent military strikes in the region threatened to shut down commercial shipping.",
+      "why": "Around a fifth of the world's petroleum flows through this narrow passage, so any bottleneck quickly raises energy prices worldwide.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "diplomats race to secure the strait of hormuz after military",
+      "date": "2026-08-08"
+    },
+    {
+      "headline": "Global health agencies sound alarm as Ebola outbreak spreads in DR Congo",
+      "summary": "Health officials launched an emergency appeal as a record outbreak of the Bundibugyo Ebola strain spreads in the Democratic Republic of Congo. The virus has reached crowded refugee displacement camps, prompting emergency trials for new vaccines.",
+      "why": "Failing to contain a deadly virus in vulnerable areas risks causing a broader regional health crisis.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "global health agencies sound alarm as ebola outbreak spreads in",
+      "date": "2026-08-08"
+    },
+    {
+      "headline": "Record drought across Europe cripples rivers, power grids, and shipping",
+      "summary": "A severe heatwave has drained major European rivers like the Rhine and Danube to historic lows. Hydroelectric plants have shut down, nuclear reactors are struggling to find cooling water, and cargo ships carrying fuel are stranded.",
+      "why": "It shows how extreme weather can quickly threaten power supplies and transport networks across an entire continent.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "record drought across europe cripples rivers power grids and shipping",
       "date": "2026-08-08"
     }
   ]
