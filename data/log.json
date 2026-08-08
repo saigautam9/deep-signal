@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "U.S. and Iran Exchange Heavy Airstrikes and Retaliatory Missile Attacks Across the Persian Gulf",
-      "summary": "The U.S. military launched a fresh wave of precision airstrikes on dozens of Iranian military targets, aiming to keep the Strait of Hormuz open. In direct retaliation, Iran's Islamic Revolutionary Guard Corps (IRGC) fired missiles and drones targeting U.S. military bases in Kuwait, Bahrain, and Jordan. The strikes prompted air raid sirens in Bahrain, led Jordan to shoot down four incoming missiles, and forced Kuwait's military to engage hostile targets in its airspace. This major military escalation marks a near-total collapse of the tentative June ceasefire.",
-      "why": "This is a major military escalation and direct combat between U.S. and Iranian forces that has expanded into a wider regional conflict. It directly threatens global energy security through the declared closure of the Strait of Hormuz, a vital maritime chokepoint for the world's oil and gas supply.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran exchange heavy airstrikes and retaliatory missile",
-      "date": "2026-07-13"
-    },
-    {
       "headline": "US and Iran have biggest fight in months near a key shipping route",
       "summary": "The US military attacked Iran after a cargo ship was damaged. Iran quickly fought back, targeting US bases with missiles. Iran says a crucial shipping route is closed, but the US disagrees, causing oil prices to rise.",
       "why": "This direct fight over a vital oil route could easily disrupt global energy supplies and lead to a bigger war.",
@@ -3999,6 +3989,16 @@
       "mode": "morning",
       "fp": "high energy and fertilizer costs threaten global food supplies",
       "date": "2026-08-07"
+    },
+    {
+      "headline": "Saudi Arabia, Turkey, and Pakistan Sign Trilateral Mecca Defense Pact",
+      "summary": "Saudi Arabia, Turkey, and Pakistan signed a joint defense agreement in Mecca. The deal works like NATO's rules: if someone attacks one country, all three promise to respond together.",
+      "why": "This creates a huge new military alliance in the Middle East. It brings nuclear-armed Pakistan and NATO member Turkey directly into a shared defense system with Saudi Arabia during the ongoing regional conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "saudi arabia turkey and pakistan sign trilateral mecca defense pact",
+      "date": "2026-08-08"
     }
   ]
 }
