@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Iran have biggest fight in months near a key shipping route",
-      "summary": "The US military attacked Iran after a cargo ship was damaged. Iran quickly fought back, targeting US bases with missiles. Iran says a crucial shipping route is closed, but the US disagrees, causing oil prices to rise.",
-      "why": "This direct fight over a vital oil route could easily disrupt global energy supplies and lead to a bigger war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us and iran have biggest fight in months near a",
-      "date": "2026-07-13"
-    },
-    {
       "headline": "Typhoon Bavi hits eastern China, forcing millions to evacuate",
       "summary": "Bavi hit China's coast as a strong storm, bringing strong winds and floods. Officials moved over two million people to safety before it struck. The storm has caused power outages, uprooted trees, and disrupted transportation.",
       "why": "It's the strongest storm to hit China this year, showing the huge impact of extreme weather on global manufacturing and people's lives.",
@@ -3998,6 +3988,16 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "saudi arabia turkey and pakistan sign trilateral mecca defense pact",
+      "date": "2026-08-08"
+    },
+    {
+      "headline": "T\u00fcrkiye, Saudi Arabia, and Pakistan Sign Historic Mutual Defense Pact",
+      "summary": "T\u00fcrkiye, Saudi Arabia, and Pakistan signed a major security treaty called the Makkah Joint Defense Agreement. The agreement states that an armed attack on any one of the three nations will be considered an attack on all of them.",
+      "why": "This creates a brand-new mutual defense alliance linking a NATO member (T\u00fcrkiye), a nuclear-armed country (Pakistan), and a major Gulf state (Saudi Arabia), fundamentally shifting the military balance and regional security landscape.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "t rkiye saudi arabia and pakistan sign historic mutual defense",
       "date": "2026-08-08"
     }
   ]
