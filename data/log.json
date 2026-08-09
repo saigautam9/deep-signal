@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "U.S. and Iran Exchange Heavy Strikes as Trump Orders Naval Blockade on Iranian Ports",
-      "summary": "A short-lived peace deal between the US and Iran has totally collapsed. The US military is launching a third straight night of heavy airstrikes on Iran. President Trump just announced a full naval blockade on Iranian ports starting Tuesday, and he wants to charge a 20% toll on ships using the Strait of Hormuz. Iran has fired back with missiles and drones hitting US bases and allies in Bahrain, Jordan, and Kuwait.",
-      "why": "This is a massive military escalation. The Strait of Hormuz is like the world's main oil artery\u2014about a fifth of the world's oil goes through it. A direct war and a US blockade here could choke global trade and send energy prices through the roof.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran exchange heavy strikes as trump orders",
-      "date": "2026-07-13"
-    },
-    {
       "headline": "US Strikes Iran for Third Night and Reinstates Blockade as Tanker Attacks in Strait of Hormuz Kill Sailor",
       "summary": "The US military has launched a third consecutive night of airstrikes against Iran, while President Trump has ordered a naval blockade on all Iranian ports. In retaliation, Iran used cruise missiles to strike two Emirati oil tankers in the Strait of Hormuz, killing an Indian sailor and injuring eight others. This dramatic escalation has caused global oil prices to jump sharply.",
       "why": "This is a major military escalation that marks the resumption of the US-Iran war. By cutting off the Strait of Hormuz and launching direct strikes, both sides are threatening the world's most vital energy chokepoint, which could trigger a global energy crisis and a much larger regional war.",
@@ -3999,6 +3989,16 @@
       "mode": "evening",
       "fp": "new leadership assumes control at the u s department of",
       "date": "2026-08-08"
+    },
+    {
+      "headline": "British Columbia Declares Emergency as Fast-Moving Wildfire Forces 20,000 People to Flee",
+      "summary": "A fast-moving wildfire blew up overnight near Okanagan Lake in Canada, burning down homes and trapping residents. Over 20,000 people had to run for safety, and search teams used helicopters to rescue families cut off by the flames.",
+      "why": "This is a major natural disaster unfolding right now. The fire moved so fast it created its own weather system, destroyed neighborhoods, and forced officials to declare a province-wide emergency to coordinate mass rescues.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "british columbia declares emergency as fast moving wildfire forces 20",
+      "date": "2026-08-09"
     }
   ]
 }
