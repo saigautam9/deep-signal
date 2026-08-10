@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Heat Waves and Wildfires Are Getting Worse",
-      "summary": "Very hot weather is causing records to be broken, starting huge wildfires, and killing over 10,000 people in Europe and North America. Wildfires are getting close to Paris, burning in Spain, and are out of control in the U.S. and Canada. The heat is also hurting crops, which means Europe won't have as much grain as usual.",
-      "why": "The heat and fires are directly threatening people's lives, straining power grids, and putting the world's food supply at risk.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "heat waves and wildfires are getting worse",
-      "date": "2026-07-14"
-    },
-    {
       "headline": "Ukraine Teams Up with Europe for Missile Defense",
       "summary": "Ukrainian President Volodymyr Zelenskyy announced a new partnership with nine European countries to build a shared missile defense system. This comes as Ukraine is struggling with a shortage of expensive Western air defense missiles because of constant Russian attacks.",
       "why": "This move helps Ukraine have a permanent defense system with its European neighbors, which could help with security after the war.",
@@ -3998,6 +3988,16 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "major 7 4 magnitude earthquake strikes western colombia killing dozens",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "Powerful 7.4-magnitude earthquake strikes western Colombia, killing over 100 people",
+      "summary": "A massive 7.4-magnitude earthquake struck western Colombia early Monday morning, centered in the Choc\u00f3 region. The tremor collapsed dozens of buildings across major cities like Cali and Pereira, killing at least 111 people and injuring many more. Rescue teams are working through heavy rubble to pull out survivors, and the government has declared a state of national emergency.",
+      "why": "This is a major natural disaster causing widespread building collapses, a significant loss of human life, and a nationwide emergency declaration.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "powerful 7 4 magnitude earthquake strikes western colombia killing over",
       "date": "2026-08-10"
     }
   ]
