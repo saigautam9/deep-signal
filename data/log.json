@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US Strikes Iran for Third Night and Reinstates Blockade as Tanker Attacks in Strait of Hormuz Kill Sailor",
-      "summary": "The US military has launched a third consecutive night of airstrikes against Iran, while President Trump has ordered a naval blockade on all Iranian ports. In retaliation, Iran used cruise missiles to strike two Emirati oil tankers in the Strait of Hormuz, killing an Indian sailor and injuring eight others. This dramatic escalation has caused global oil prices to jump sharply.",
-      "why": "This is a major military escalation that marks the resumption of the US-Iran war. By cutting off the Strait of Hormuz and launching direct strikes, both sides are threatening the world's most vital energy chokepoint, which could trigger a global energy crisis and a much larger regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us strikes iran for third night and reinstates blockade as",
-      "date": "2026-07-14"
-    },
-    {
-      "headline": "U.S. and Iran Resume Heavy Fighting as Trump Reinstates Strait of Hormuz Blockade",
-      "summary": "A short-lived peace deal has completely collapsed. President Trump announced that the U.S. Navy is reinstating a naval blockade on Iranian ports and suggested charging cargo ships a 20% fee to pass through the Strait of Hormuz. The U.S. military has launched its third straight night of major airstrikes on Iranian targets. In response, Iran's Revolutionary Guard hit back, firing missiles at U.S. bases in Bahrain and Jordan and striking two UAE tankers, which killed one crew member.",
-      "why": "This is a massive military escalation in the world's most crucial oil chokepoint. With the U.S. enforcing a blockade and demanding transit fees, and Iran retaliating directly against U.S. regional bases and commercial tankers, this flare-up threatens to spark a wider regional war and trigger a global energy crisis.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran resume heavy fighting as trump reinstates",
-      "date": "2026-07-14"
-    },
-    {
-      "headline": "The US and Iran are in a big fight over a crucial waterway",
-      "summary": "The US attacked Iran with airstrikes and President Trump blocked ships from passing through the Strait of Hormuz. Iran fought back by targeting other countries and oil tankers. This fight is making oil prices go up.",
-      "why": "If this waterway is blocked or taxed, it could hurt the global economy and cause an energy crisis, like when you squeeze a tube and the contents come out.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "the us and iran are in a big fight over",
-      "date": "2026-07-14"
-    },
-    {
-      "headline": "Scientists warn of a super-powerful El Ni\u00f1o event",
-      "summary": "Meteorologists say there's an 81% chance of a huge climate event that could break heat records. We're already seeing really hot weather and wildfires. This weather pattern acts like a giant heater for the Earth.",
-      "why": "It could cause severe droughts, floods, and crop failures, leading to food shortages, like when a big storm ruins a farmer's crops.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "scientists warn of a super powerful el ni o event",
-      "date": "2026-07-14"
-    },
-    {
-      "headline": "France helps Ukraine build its own advanced missiles",
-      "summary": "French President Macron said Ukraine can build advanced French missiles and bombs on its own soil. Ukraine will also buy fighter jets and get pilot training. Europe is now helping Ukraine build its own permanent arms factories.",
-      "why": "This changes the long-term situation of the war, making Ukraine less dependent on foreign help for its defense, like when you teach someone to fish instead of giving them fish.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "france helps ukraine build its own advanced missiles",
-      "date": "2026-07-14"
-    },
-    {
       "headline": "The US has to refund $81 billion in unfair tariffs",
       "summary": "The US Supreme Court said Trump's import taxes were unlawful, so the government has to pay back a lot of money to businesses. This unexpected refund has created a huge hole in the federal budget.",
       "why": "It shows how hard it is to use executive orders to run a trade war, and now the US economy has a growing deficit, like when you overspend on a credit card.",
@@ -3999,6 +3949,56 @@
       "mode": "monitor",
       "fp": "british columbia declares emergency as fast moving wildfire forces 20",
       "date": "2026-08-09"
+    },
+    {
+      "headline": "Israel Rejects US-Backed Gaza Disarmament Plan",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu rejected a 15-point peace proposal for Gaza supported by the United States. The plan asked Hamas to hand over its weapons in stages while Israeli troops pulled back, but Israel insists its military will not leave until all weapons are surrendered first. Hamas had agreed to move forward with the deal, highlighting a growing public clash between Washington and Israeli leadership.",
+      "why": "Without an agreement, millions of civilians in Gaza remain trapped in severe danger with no clear path toward peace.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "israel rejects us backed gaza disarmament plan",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "Ukrainian Drone Attack Hits Deep Inside Russia",
+      "summary": "A Ukrainian drone strike hit the industrial city of Nizhnekamsk deep inside Russia, killing at least 12 people. Meanwhile, Russian forces continue to push forward in eastern Ukraine, capturing ground near key defense cities. Ukraine has been using long-range strikes to target factories and military hubs far behind the front lines.",
+      "why": "Deeper strikes inside Russia show how the war is spreading beyond the main battlefront, raising the stakes for both nations.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ukrainian drone attack hits deep inside russia",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "US and Iran Negotiate Over Vital Oil Route",
+      "summary": "The US and Iran are using Oman to help negotiate a deal over the Strait of Hormuz. Iran is using its power over the narrow sea route as leverage while demanding relief from US economic pressure. Both sides are trying to avoid a bigger military clash in the region.",
+      "why": "About twenty percent of the world's oil passes through this single waterway, meaning any disruption can quickly send global fuel prices soaring.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us and iran negotiate over vital oil route",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "Wildfires and Superstorms Cause Mass Evacuations Globally",
+      "summary": "Extreme weather is hitting multiple parts of the world all at once. Huge wildfires in Canada are forcing thousands of people to evacuate, while Europe suffers through record summer heatwaves. Over in Asia, Typhoon Dolphin has forced massive evacuations along China's eastern coastline.",
+      "why": "These simultaneous natural disasters are stretching emergency rescue teams thin and threatening global energy and transportation systems.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "wildfires and superstorms cause mass evacuations globally",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "Saudi Arabia, Turkey, and Pakistan Sign Major Defense Pact",
+      "summary": "Saudi Arabia, Turkey, and Pakistan signed a joint defense agreement to boost military cooperation and share defense technology. The deal was struck right as fresh missile attacks hit regional targets around the Arabian Peninsula. It signals that these countries want to protect each other without relying entirely on Western partners.",
+      "why": "This new alliance reshapes security in the Middle East and South Asia by creating a powerful new military partnership.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "saudi arabia turkey and pakistan sign major defense pact",
+      "date": "2026-08-10"
     }
   ]
 }
