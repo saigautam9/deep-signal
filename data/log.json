@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Ukraine Teams Up with Europe for Missile Defense",
-      "summary": "Ukrainian President Volodymyr Zelenskyy announced a new partnership with nine European countries to build a shared missile defense system. This comes as Ukraine is struggling with a shortage of expensive Western air defense missiles because of constant Russian attacks.",
-      "why": "This move helps Ukraine have a permanent defense system with its European neighbors, which could help with security after the war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "ukraine teams up with europe for missile defense",
-      "date": "2026-07-14"
-    },
-    {
       "headline": "New U.S. Law Helps Regular People Buy Homes",
       "summary": "A big new housing law has started in the U.S. to help regular families buy homes. The law stops big companies and investors who own a lot of houses from buying more single-family homes. The law went into effect because President Trump didn't sign or veto it.",
       "why": "This law tries to stop big companies from outbidding regular people who want to buy starter homes.",
@@ -3998,6 +3988,16 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "powerful 7 4 magnitude earthquake strikes western colombia killing over",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "Powerful 7.4 Magnitude Earthquake Hits Western Colombia",
+      "summary": "A massive 7.4 magnitude earthquake struck western Colombia today, shaking major cities like Cali, Pereira, and Manizales. The quake flattened buildings, killed at least 111 people, and injured dozens more. Six airports suspended operations while rescue workers searched through collapsed rubble.",
+      "why": "This is a major natural disaster involving a high loss of human life, widespread urban damage, and a national emergency declaration.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "powerful 7 4 magnitude earthquake hits western colombia",
       "date": "2026-08-10"
     }
   ]
