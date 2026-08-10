@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "The US has to refund $81 billion in unfair tariffs",
-      "summary": "The US Supreme Court said Trump's import taxes were unlawful, so the government has to pay back a lot of money to businesses. This unexpected refund has created a huge hole in the federal budget.",
-      "why": "It shows how hard it is to use executive orders to run a trade war, and now the US economy has a growing deficit, like when you overspend on a credit card.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "the us has to refund 81 billion in unfair tariffs",
-      "date": "2026-07-14"
-    },
-    {
-      "headline": "The US tries to dismantle the International Criminal Court",
-      "summary": "US Secretary of State Marco Rubio is trying to tear down the world's highest war crimes court. He says the court threatens American sovereignty and could target US border agents and leaders.",
-      "why": "If the world's most powerful country tries to destroy the global court, it could hurt international justice and human rights accountability for a long time, like when you undermine a referee's authority in a game.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "the us tries to dismantle the international criminal court",
-      "date": "2026-07-14"
-    },
-    {
-      "headline": "US Strikes Iran as Trump Reinstates Hormuz Blockade and Imposes 20% Shipping Toll",
-      "summary": "The US has launched a third consecutive night of airstrikes against Iran, with President Donald Trump announcing a reinstated naval blockade on Iranian ports starting Tuesday, July 14, 2026. In a major policy departure, Trump declared the US will charge a 20% fee on all cargo passing through the Strait of Hormuz to cover security costs. Iran has retaliated by striking targets in Bahrain and Jordan, and firing cruise missiles at two UAE-linked oil tankers, killing one crew member and prompting oil prices to spike.",
-      "why": "This is a massive military escalation that shatters a fragile ceasefire in the 2026 US-Iran war, threatening to drag regional neighbors like the UAE into direct conflict. Additionally, the US imposing a 20% transit fee on ships in the Strait of Hormuz fundamentally upends centuries of global freedom-of-navigation principles and risks severe disruptions to international energy markets.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us strikes iran as trump reinstates hormuz blockade and imposes",
-      "date": "2026-07-14"
-    },
-    {
-      "headline": "US reinstates naval blockade on Iran as Strait of Hormuz conflict reignites",
-      "summary": "The shaky ceasefire between the US and Iran has collapsed. US forces just finished a third consecutive night of intense airstrikes targeting Iranian defenses, missile sites, and the port city of Bushehr. In retaliation, Iran fired ballistic missiles at a US air base in Jordan and launched cruise missiles at two UAE oil tankers in the Strait of Hormuz, killing one sailor. To push back, President Trump announced the US is reinstating a strict naval blockade on Iranian ports starting Tuesday at 4 p.m. ET. In a major twist, he also declared the US the 'Guardian' of the strait and said they will charge a 20% fee on all other cargo ships passing through to cover US security costs.",
-      "why": "The Strait of Hormuz is the world's most important oil transit route, handling a fifth of global energy supply. A renewed naval blockade coupled with active airstrikes, missile retaliation, and a massive 20% shipping fee could easily spiral into a full-scale war, disrupt global trade networks, and send global oil prices skyrocketing.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us reinstates naval blockade on iran as strait of hormuz",
-      "date": "2026-07-14"
-    },
-    {
-      "headline": "U.S. and Iran trade heavy strikes as Trump orders naval blockade and ships are hit in the Gulf",
-      "summary": "Things just took a very scary turn in the Middle East. The U.S. military hammered targets inside Iran for the third night in a row. This came right after President Donald Trump announced a full naval blockade on Iranian ports and said the U.S. would start charging a 20% fee for ships using the Strait of Hormuz. In response, Iran's military launched cruise missiles that struck two UAE oil tankers, killing a crew member and starting onboard fires. Iran also fired missiles at a U.S. base in Jordan and sent drones toward Bahrain.",
-      "why": "This is a massive military escalation. We are seeing active fighting between the U.S. and Iran, a full-on naval blockade, and attacks on civilian oil tankers in the world's most important energy choke point. It has sent oil prices spiking and threatens to drag the whole region into a much larger war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran trade heavy strikes as trump orders",
-      "date": "2026-07-14"
-    },
-    {
       "headline": "The U.S. and Iran Are in a Big Fight Again",
       "summary": "A temporary peace deal between the U.S. and Iran has fallen apart. The U.S. launched big air attacks on Iranian bases after President Trump said the peace deal was over. Iran fought back by attacking ships and U.S. military bases. Now, the U.S. is blocking Iranian ports with ships, which is making oil prices go up.",
       "why": "If this narrow waterway gets blocked, it could cause big problems for the world's energy supply, which might lead to high prices everywhere.",
@@ -3998,6 +3948,56 @@
       "severity": "HIGH",
       "mode": "morning",
       "fp": "saudi arabia turkey and pakistan sign major defense pact",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "Iran refuses to reopen the Strait of Hormuz without U.S. concessions",
+      "summary": "Iran announced it will keep the Strait of Hormuz blocked until the U.S. lifts sanctions and ends its naval blockade. The narrow waterway normally carries about a fifth of the world's daily oil supply.",
+      "why": "Choking off this key oil highway drives up energy costs worldwide and risks sparking a broader military conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "iran refuses to reopen the strait of hormuz without u",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "Israel rejects U.S.-backed peace plan for Gaza",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu publicly turned down a 15-point peace deal backed by the U.S. that called for a phased ceasefire. Netanyahu insists Israeli troops will not leave Gaza until Hamas surrenders every weapon first.",
+      "why": "This public clash between U.S. and Israeli leadership halts ceasefire momentum and prolongs a severe humanitarian crisis.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "israel rejects u s backed peace plan for gaza",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "Powerful 7.4-magnitude earthquake strikes Colombia and Ecuador",
+      "summary": "A massive 7.4-magnitude earthquake struck western Colombia, shaking buildings across the region and prompting evacuations into neighboring Ecuador and Panama. Emergency teams are assessing structural damage and searching for survivors.",
+      "why": "A disaster of this size threatens thousands of lives and risks damaging crucial infrastructure across northern South America.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "powerful 7 4 magnitude earthquake strikes colombia and ecuador",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "Ukrainian drone strike hits oil refinery deep inside Russia",
+      "summary": "Ukrainian long-range drones struck a major oil refinery in Tatarstan, over 600 miles inside Russian territory. The attack killed at least 12 people and injured dozens, marking one of Ukraine's deepest strikes of the war.",
+      "why": "Ukraine is increasingly targeting Russia's energy infrastructure far behind the front line to weaken Moscow's war economy.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ukrainian drone strike hits oil refinery deep inside russia",
+      "date": "2026-08-10"
+    },
+    {
+      "headline": "Record heat and wildfires force mass evacuations in North America and Europe",
+      "summary": "Historic summer heat and severe drought are feeding huge wildfires in Washington state and British Columbia, forcing tens of thousands to evacuate. Across Western Europe, record temperatures are setting off fires and putting heavy pressure on power grids.",
+      "why": "Intensifying climate extremes are displacing entire communities, straining emergency services, and damaging global economic stability.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "record heat and wildfires force mass evacuations in north america",
       "date": "2026-08-10"
     }
   ]
