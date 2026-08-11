@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "New U.S. Law Helps Regular People Buy Homes",
-      "summary": "A big new housing law has started in the U.S. to help regular families buy homes. The law stops big companies and investors who own a lot of houses from buying more single-family homes. The law went into effect because President Trump didn't sign or veto it.",
-      "why": "This law tries to stop big companies from outbidding regular people who want to buy starter homes.",
-      "domain": "Society",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "new u s law helps regular people buy homes",
-      "date": "2026-07-14"
-    },
-    {
       "headline": "China's Exports Are Booming Because of AI",
       "summary": "China's exports went up by 27% in June because people around the world want artificial intelligence technology. Demand for computer chips, smart devices, and electronic parts grew by almost 57% in the first half of the year. This boom is helping China's economy, which has been struggling because of a housing market problem.",
       "why": "It shows how much the AI boom is changing global trade, making technology the main driver of economic growth.",
@@ -3999,6 +3989,16 @@
       "mode": "monitor",
       "fp": "powerful 7 4 magnitude earthquake hits western colombia",
       "date": "2026-08-10"
+    },
+    {
+      "headline": "A powerful 7.4 magnitude earthquake hits western Colombia",
+      "summary": "A huge 7.4 magnitude earthquake struck western Colombia early Monday, killing at least 111 people and injuring dozens more. It collapsed around 60 buildings and damaged over 1,600 structures across several cities. Colombia's president declared a national disaster to speed up emergency rescue efforts and funding.",
+      "why": "This is a sudden, major natural disaster that killed over a hundred people, destroyed key infrastructure, and forced a national emergency declaration.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "a powerful 7 4 magnitude earthquake hits western colombia",
+      "date": "2026-08-11"
     }
   ]
 }
