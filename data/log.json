@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US Reinstates Naval Blockade on Iran Amid Intense Strikes in Strait of Hormuz",
-      "summary": "The conflict between the U.S. and Iran escalated sharply as U.S. Central Command reinstated a naval blockade on Iranian ports. This follows consecutive nights of U.S. airstrikes inside Iran and retaliatory Iranian strikes targeting Gulf shipping tankers\u2014which killed one crew member\u2014and U.S. military outposts in Jordan and Bahrain. Amid the chaos, President Trump dropped a highly controversial plan to charge a 20% cargo transit fee in the strait, shifting instead to Gulf investment deals.",
-      "why": "This represents a major, direct military escalation between the U.S. and a regional power in the world's most vital maritime oil chokepoint. The combination of an active naval blockade, heavy airstrikes, and deadly attacks on merchant vessels is a severe threat to international security and global energy markets.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us reinstates naval blockade on iran amid intense strikes in",
-      "date": "2026-07-14"
-    },
-    {
-      "headline": "U.S. Launches Fresh Airstrikes on Iran and Restarts Port Blockade Over Strait of Hormuz Crisis",
-      "summary": "The U.S. military launched fresh airstrikes on Iran and reinstated a naval blockade on Iranian ports today. This comes after Iranian cruise missiles hit oil tankers in the Strait of Hormuz, killing a crew member. Meanwhile, President Trump walked back his threat to charge ships a 20% toll for crossing the strait, while Iran warned it would block all regional energy exports if U.S. attacks continue.",
-      "why": "This is a sharp military escalation between the U.S. and Iran in the world's most vital energy shipping corridor, risking a severe global energy crisis and a larger war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s launches fresh airstrikes on iran and restarts port",
-      "date": "2026-07-14"
-    },
-    {
       "headline": "US-Iran War Escalates With New Naval Blockade and Direct Strikes on Military Bases",
       "summary": "A shaky peace deal between the US and Iran has completely fallen apart. The US has officially reimposed a strict naval blockade on all Iranian ports and launched multiple nights of heavy airstrikes on military targets. Iran has retaliated by firing missiles and drones at US bases in Jordan and Bahrain, and by attacking commercial tankers in the Strait of Hormuz. The sudden flare-up has pushed oil prices over $86 a barrel and forced neighboring countries like Jordan and Kuwait to intercept incoming missiles and drones.",
       "why": "This is a major military escalation in the world's most vital oil transit corridor. Direct warfare between the US and Iran threatens to spiral into a massive regional war and trigger a global energy crisis.",
@@ -3998,6 +3978,26 @@
       "severity": "MEDIUM",
       "mode": "morning",
       "fp": "europe prepares for a rare total solar eclipse and power",
+      "date": "2026-08-11"
+    },
+    {
+      "headline": "A 7.4 Magnitude Earthquake Hits Western Colombia, Triggering a National Emergency",
+      "summary": "A powerful 7.4 magnitude earthquake struck western Colombia, causing buildings to collapse across major cities including Cali and Pereira. Over 100 people have been killed and hundreds more injured, leading the government to declare a national emergency as search-and-rescue teams work to free survivors trapped under debris.",
+      "why": "This is a major natural disaster that caused significant loss of life, destroyed essential infrastructure, and forced a nationwide emergency response.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "a 7 4 magnitude earthquake hits western colombia triggering a",
+      "date": "2026-08-11"
+    },
+    {
+      "headline": "Red Sea Ship Attack and Hormuz Standoff Signal Military Escalation",
+      "summary": "Iran-backed Houthi rebels struck a cargo vessel in the Red Sea, killing three crew members and attacking port infrastructure in Yemen. Meanwhile, efforts to reopen the Strait of Hormuz hit a deadlock after the U.S. demanded compensation from Tehran and military planners reviewed options to potentially force open the waterway.",
+      "why": "This represents a sharp military escalation along key global shipping corridors, threatening global oil supplies and risking deeper international armed conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "red sea ship attack and hormuz standoff signal military escalation",
       "date": "2026-08-11"
     }
   ]
