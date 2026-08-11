@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "U.S. Blockades Iran and Drops Hormuz Toll Plan Amid Heavy Military Strikes",
-      "summary": "Things are getting really hot in the Middle East. The US and Iran have been trading missile strikes for three nights in a row, with the US deploying explosive sea drones for the first time. Right now, a US naval blockade is going into effect to choke off Iranian ports. Meanwhile, Iran has been hitting cargo ships\u2014one strike on a UAE tanker killed a crew member. President Trump threatened to charge a 20% toll on any ship using the Strait of Hormuz but just backed down, saying Gulf countries promised big US investments instead. All this chaos has sent oil prices jumping to a one-month high.",
-      "why": "This is a major military escalation in one of the world's most critical choke points. The Strait of Hormuz handles about 20% of the world's oil. With a naval blockade starting today, direct military strikes, and tankers getting hit, a full-blown war could severely disrupt global energy supplies and spike inflation worldwide.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s blockades iran and drops hormuz toll plan amid",
-      "date": "2026-07-14"
-    },
-    {
       "headline": "The U.S. and Iran are in a tense standoff over a vital oil route",
       "summary": "The U.S. has been carrying out airstrikes against Iran for three nights in a row. President Donald Trump has also announced a military blockade of the Strait of Hormuz, a crucial waterway for oil shipments. Iran has fought back by attacking oil tankers and launching strikes in the Gulf, causing international oil prices to rise. This situation is getting more and more dangerous, with both sides saying they control the waterway.",
       "why": "This matters because a fifth of the world's oil passes through this narrow strait. Blocking it would be like closing a major highway that everyone relies on, which could cause a huge shock to the global economy.",
@@ -3998,6 +3988,16 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "7 4 magnitude earthquake strikes colombia killing over 100 people",
+      "date": "2026-08-11"
+    },
+    {
+      "headline": "Massive 7.4 earthquake hits Colombia, killing over 130 people",
+      "summary": "A powerful 7.4-magnitude earthquake struck western Colombia, causing buildings to collapse across multiple major cities. At least 132 people have died and hundreds more are injured. Colombia's president declared a national state of emergency as rescue teams search the debris for survivors.",
+      "why": "This is a major natural disaster. It caused heavy loss of life, widespread destruction of homes and hospitals, and forced a national emergency declaration.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "massive 7 4 earthquake hits colombia killing over 130 people",
       "date": "2026-08-11"
     }
   ]
