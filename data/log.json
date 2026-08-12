@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Iran Face Off in the Strait of Hormuz",
-      "summary": "The US Navy is blocking Iranian ships and attacking Iranian targets after Iranian ships were attacked. Iran is now threatening to stop oil shipments from the Middle East and is attacking US military bases. This is making oil prices go up fast.",
-      "why": "If there's a big war in this area, it could stop a lot of oil from getting out, which would make inflation worse.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us and iran face off in the strait of hormuz",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "EU Cuts Off Sudan's Gold Cash to Stop Civil War",
-      "summary": "The European Union is not allowing Sudan to sell gold to stop the country's leaders from getting money to buy weapons. The war is also making it hard to grow food and get aid to people. This is making a lot of Sudanese people very hungry.",
-      "why": "While the goal is to stop the war, many people in Sudan are facing one of the worst food crises in decades.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "eu cuts off sudan s gold cash to stop civil",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "China\u2019s Economy Slows Down as Trade Tensions Rise",
-      "summary": "China's economy grew slowly, 4.7%, in the first half of the year. People in China are not spending much, the housing market is still bad, and trade fights with other countries are hurting factories. This slowdown affects companies around the world that sell things to China.",
-      "why": "When China's economy slows down, it affects trade and businesses all over the world.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "china s economy slows down as trade tensions rise",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "New York Puts a Freeze on Giant AI Data Centers",
-      "summary": "New York is stopping new big computer centers that power artificial intelligence for a year. These centers use a lot of energy and water to keep computers cool. The state wants to figure out how to keep the power grid from getting overloaded and how to keep people's bills from going up.",
-      "why": "This is the first big challenge to building more AI, showing that the tech boom is running into real-world problems.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "new york puts a freeze on giant ai data centers",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "Britain and Europe Scrap Border Checks at Gibraltar",
-      "summary": "The UK and EU agreed to remove passport checks at the border between Spain and Gibraltar. This ends years of arguments that made it hard for people to cross the border. Now, thousands of people can travel back and forth easily.",
-      "why": "This agreement solves a big problem from Brexit, which helps the local economy and shows that countries can work together.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "britain and europe scrap border checks at gibraltar",
-      "date": "2026-07-15"
-    },
-    {
       "headline": "U.S. launches fresh strikes on Iran as regional conflict escalates with missile attacks on Jordan, Kuwait, and Bahrain",
       "summary": "The United States military has intensified its campaign against Iran by launching a new wave of airstrikes and reimposing a naval blockade in the Strait of Hormuz. In retaliation, Iran launched missile and drone strikes targeting Jordan, Kuwait, and Bahrain, while threatening to completely shut down regional energy export corridors.",
       "why": "This is a severe military escalation that risks turning into a full-scale war in the Middle East, directly affecting multiple nations and putting a significant portion of the world's energy supply at risk.",
@@ -3998,6 +3948,56 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "u s military fires missiles at commercial ship in iran",
+      "date": "2026-08-12"
+    },
+    {
+      "headline": "Ebola Outbreak in Central Africa Rapidly Spreads with Over 2,000 Dead",
+      "summary": "A fast-spreading strain of Ebola in the Democratic Republic of the Congo has killed over 2,000 people. Most patients are dying at home in rural villages long before health workers can reach them. Scientists are now rushing to test new vaccines in the field to slow the outbreak down.",
+      "why": "Without quick action, this deadly virus could cross borders and trigger a major global public health crisis.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ebola outbreak in central africa rapidly spreads with over 2",
+      "date": "2026-08-12"
+    },
+    {
+      "headline": "US-Iran Peace Talks Stall as Strait of Hormuz Fuel Shock Hits World Markets",
+      "summary": "Peace talks between the U.S. and Iran have broken down after Tehran accused Washington of breaking an interim ceasefire deal [1.4.9]. At the same time, main shipping routes through the Strait of Hormuz remain largely blocked. Global oil markets are taking a huge hit as millions of barrels of crude stay stuck in the Gulf.",
+      "why": "High fuel prices and blocked shipping lines mean bigger energy bills and rising inflation for people everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us iran peace talks stall as strait of hormuz fuel",
+      "date": "2026-08-12"
+    },
+    {
+      "headline": "Drone Attack Shuts Down Russia's Largest Petrochemical Facility",
+      "summary": "A long-range Ukrainian drone strike hit Russia's massive ZapSibNeftekhim plant in Siberia, forcing it to shut down indefinitely. The facility produces nearly half of Russia's technical liquid gas. It marks one of the most damaging hits to Russian heavy industry since the conflict started.",
+      "why": "Knocking out a major industrial engine damages Russia's war economy and cuts off vital chemical supplies.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "drone attack shuts down russia s largest petrochemical facility",
+      "date": "2026-08-12"
+    },
+    {
+      "headline": "Europe Swelters in Record Heat Wave as Rivers Dry Up and Fires Spread",
+      "summary": "A blistering heat wave is scorching Europe, pushing temperatures past 105\u00b0F in countries like Austria. Water levels in crucial transport rivers like the Danube have dropped to historic lows, stopping trade barges. Massive wildfires are also destroying homes and farmlands across Europe and North America.",
+      "why": "Extreme climate events disrupt food supplies, strain power grids, and stall vital water transportation routes.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "europe swelters in record heat wave as rivers dry up",
+      "date": "2026-08-12"
+    },
+    {
+      "headline": "New European Union Rules Force Tech Companies to Label AI Content",
+      "summary": "The European Union has begun enforcing strict new regulations for artificial intelligence under its landmark AI Act. Any organization publishing AI-generated public text or news in Europe must now explicitly label it for readers. Tech companies around the world are rushing to update their systems to follow these rules.",
+      "why": "This law sets a global precedent that helps people spot computer-generated deepfakes and fake news online.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "new european union rules force tech companies to label ai",
       "date": "2026-08-12"
     }
   ]
