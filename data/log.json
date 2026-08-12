@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Iran exchange heavy strikes as vital oil chokepoint is shut down",
-      "summary": "The US has restarted a naval blockade on all Iranian ports after a brief truce collapsed. In response, Iran shut down the Strait of Hormuz, which is the main highway for the world's oil. Iran also launched missile and drone attacks at US military bases in Jordan, Kuwait, and Bahrain. Meanwhile, the US carried out another round of heavy airstrikes on Iranian targets, and President Trump warned he would bomb Iran's power plants and bridges next week if they do not negotiate.",
-      "why": "This is a massive military escalation that could spark an all-out war. Closing the Strait of Hormuz chokes off a fifth of the world's oil and gas supply, threatening global energy markets and bringing the Middle East to the brink of a much larger conflict.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us and iran exchange heavy strikes as vital oil chokepoint",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "U.S. and Iran Exchange Heavy Strikes as Conflict Escalates Across Middle East",
-      "summary": "Things are heating up fast between the US and Iran. Today, the US launched a massive wave of daytime airstrikes on Iranian military targets, right after a heavy seven-hour overnight bombing run. In response, Iran fired missiles and drones at US bases in Jordan, Bahrain, and Kuwait. Iran is also threatening to shut down all oil and gas exports from the region because the US has set up a naval blockade around its ports.",
-      "why": "This is a massive deal because the war is spilling over into neighboring countries like Jordan, Kuwait, and Bahrain, which could spark a much bigger regional conflict. Even worse, the Strait of Hormuz, which is now blocked and under fire, is a vital pipeline carrying a fifth of the world's energy. If Iran follows through on its threat to choke off all oil and gas from the Gulf, we could see energy prices skyrocket and a major global economic shock.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran exchange heavy strikes as conflict escalates",
-      "date": "2026-07-15"
-    },
-    {
       "headline": "US and Iran Face Off in the Strait of Hormuz",
       "summary": "The US Navy is blocking Iranian ships and attacking Iranian targets after Iranian ships were attacked. Iran is now threatening to stop oil shipments from the Middle East and is attacking US military bases. This is making oil prices go up fast.",
       "why": "If there's a big war in this area, it could stop a lot of oil from getting out, which would make inflation worse.",
@@ -3999,6 +3979,26 @@
       "mode": "monitor",
       "fp": "a powerful 7 4 magnitude earthquake strikes western colombia",
       "date": "2026-08-11"
+    },
+    {
+      "headline": "Massive 7.4-magnitude earthquake hits Colombia, killing hundreds",
+      "summary": "A huge earthquake struck Colombia, knocking down buildings and leaving over 250 people dead [1.3.8]. Emergency crews are racing to dig survivors out of the rubble.",
+      "why": "This is a major natural disaster that caused widespread destruction and heavy loss of human life.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "massive 7 4 magnitude earthquake hits colombia killing hundreds",
+      "date": "2026-08-12"
+    },
+    {
+      "headline": "U.S. military fires missiles at commercial ship in Iran conflict",
+      "summary": "A U.S. Navy helicopter shot missiles into a cargo ship's engine room after it tried to break a U.S. naval blockade on Iranian ports. The ship had ignored orders to turn back.",
+      "why": "This is a sharp military escalation involving direct armed strikes against commercial shipping during an active conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s military fires missiles at commercial ship in iran",
+      "date": "2026-08-12"
     }
   ]
 }
