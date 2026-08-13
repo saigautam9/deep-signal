@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "U.S. launches fresh strikes on Iran as regional conflict escalates with missile attacks on Jordan, Kuwait, and Bahrain",
-      "summary": "The United States military has intensified its campaign against Iran by launching a new wave of airstrikes and reimposing a naval blockade in the Strait of Hormuz. In retaliation, Iran launched missile and drone strikes targeting Jordan, Kuwait, and Bahrain, while threatening to completely shut down regional energy export corridors.",
-      "why": "This is a severe military escalation that risks turning into a full-scale war in the Middle East, directly affecting multiple nations and putting a significant portion of the world's energy supply at risk.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s launches fresh strikes on iran as regional conflict",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "Geopolitical Escalation in West Asia as US Blockades Iranian Ports and Iran Shuts the Strait of Hormuz",
-      "summary": "The military conflict between the United States and Iran has escalated sharply. Following President Donald Trump's decision to reinstate a strict naval blockade on Iranian ports, Iran's Islamic Revolutionary Guard Corps (IRGC) retaliated by shutting down the critical Strait of Hormuz. Iran launched a wave of missile strikes targeting U.S. military bases in Bahrain and Kuwait, and threatened that 'not a single drop' of regional oil and gas will be exported. In response, the U.S. military has intensified its airstrikes in the region and the U.S. Treasury has imposed sweeping new sanctions on networks procuring weapons for the Iranian regime.",
-      "why": "This is a severe military escalation involving direct, state-on-state combat and a blockade in the Strait of Hormuz\u2014a maritime chokepoint through which roughly 20% of the world's oil supply passes. The closure of the strait and the exchange of airstrikes threaten to trigger a massive regional war and cause severe disruptions to the global economy and energy markets.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "geopolitical escalation in west asia as us blockades iranian ports",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "U.S. Reimposes Naval Blockade on Iran and Launches New Airstrikes in Massive Strait of Hormuz Escalation",
-      "summary": "The US has started bombing Iran again, hitting key missile and military sites including strategic islands near the Strait of Hormuz. Washington has also put its naval blockade back on the country after Iran attacked commercial shipping vessels. In response, Iran's Revolutionary Guard is warning it might shut down all oil and gas exports from the region, completely wrecking a recent temporary peace deal.",
-      "why": "This is a massive military step-up in one of the world's most important shipping lanes. If Iran follows through on its threat to block all energy exports, oil prices could go through the roof, and the region could slide right back into a massive, full-blown war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s reimposes naval blockade on iran and launches new",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "US and Iran in a Standoff that's Making the World Nervous",
-      "summary": "The US has stopped all ships from leaving Iranian ports and attacked some targets near a very important waterway called the Strait of Hormuz. Iran fought back, hitting a ship from Kuwait and aiming missiles at US bases. Now, Iran is saying it might block the whole waterway, which is like a highway for oil ships.",
-      "why": "If this highway gets blocked, the price of oil will go up a lot, and that means we'll all pay more for gas and groceries.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us and iran in a standoff that s making the",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "Heatwaves and El Ni\u00f1o Could Make Food More Expensive Until 2028",
-      "summary": "It's getting really hot and dry in many parts of the world, which is ruining crops. In Uganda, people are already starving because of a lack of rain. The UN is asking for help to deal with the crisis. Experts think that this weather pattern, called El Ni\u00f1o, will make food prices go up a lot.",
-      "why": "This isn't just about hot weather; it means we might have to pay more for food for a long time \u2013 maybe two years.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "heatwaves and el ni o could make food more expensive",
-      "date": "2026-07-15"
-    },
-    {
       "headline": "EU Tries to Stop Sudan's Civil War by Cutting Off its Gold Money",
       "summary": "The European Union has stopped buying gold from Sudan and won't let ships bring in chemicals to help mine gold. Sudan's leaders, who are fighting each other, use gold to buy weapons. The EU hopes that if they cut off the money, the fighting will stop.",
       "why": "By taking away the money for the war, the EU is trying to end a very bad conflict that's left millions of people without enough food.",
@@ -3999,6 +3949,56 @@
       "mode": "afternoon",
       "fp": "new european union rules force tech companies to label ai",
       "date": "2026-08-12"
+    },
+    {
+      "headline": "US advances new tariffs on buyers of Russian oil",
+      "summary": "The US Senate passed a sweeping bipartisan sanctions bill aimed at cutting off funding for Russia's military. The legislation would allow the US to place tariffs of up to 100 percent on countries, such as China and India, that continue purchasing Russian energy. It also targets the financial institutions and hidden shipping fleets helping bypass existing rules.",
+      "why": "It forces major global trade partners to choose between buying discounted Russian energy or losing access to US markets.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us advances new tariffs on buyers of russian oil",
+      "date": "2026-08-13"
+    },
+    {
+      "headline": "A giant oil spill reaches Oman's coastline",
+      "summary": "A stranded tanker carrying nearly a million barrels of Russian crude is leaking heavily in the Arabian Sea. The spill has grown to cover over 2,000 square kilometers and has begun washing onto beaches and sensitive wildlife reserves in Oman. Strong monsoon winds and security complications are making emergency clean-up efforts very difficult.",
+      "why": "It threatens critical marine habitats and local desalination plants while highlighting the real-world dangers of unsanctioned 'shadow fleet' shipping.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "a giant oil spill reaches oman s coastline",
+      "date": "2026-08-13"
+    },
+    {
+      "headline": "Tensions spike over control of the Strait of Hormuz",
+      "summary": "Iranian officials declared full control over the Strait of Hormuz, directly challenging US statements claiming authority over the waterway. Ship traffic through the narrow passage has dropped dramatically as commercial vessel captains fear getting caught in regional conflict.",
+      "why": "Because a huge portion of the world's daily oil supply travels through this single choke point, any threat of disruption can quickly push up energy costs around the globe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "tensions spike over control of the strait of hormuz",
+      "date": "2026-08-13"
+    },
+    {
+      "headline": "Zambia holds elections key to global mineral supply",
+      "summary": "Citizens in Zambia cast their ballots in a national election deciding the presidency and parliament. Incumbent President Hakainde Hichilema is seeking a second term on an economic recovery platform, while opposition candidate Brian Mundubile is tapping into voter frustration over high daily living costs.",
+      "why": "Zambia is a major producer of copper and critical minerals that power modern technology and green energy transitions.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "zambia holds elections key to global mineral supply",
+      "date": "2026-08-13"
+    },
+    {
+      "headline": "A rare total solar eclipse sweeps across Europe",
+      "summary": "Millions of people gathered across Greenland, Iceland, and Spain to view the first total solar eclipse visible from mainland Europe in decades. The sky show coincided with a rare planetary alignment and the peak of the Perseid meteor shower, triggering huge travel surges across the continent.",
+      "why": "Beyond the rare natural phenomenon, the sudden influx of millions of skywatchers provided a major boost to European tourism while putting real pressure on local infrastructure.",
+      "domain": "Society",
+      "severity": "MEDIUM",
+      "mode": "afternoon",
+      "fp": "a rare total solar eclipse sweeps across europe",
+      "date": "2026-08-13"
     }
   ]
 }
