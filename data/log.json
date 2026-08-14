@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "EU Tries to Stop Sudan's Civil War by Cutting Off its Gold Money",
-      "summary": "The European Union has stopped buying gold from Sudan and won't let ships bring in chemicals to help mine gold. Sudan's leaders, who are fighting each other, use gold to buy weapons. The EU hopes that if they cut off the money, the fighting will stop.",
-      "why": "By taking away the money for the war, the EU is trying to end a very bad conflict that's left millions of people without enough food.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "eu tries to stop sudan s civil war by cutting",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "New York Stops New AI Data Centers to Protect its Power Grid",
-      "summary": "The governor of New York has said that big computer centers for AI can't be built for a year. These centers use a lot of electricity and water. The state wants to make sure they don't cause problems with the power grid or make people's electricity bills too high.",
-      "why": "This is the first time a state has slowed down AI development to think about the power grid and the environment.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "new york stops new ai data centers to protect its",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "Gibraltar and Spain Remove Old Border Fence After Brexit",
-      "summary": "A very old fence on the border of Gibraltar and Spain has been taken down. This fence was there for 100 years and made it hard for people to cross the border to work. Now, people can walk through freely, like in many other European countries.",
-      "why": "It removes a big physical barrier and shows that even when countries disagree, they can find a peaceful solution.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "gibraltar and spain remove old border fence after brexit",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "U.S. Reimposes Blockade on Iran as Middle East Ceasefire Collapses",
-      "summary": "The fragile truce between the U.S. and Iran is officially dead. The U.S. has put its naval blockade back on Iran and is hammering the country with intense airstrikes to keep the Strait of Hormuz open. Iran is firing back with missiles targeting U.S. bases in places like Bahrain and Kuwait, and they are threatening to shut off the tap for all Middle East oil. U.S. jets even fired missiles at a commercial oil tanker to stop it from breaking the blockade.",
-      "why": "This is a massive military escalation. The Strait of Hormuz is a critical chokepoint for the world's oil, and squeezing it is like pinching the global fuel hose. If this isn't contained, it could drag the entire region into a full-blown war and trigger major energy shortages globally.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s reimposes blockade on iran as middle east ceasefire",
-      "date": "2026-07-15"
-    },
-    {
-      "headline": "US Strikes Deep in Iran and Disables Tanker, Shattering Fragile Ceasefire",
-      "summary": "The US just supercharged its fight in the Middle East. Early Thursday, American jets bombed targets deep inside northern Iran\u2014even hitting near the capital, Tehran. US forces also shot at and disabled an oil tanker that tried to slip through a new naval blockade in the Strait of Hormuz. In return, Iran launched a massive wave of missiles and drones at US military bases and allies, targeting Jordan, Bahrain, and Kuwait before sunrise.",
-      "why": "This is a massive deal because it completely blows up a recent ceasefire that everyone hoped would lead to peace. Now, with the US bombing deep inside Iran, ships getting shot at in the world's most critical oil highway, and Iran launching retaliatory strikes against three neighboring countries, we are on the razor's edge of a giant, all-out regional war that could throw global energy supplies into total chaos.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us strikes deep in iran and disables tanker shattering fragile",
-      "date": "2026-07-16"
-    },
-    {
       "headline": "U.S. and Iran Launch Deep Mutual Strikes in Major Military Escalation",
       "summary": "The United States has dramatically intensified its military strikes on Iran, hitting targets near Tehran and northern Iran for the first time in this round of fighting, and using Hellfire missiles to disable an oil tanker attempting to bypass a newly reimposed U.S. naval blockade. In response, Iran has launched retaliatory drone and missile attacks directly targeting U.S. military bases in Kuwait, Bahrain, and Jordan.",
       "why": "This marks a severe, direct military escalation between two heavily armed nations. The hostilities have shattered a previous peace framework, closed the vital Strait of Hormuz shipping lane, and significantly increased the risk of an all-out regional war.",
@@ -3999,6 +3949,56 @@
       "mode": "afternoon",
       "fp": "a rare total solar eclipse sweeps across europe",
       "date": "2026-08-13"
+    },
+    {
+      "headline": "Attacks on tankers in Strait of Hormuz threaten global oil flows",
+      "summary": "The UAE reported that two oil vessels were attacked in the Strait of Hormuz, pointing fingers at Iran. This comes as military forces face off across the region and threats of naval blockades grow. The waterway is like the world's main fuel pipe, carrying about a fifth of global petroleum.",
+      "why": "Any sustained disruption to shipping in this narrow passage could trigger an instant spike in global energy and transport costs.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "attacks on tankers in strait of hormuz threaten global oil",
+      "date": "2026-08-14"
+    },
+    {
+      "headline": "Devastating 7.4 magnitude earthquake strikes Colombia",
+      "summary": "A major earthquake centered in Colombia's Choc\u00f3 region has killed at least 164 people and caused widespread destruction. Historic structures and critical infrastructure suffered severe damage across multiple cities. Rescuers are racing against time in difficult terrain to reach isolated communities.",
+      "why": "The disaster leaves thousands homeless and places massive strain on the country's emergency services and economy.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "devastating 7 4 magnitude earthquake strikes colombia",
+      "date": "2026-08-14"
+    },
+    {
+      "headline": "Sudan war intensifies as battle spreads to El Obeid and Khartoum",
+      "summary": "Paramilitary forces launched renewed assaults on the strategic city of El Obeid while drones struck targets in the capital. The clashes have cut off escape routes and choked supply corridors needed for aid. Millions of civilians remain trapped with rapidly dwindling food and medical supplies.",
+      "why": "The widening conflict deepens one of the worst humanitarian and displacement crises on the planet.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "sudan war intensifies as battle spreads to el obeid and",
+      "date": "2026-08-14"
+    },
+    {
+      "headline": "Long-range strikes target energy infrastructure in Russia-Ukraine war",
+      "summary": "Ukrainian drones struck a major oil refinery deep inside Russian territory, triggering large fires and casualties. Meanwhile, heavy Russian ballistic strikes hit targets across Ukrainian cities as frontline fighting pushes forward. Both sides are increasingly targeting the fuel, power, and logistics systems that keep the other running.",
+      "why": "Targeting energy grids and refineries directly drains economic endurance and shapes the tempo of the entire war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "long range strikes target energy infrastructure in russia ukraine war",
+      "date": "2026-08-14"
+    },
+    {
+      "headline": "NATO fighter downs drone over Latvia amid border tensions",
+      "summary": "A NATO jet scrambled and shot down an unauthorized drone that crossed into Latvian airspace. Regional officials linked the incident to Russian electronic warfare spilling across the border. Baltic allies are demanding stronger air defense shields along NATO's eastern frontier.",
+      "why": "Even accidental incursions raise the danger of a direct military clash between NATO and Russia.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "nato fighter downs drone over latvia amid border tensions",
+      "date": "2026-08-14"
     }
   ]
 }
