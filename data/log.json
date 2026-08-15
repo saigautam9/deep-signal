@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Over 500 Rohingya refugees feared dead after boats sink",
-      "summary": "Two boats with over 500 Rohingya refugees on board have sunk in the Bay of Bengal. They were trying to escape from bad conditions in Myanmar and Bangladesh during strong monsoon storms.",
-      "why": "It's one of the worst sea disasters in years. It shows how desperate these families are to get away from a violent conflict.",
-      "domain": "Society",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "over 500 rohingya refugees feared dead after boats sink",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "Washington imposes new 25% tax on Brazil",
-      "summary": "The Trump administration has announced a 25% tax on some Brazilian imports starting next week. This is a bold move after a previous tax attempt was blocked.",
-      "why": "This sudden trade dispute might disrupt global supply chains and make everyday items more expensive for regular shoppers.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "washington imposes new 25 tax on brazil",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "U.S. Expands Strikes to Northern Iran, Disables Tanker as Strait of Hormuz Conflict Escalates",
-      "summary": "The United States launched its fifth consecutive day of airstrikes against Iran, expanding targets to the capital, Tehran, and northern regions, while also firing on an oil tanker attempting to run the U.S. naval blockade in the Strait of Hormuz. In response, Iran launched retaliatory drone and missile strikes targeting Gulf allies including Kuwait, Bahrain, and Jordan, and warned the Houthis to prepare to close the Red Sea if the U.S. strikes Iranian civilian energy infrastructure.",
-      "why": "This represents a sharp and dangerous military escalation in the Middle East, threatening to cut off the world's two most critical energy shipping lanes (the Strait of Hormuz and the Red Sea) and potentially sparking a broader regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s expands strikes to northern iran disables tanker as",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "U.S.-Iran War Escalates with Strikes Near Tehran and Threats to Block the Red Sea",
-      "summary": "The U.S. and Iran are trading heavy blows. The U.S. just expanded its airstrikes deep into northern Iran, even hitting near Tehran, and disabled a tanker trying to break its blockade. Iran fired back with missiles and drones targeting American military bases in Jordan, Kuwait, and Bahrain. To make matters worse, Iran reportedly told its Houthi allies in Yemen to get ready to block the Red Sea shipping route if the U.S. goes after Iranian power grids.",
-      "why": "This is a massive military flare-up that could choke global trade. The Strait of Hormuz is already closed because of this war. If the Houthis shut down the Red Sea too, it would block the Middle East's two biggest oil highways at the same time. This would send oil prices through the roof and trigger a massive global energy crisis.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s iran war escalates with strikes near tehran and",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "The US and Iran are on the edge of a big shipping crisis",
-      "summary": "The US attacked some targets near an Iranian island, making their quiet conflict much worse. Iran got angry and said it might block a very important waterway called the Strait of Hormuz. They also told their friends in Yemen to block another important sea route if things get worse.",
-      "why": "If these waterways get blocked, it's like someone clogged the world's main fuel pipes. This will make energy prices go up very quickly.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "the us and iran are on the edge of a",
-      "date": "2026-07-16"
-    },
-    {
       "headline": "The US starts a new trade fight with Brazil",
       "summary": "The US government put a big 25% tax on most things they import from Brazil. They say Brazil is being unfair and hurting the environment. Brazil is very upset and said they will put taxes on US goods too.",
       "why": "This trade fight will cause problems for big supply chains that bring food and other important things to people in the Americas. This will hurt people's wallets.",
@@ -3998,6 +3948,56 @@
       "severity": "CRITICAL",
       "mode": "morning",
       "fp": "afghanistan marks five years under taliban rule in deep crisis",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Standoff around Strait of Hormuz threatens global energy flow",
+      "summary": "Rising military tensions and naval blockades around the Persian Gulf have disrupted critical shipping routes [1.1.4]. Oil prices are swinging sharply as governments scramble to secure backup fuel supplies. It is like a sudden kink in the world's main fuel hose, raising costs for freight and everyday goods.",
+      "why": "Disrupted energy choke points quickly drive up inflation and make daily living more expensive for families worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "standoff around strait of hormuz threatens global energy flow",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Powerful earthquake causes heavy destruction in Colombia",
+      "summary": "A magnitude 7.4 earthquake struck Colombia's western Choc\u00f3 department, killing over a hundred people and toppling buildings. Landslides and severed roads are blocking rescue crews from reaching remote towns. The government is deploying emergency units to handle the sudden humanitarian crisis.",
+      "why": "The disaster destroys vital infrastructure and leaves thousands of vulnerable families in immediate need of shelter and aid.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "powerful earthquake causes heavy destruction in colombia",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Lethal strikes in southern Lebanon heighten regional escalation risks",
+      "summary": "A series of heavy airstrikes hit southern Lebanon, marking the deadliest single-day toll in months. The attacks followed escalating cross-border exchanges that have kept the border region on edge. Mediators fear the steady tit-for-tat could easily boil over into an uncontrolled regional war.",
+      "why": "A wider conflict in the Middle East risks dragging in global powers and displacing thousands of civilians.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "lethal strikes in southern lebanon heighten regional escalation risks",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Drone strikes hit key oil refineries deep inside Russia",
+      "summary": "Long-range drone attacks struck major oil processing plants in Russia's Tatarstan region, causing casualties and facility damage. The strikes target the industrial backbone that fuels Moscow's war effort. It shifts the fight from the trenches directly to the economic engine powering the conflict.",
+      "why": "Damaging refinery capacity drains wartime revenue and tightens fuel supplies across the region.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "drone strikes hit key oil refineries deep inside russia",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Ebola death in new DRC province sparks containment race",
+      "summary": "Health authorities in the Democratic Republic of Congo identified an Ebola death in a province previously clear of the outbreak. Because the patient had multiple contacts before passing away, officials fear undetected community transmission. Rapid response teams are rushing vaccines and isolation gear to keep the virus from spreading.",
+      "why": "Uncontained spread into new regions can overwhelm fragile clinics and create a wider health emergency.",
+      "domain": "Health",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "ebola death in new drc province sparks containment race",
       "date": "2026-08-15"
     }
   ]
