@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Canadian wildfire smoke makes Detroit's air very bad",
-      "summary": "Thick smoke from big wildfires in Canada crossed the US border and covered the Midwest. Detroit's air became very polluted, making it the most polluted air on Earth. Millions of people had to stay inside.",
-      "why": "It shows that disasters caused by climate change can affect people in other countries, making wildfires a recurring health hazard for people far away.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "canadian wildfire smoke makes detroit s air very bad",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "Europe and Ukraine team up to make a strong defense with drones",
-      "summary": "The EU just agreed to give Ukraine \u20ac1 billion to make high-tech drones together. They will make these drones in European factories that are safe from Russian attacks.",
-      "why": "By combining Ukraine's experience in war with Europe's big industry, the continent is getting ready for a long, high-tech fight.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "europe and ukraine team up to make a strong defense",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "Google faces a setback in the AI race",
-      "summary": "Google delayed the release of their new AI model, Gemini 3.5 Pro, because it's not working as well as they hoped. Other companies like OpenAI keep releasing new AI models, and Google's engineers are feeling the pressure.",
-      "why": "This delay shows that even with a lot of money, building super-smart AI is really hard and has some big challenges.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "google faces a setback in the ai race",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "The U.S. and Iran trade direct strikes as the Middle East war sharply escalates",
-      "summary": "A fragile truce has completely shattered, and the U.S. has launched heavy airstrikes deeper inside Iran\u2014including near Tehran\u2014for the fifth straight night. Washington claims it is degrading Iran's ability to threaten shipping and has disabled an oil tanker to enforce a strict naval blockade. However, Tehran has slammed the strikes as 'barbaric' and retaliated by launching missiles and drones at Gulf states hosting U.S. bases. Iran is now threatening to destroy the region's power grids and infrastructure if the U.S. targets its own, while its Houthi allies are threatening Saudi oil facilities.",
-      "why": "This is a severe, direct military escalation in the Strait of Hormuz, a vital choke point handling a fifth of the world's oil supply. With both sides trading direct strikes and widening their target lists, the risk of an all-out regional war and a massive global energy crisis has spiked dramatically.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "the u s and iran trade direct strikes as the",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "Catastrophic, record-breaking floods swamp the Texas Hill Country",
-      "summary": "Relentless downpours of up to 20 inches have triggered life-threatening flash flood emergencies across south-central Texas. Rivers like the Guadalupe have surged over 30 feet in just a few hours, swamping roads and forcing emergency crews to conduct dozens of high-stakes water rescues. Governor Greg Abbott has declared a state of disaster across 59 counties as mandatory evacuations get underway, and at least one death has been confirmed.",
-      "why": "This is a fast-moving, record-shattering natural disaster that is actively unfolding. The extreme flooding has cut off entire communities, triggered urgent search-and-rescue operations, and threatened thousands of lives in a region still scarred by last year's deadly summer floods.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "catastrophic record breaking floods swamp the texas hill country",
-      "date": "2026-07-16"
-    },
-    {
       "headline": "US-Iran Conflict Explodes Into Major Warfare Over Strait of Hormuz",
       "summary": "The US and Iran are trading heavy blows after their ceasefire completely collapsed. The US just finished its sixth night of airstrikes, hitting critical infrastructure like bridges, an airport, and a railway in Iran. The US has also blocked all Iranian ports and is boarding ships to stop them. Iran is firing back with missiles targeting US bases and neighboring Gulf countries. Now, ships are avoiding the Strait of Hormuz, a super-important shipping lane, which has the head of the International Energy Agency worried about a global energy crisis.",
       "why": "This is a massive military escalation that looks like a full-blown war. By choking off the Strait of Hormuz\u2014which is like the main artery for the world's oil\u2014this fight could quickly spike global energy prices and drag the whole Middle East into a wider conflict.",
@@ -3998,6 +3948,56 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "powerful 7 7 magnitude earthquake strikes indonesia",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Sudan's Military Chief Offers Conditional Peace Dialogue",
+      "summary": "Sudan's army leader Abdel Fattah al-Burhan offered immunity for dialogue partners while strictly ruling out power-sharing with the paramilitary Rapid Support Forces. The ongoing civil war has triggered widespread famine and created the world's largest internal displacement crisis.",
+      "why": "",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "sudan s military chief offers conditional peace dialogue",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "US and Iran Lock Horns Over the Strait of Hormuz",
+      "summary": "Washington and Tehran have hit a wall in ceasefire negotiations after US President Trump proposed taking direct control over the Strait of Hormuz [1.1.7]. Iran's military warned it would resist any takeover, while the Pentagon prepares to rotate aircraft carriers to maintain naval pressure in the Gulf.",
+      "why": "About a fifth of the world's oil passes through this narrow passage, meaning any miscalculation could instantly send global energy prices soaring.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran lock horns over the strait of hormuz",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Europe's Record Heatwave Knocks Out Nuclear Power",
+      "summary": "More than 135 million people across Europe are enduring extreme heat above 35 degrees Celsius. The scorching temperatures have sharply dropped the Danube river's water levels, forcing Romania to shut down its only nuclear power plant because of cooling constraints.",
+      "why": "Extreme climate swings are directly threatening Europe's power grids, shipping routes, and energy reliability when demand is highest.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "europe s record heatwave knocks out nuclear power",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Ebola Outbreak Spreads to Sixth Province in DR Congo",
+      "summary": "Health authorities in the Democratic Republic of Congo confirmed that an aggressive Ebola outbreak has now reached six provinces. Emergency response teams are rushing to trace contacts and distribute vaccines to prevent the virus from reaching crowded regional transit hubs.",
+      "why": "",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ebola outbreak spreads to sixth province in dr congo",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Middle Eastern Powers Build a New Security Bloc",
+      "summary": "Turkey, Saudi Arabia, and Pakistan are cementing a mutual defense alliance, with Ankara signaling Egypt could be next to join. Riyadh is simultaneously rolling out a Red Sea defense pact to safeguard vital maritime corridors from regional militia attacks.",
+      "why": "Regional heavyweights are moving away from relying on Western military guarantees to handle their own neighborhood security.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "middle eastern powers build a new security bloc",
       "date": "2026-08-15"
     }
   ]
