@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "The US starts a new trade fight with Brazil",
-      "summary": "The US government put a big 25% tax on most things they import from Brazil. They say Brazil is being unfair and hurting the environment. Brazil is very upset and said they will put taxes on US goods too.",
-      "why": "This trade fight will cause problems for big supply chains that bring food and other important things to people in the Americas. This will hurt people's wallets.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "the us starts a new trade fight with brazil",
-      "date": "2026-07-16"
-    },
-    {
       "headline": "Canadian wildfire smoke makes Detroit's air very bad",
       "summary": "Thick smoke from big wildfires in Canada crossed the US border and covered the Midwest. Detroit's air became very polluted, making it the most polluted air on Earth. Millions of people had to stay inside.",
       "why": "It shows that disasters caused by climate change can affect people in other countries, making wildfires a recurring health hazard for people far away.",
@@ -3998,6 +3988,16 @@
       "severity": "HIGH",
       "mode": "afternoon",
       "fp": "ebola death in new drc province sparks containment race",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Powerful 7.7 Magnitude Earthquake Strikes Indonesia",
+      "summary": "A major 7.7 magnitude earthquake struck off the coast of eastern Indonesia, killing dozens of people, toppling buildings, and triggering regional tsunami alerts.",
+      "why": "A high-magnitude earthquake causing significant loss of life and heavy infrastructure damage constitutes a major natural disaster requiring emergency international response.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "powerful 7 7 magnitude earthquake strikes indonesia",
       "date": "2026-08-15"
     }
   ]
