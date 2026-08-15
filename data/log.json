@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "U.S. and Iran Launch Deep Mutual Strikes in Major Military Escalation",
-      "summary": "The United States has dramatically intensified its military strikes on Iran, hitting targets near Tehran and northern Iran for the first time in this round of fighting, and using Hellfire missiles to disable an oil tanker attempting to bypass a newly reimposed U.S. naval blockade. In response, Iran has launched retaliatory drone and missile attacks directly targeting U.S. military bases in Kuwait, Bahrain, and Jordan.",
-      "why": "This marks a severe, direct military escalation between two heavily armed nations. The hostilities have shattered a previous peace framework, closed the vital Strait of Hormuz shipping lane, and significantly increased the risk of an all-out regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran launch deep mutual strikes in major",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "U.S. Expands Strikes Deeper into Iran and Enforces Blockade as Tehran Retaliates in the Gulf",
-      "summary": "The U.S. military has stepped up its fight with Iran [2.1.3]. It launched heavy airstrikes deeper into northern Iran, even hitting areas near the capital, Tehran. The U.S. also used missiles to disable an oil tanker to keep its naval blockade going. Iran didn't back down. It fired missiles and drones at U.S. bases and allies in Jordan, Bahrain, and Kuwait. Both sides are trading heavy blows, pushing the region closer to an all-out war.",
-      "why": "This is a massive military escalation between two heavily armed powers. They are trading direct blows, enforcing blockades, and launching missiles across several Middle Eastern countries. This conflict directly threatens the Strait of Hormuz, which could choke off global oil supplies and trigger a massive economic shock.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s expands strikes deeper into iran and enforces blockade",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "US and Iran go back to war with big attacks in the Gulf",
-      "summary": "The short peace between the US and Iran is over. The US launched big air attacks on Iranian targets in the Strait of Hormuz. Now, Iran might block important shipping routes in the Red Sea.",
-      "why": "This could easily turn into a big regional war and make energy prices go up a lot.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us and iran go back to war with big attacks",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "Canadian wildfire smoke causes \"Code Red\" for 100 million people",
-      "summary": "Thick smoke from Canadian wildfires has moved south and is making the air bad in the US Midwest and Northeast. Many cities are under emergency alerts, warning people that breathing the air outside is not safe.",
-      "why": "It's a clear reminder of how climate change and hot summers are making it hard for people to stay healthy.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "canadian wildfire smoke causes code red for 100 million people",
-      "date": "2026-07-16"
-    },
-    {
-      "headline": "Europe and Ukraine team up on drones as missiles hit Kyiv",
-      "summary": "The EU and Ukraine have signed a big deal to build advanced military drones together. This happened as Russia launched new missile strikes on Kyiv.",
-      "why": "This binds Europe closer to Ukraine's defense and shows that the conflict is turning into a long-term, high-tech war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "europe and ukraine team up on drones as missiles hit",
-      "date": "2026-07-16"
-    },
-    {
       "headline": "Over 500 Rohingya refugees feared dead after boats sink",
       "summary": "Two boats with over 500 Rohingya refugees on board have sunk in the Bay of Bengal. They were trying to escape from bad conditions in Myanmar and Bangladesh during strong monsoon storms.",
       "why": "It's one of the worst sea disasters in years. It shows how desperate these families are to get away from a violent conflict.",
@@ -3999,6 +3949,56 @@
       "mode": "afternoon",
       "fp": "nato fighter downs drone over latvia amid border tensions",
       "date": "2026-08-14"
+    },
+    {
+      "headline": "Deadly Ebola outbreak in DR Congo spreads rapidly",
+      "summary": "Health authorities report an escalating Ebola outbreak in the Democratic Republic of the Congo, with over 4,600 cases and more than 2,100 deaths recorded [1.2.6]. Early infections were misdiagnosed as malaria and typhoid, slowing containment in remote communities. Medical workers are now racing to deploy vaccines and stop the virus from spilling across porous borders.",
+      "why": "Uncontained outbreaks in fragile healthcare systems can quickly jump across borders and spark an international health crisis.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "deadly ebola outbreak in dr congo spreads rapidly",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Renewed military strikes raise Middle East war risks",
+      "summary": "Recent strikes targeting naval vessels, logistics hubs, and military positions have renewed fears of a wider conflict across critical Middle Eastern transit corridors. Global shipping operators and energy markets remain on high alert as chokepoints face continued instability. Diplomats warn that persistent retaliation cycles risk dragging major regional powers into direct confrontation.",
+      "why": "Disruptions in vital maritime choke points directly drive up shipping insurance, fuel prices, and everyday grocery costs across the globe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "renewed military strikes raise middle east war risks",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Powerful 7.7 magnitude earthquake rocks eastern Indonesia",
+      "summary": "A strong shallow earthquake struck Indonesia's Flores region, triggering tsunami alerts and damaging homes across coastal islands. Rescuers report at least 20 people killed and thousands evacuated into the hills for safety. Emergency teams are navigating disrupted power and transport links to reach isolated villages as aftershocks hit.",
+      "why": "Major quakes along the Pacific Ring of Fire threaten vulnerable island infrastructure and can trigger destructive sea surges.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "powerful 7 7 magnitude earthquake rocks eastern indonesia",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Long-range drone strikes target Russian oil refineries",
+      "summary": "A Ukrainian drone attack hit a major oil processing plant in Tatarstan, hundreds of miles inside Russia, killing and injuring dozens. The strike is part of a broader push to choke fuel flows to the front line and dent Moscow's primary revenue source. Russia continues to respond with intense missile and drone barrages against Ukrainian energy grids.",
+      "why": "Attacking energy infrastructure squeezes war financing but also injects volatility into global fuel and commodity markets.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "long range drone strikes target russian oil refineries",
+      "date": "2026-08-15"
+    },
+    {
+      "headline": "Afghanistan marks five years under Taliban rule in deep crisis",
+      "summary": "Afghanistan has reached five years under Taliban governance, with over 2.4 million girls shut out of secondary school and public life. The country's formal economy remains crippled, leaving millions of families dependent on humanitarian aid. While regional neighbors are quietly establishing working ties, Western governments withhold formal recognition over human rights abuses.",
+      "why": "Barring half a generation from education and the workforce entrenches chronic poverty and destabilizes long-term regional security.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "afghanistan marks five years under taliban rule in deep crisis",
+      "date": "2026-08-15"
     }
   ]
 }
