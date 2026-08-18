@@ -1,196 +1,6 @@
 {
   "entries": [
     {
-      "headline": "U.S. and Iran Direct Conflict Reaches Boiling Point with Infrastructure and Base Strikes",
-      "summary": "The direct military conflict between the United States and Iran has escalated drastically as the U.S. launched its seventh consecutive night of airstrikes on critical Iranian infrastructure, including bridges and a port control tower. Iran retaliated with a barrage of missiles and drones targeting U.S. military bases across Jordan, Qatar, Bahrain, Saudi Arabia, and Kuwait, where a key power and water desalination plant was damaged and several U.S. troops were injured. Shipping through the Strait of Hormuz has ground to a standstill.",
-      "why": "This represents a sharp military escalation and direct war between the U.S. and Iran, threatening a wider regional conflict, bringing global energy shipping in the Strait of Hormuz to a halt, and risking a global energy crisis.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran direct conflict reaches boiling point with",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "U.S. and Iran trade heavy airstrikes for a seventh night as Middle East conflict boils over",
-      "summary": "The shaky peace talks between the U.S. and Iran have collapsed into a direct shooting war [2.3.7]. For seven nights straight, U.S. forces have bombed Iranian bridges, power grids, and military hubs. Iran has responded by launching waves of missiles and suicide drones directly targeting U.S. military bases in Jordan, Kuwait, and Bahrain. To prepare for a massive escalation, the U.S. is now rushing extra F-15, F-16, and F-35 fighter jets and aerial tankers to the region.",
-      "why": "This is a direct, active military conflict between the U.S. and Iran rather than a proxy battle. It threatens to permanently shut down the Strait of Hormuz, which is the world's most critical choke point for oil shipping, and could drag the entire Middle East into a massive, uncontrolled war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran trade heavy airstrikes for a seventh",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "US and Iran trade heavy fire as oil route shuts down",
-      "summary": "The US military just wrapped up a seventh straight night of airstrikes on Iran to force open the Strait of Hormuz shipping route. In response, Iran has launched missiles and drones hitting US military bases and civilian water facilities in Kuwait, Bahrain, and Jordan. With both sides dug in, shipping through the vital strait has frozen up and global oil prices are shooting up.",
-      "why": "This showdown is happening in the world's most critical oil pipeline, and a full-scale war here could choke off global energy supplies and trigger a massive economic crisis.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us and iran trade heavy fire as oil route shuts",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "Russian court demands Euroclear pay $230 billion over frozen assets",
-      "summary": "A Russian appeals court has ordered Euroclear, the Belgian bank holding most of Russia's frozen funds, to pay $230 billion in damages. While Western courts won't enforce this, Russia plans to go after Euroclear's assets in friendly nations like China and the UAE.",
-      "why": "This legal battle moves the fight over frozen assets to a global stage, risking a major disruption to the hidden plumbing of the international banking system.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "russian court demands euroclear pay 230 billion over frozen assets",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "Powerful 7.4-magnitude earthquake strikes the Mexico-Guatemala border",
-      "summary": "A major earthquake hit off the Pacific coast of southern Mexico, triggering panic and evacuation orders from Mexico City down to El Salvador. While the initial tsunami alerts have been lifted, several strong aftershocks continue to shake the region.",
-      "why": "A tremor of this scale in a vulnerable area threatens millions of lives, disrupts critical infrastructure, and tests the region's disaster preparedness.",
-      "domain": "Society",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "powerful 7 4 magnitude earthquake strikes the mexico guatemala border",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "America\u2019s biggest housing bill in decades quietly becomes law",
-      "summary": "A massive bipartisan plan called the 'ROAD to Housing Act' has officially become law without President Trump\u2019s signature. The new law aims to lower housing costs and build more homes. Most notably, it stops giant private equity firms from buying up single-family houses.",
-      "why": "This is the biggest shakeup to the US housing market in thirty years, aimed at giving ordinary families a fair shot against Wall Street investors.",
-      "domain": "Society",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "america s biggest housing bill in decades quietly becomes law",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "Trump threatens Canada with tariffs over wildfire smoke",
-      "summary": "Hundreds of out-of-control Canadian wildfires are blowing thick, toxic smoke into the US, putting 100 million Americans under air quality alerts. In response, President Trump has threatened to slap heavy tariffs on Canadian goods to make them pay for the pollution.",
-      "why": "It shows how extreme climate events are now sparking real-world trade wars and dividing close economic allies.",
-      "domain": "Climate",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "trump threatens canada with tariffs over wildfire smoke",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "U.S. and Iran trade heavy military strikes as Strait of Hormuz conflict escalates",
-      "summary": "The U.S. has completed its seventh straight night of heavy airstrikes against Iranian port infrastructure and weapons depots. Iran retaliated by launching missiles and drones at U.S. military targets in Kuwait, Jordan, and Bahrain. On top of that, Iran claims two oil tankers just exploded after hitting sea mines in the Strait of Hormuz.",
-      "why": "This is a direct, open war between the U.S. and Iran. The Strait of Hormuz is like the main artery for the global energy trade. Choking it off could send world oil prices through the roof and drag the entire region into a massive, uncontrolled conflict.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran trade heavy military strikes as strait",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "U.S.-Iran War escalates sharply with seventh night of airstrikes and retaliatory strikes across the Gulf",
-      "summary": "The conflict between the United States and Iran has reached a dangerous flashpoint as the U.S. conducted a seventh consecutive night of heavy airstrikes targeting critical southern Iranian infrastructure, including bridges, roads, and port facilities near the Strait of Hormuz. In retaliation, Iran launched missile and drone attacks targeting Gulf nations hosting U.S. bases, hitting vital power and water desalination facilities in Kuwait and triggering air defense alarms in Bahrain.",
-      "why": "This is a direct, heavy military escalation between two powerful nations that has effectively pushed them into a state of war. The conflict threatens to draw in multiple Middle Eastern states and has nearly halted shipping in the Strait of Hormuz, threatening a massive global energy crisis.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s iran war escalates sharply with seventh night of",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "Massive 7.3-magnitude earthquake strikes off the Pacific coast of Mexico and Guatemala",
-      "summary": "A powerful 7.3-magnitude earthquake struck off the southern Pacific coast of Mexico near the border with Guatemala. The strong tremor prompted widespread evacuations, caused structural damage to buildings, and triggered brief tsunami warnings along the Pacific coast of Central America before threats were lifted.",
-      "why": "A 7.3-magnitude earthquake is a major natural disaster that poses an immediate threat to human life and critical infrastructure across multiple Central American nations.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "massive 7 3 magnitude earthquake strikes off the pacific coast",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "US-Iran Conflict Escalates to Seven Straight Nights of Airstrikes as Bahrain Intercepts Retaliatory Attacks",
-      "summary": "The United States conducted its seventh consecutive night of heavy airstrikes against Iran, targeting transport infrastructure such as bridges and port facilities to break Iran's grip on the Strait of Hormuz. In response, Iran launched retaliatory aerial attacks across the region; on July 18, 2026, Bahrain's military announced it had intercepted and destroyed multiple Iranian drones and missiles targeting the kingdom.",
-      "why": "This is a major military escalation that has effectively collapsed a recent June truce and pushed the U.S. and Iran back to the brink of all-out war. The hostilities have choked off shipping in the Strait of Hormuz\u2014the world's most critical transit route for oil and gas\u2014raising immediate global energy security alarms as daily commercial transits drop to nearly zero.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us iran conflict escalates to seven straight nights of airstrikes",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "U.S. and Iran trade massive strikes as month-old peace deal completely falls apart",
-      "summary": "The U.S. just finished its seventh straight night of bombing inside Iran, hitting key bridges and roads to block a major port. In response, Iran launched a massive wave of missiles and drones at U.S. bases and allies in the Gulf. They hit an oil facility and a drinking-water plant in Kuwait, while Bahrain and Jordan scrambled to shoot down incoming fire. Iran also officially announced they are ripping up the peace deal they signed with the U.S. just last month. Both sides are now basically ignoring past red lines, and Iran is warning of a 'full-scale' clash if the U.S. doesn't back down.",
-      "why": "This is a massive military escalation that could easily turn into a full-blown war. With the brand-new peace deal dead in the water, both countries are actively hitting critical infrastructure. By targeting things like oil facilities and water plants in neighboring countries, the conflict is spilling across the Middle East and threatens to choke off the Strait of Hormuz\u2014the world's most important choke point for oil.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran trade massive strikes as month old",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "Direct U.S.-Iran Conflict Closes Critical Strait of Hormuz",
-      "summary": "The U.S. launched a seventh night of airstrikes hitting Iranian port infrastructure, triggering retaliatory Iranian missile attacks on key water and oil facilities in Gulf states like Kuwait and Bahrain. Global shipping through the Strait of Hormuz has plummeted to almost zero, with only three commodity vessels transiting the vital waterway in a 24-hour period.",
-      "why": "Disrupting this primary global oil transit route threatens a major global energy shock and risks drawing the Middle East into a full-scale war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "direct u s iran conflict closes critical strait of hormuz",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "Powerful 7.3-Magnitude Earthquake Strikes Mexico-Guatemala Border",
-      "summary": "A major 7.3-magnitude earthquake hit the Pacific coast of southern Mexico near Chiapas, sending tremors through Guatemala City and Mexico City. The quake forced widespread evacuations across both countries, and local authorities are currently monitoring coastal areas for potential tsunami threats.",
-      "why": "Large earthquakes in this seismically active border region can devastate fragile infrastructure and displace vulnerable communities.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "powerful 7 3 magnitude earthquake strikes mexico guatemala border",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "Zelensky Sparks Massive Protests by Firing Ukraine\u2019s Defense Minister",
-      "summary": "Large crowds have taken to the streets in Kyiv and other Ukrainian cities to protest President Volodymyr Zelensky's dismissal of Defense Minister Mykhailo Fedorov. Fedorov, a popular tech reformer who spearheaded Ukraine's drone and electronic warfare programs, was ousted after clashing with the military's old-guard leadership.",
-      "why": "This political crisis fractures Ukraine\u2019s domestic unity and threatens to undermine its technology-led defense strategies against Russia.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "zelensky sparks massive protests by firing ukraine s defense minister",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "Extreme Wildfire Crises Trigger Severe Air Quality Alerts Across the U.S. and Europe",
-      "summary": "Toxic smoke from ongoing Canadian wildfires has drifted south to blanket the Upper Midwest and Northeast, triggering hazardous air quality warnings in 19 U.S. states. Meanwhile, Spain is battling its largest wildfire of the season, marking a highly active and dangerous wildfire summer across both continents.",
-      "why": "The sheer scale of these wildfires highlights how climate change is posing an immediate threat to global public health and the environment.",
-      "domain": "Climate",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "extreme wildfire crises trigger severe air quality alerts across the",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "EU Backtracks on Carbon Emission Cut Pace to Protect Industry",
-      "summary": "The European Commission is preparing an overhaul of its carbon market that will slow down emission reduction targets for heavy industries over the next decade. The shift is designed to give companies breathing room to adopt clean tech while surviving high energy costs and global competition from the U.S. and China.",
-      "why": "This move exposes the difficult trade-offs governments face when balancing immediate economic survival with long-term climate goals.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "eu backtracks on carbon emission cut pace to protect industry",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "US-Iran War Escalates as Gulf Allies and Infrastructure are Hit",
-      "summary": "The fragile ceasefire between the US and Iran has totally collapsed. After seven straight nights of US airstrikes on Iranian infrastructure, Iran fired back on July 18, 2026. They launched missiles and drones at US allies in the Gulf. Kuwait got hit hard, suffering damage to a key water desalination plant and an oil facility, which forced its international airport to shut down. Other countries like Jordan and Bahrain had to shoot down incoming missiles. Both sides are now trading heavy blows, and Iran's leader is promising to teach the US 'unforgettable lessons.'",
-      "why": "This is a major military escalation. The two sides are sliding back into an all-out war. It directly threatens the Strait of Hormuz, which is like the world's main pipeline for oil and gas. If it gets blocked, energy prices across the globe will shoot up.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us iran war escalates as gulf allies and infrastructure are",
-      "date": "2026-07-18"
-    },
-    {
-      "headline": "Two US troops killed in Jordan as US-Iran conflict escalates",
-      "summary": "Two American soldiers were killed and another went missing after Iran launched a ballistic missile and drone attack on a military base in Jordan. This comes after the US finished its seventh straight night of heavy airstrikes on Iranian targets. A fragile ceasefire agreed upon last month has completely shattered, and both sides are trading heavy blows across the Middle East.",
-      "why": "This is a major military escalation. These are the first US combat deaths since the brief peace deal collapsed, putting the US and Iran back on the path to an all-out regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "two us troops killed in jordan as us iran conflict",
-      "date": "2026-07-18"
-    },
-    {
       "headline": "US Troops Killed in Jordan Airbase Attack, Igniting Major US Retaliation and Fears of Full War with Iran",
       "summary": "Two US soldiers were killed and another is missing after Iran hit a military base in Jordan with missiles and drones [2.2.4]. The US fired back immediately, launching a massive wave of airstrikes on Iran. This marks the eighth consecutive night of American bombing, which began after a fragile truce between the two countries fell apart last week.",
       "why": "This is a major military escalation because it is the first time American troops have been killed since the fighting flared up again. It moves the US and Iran from tense standoffs directly into an active, deadly shooting war, threatening to drag the entire Middle East into conflict and choke off vital global energy routes.",
@@ -3809,6 +3619,16 @@
       "mode": "afternoon",
       "fp": "us scales back military drills with south korea",
       "date": "2026-08-17"
+    },
+    {
+      "headline": "US-Iran Peace Window Closes as Trump Threatens Military Action Against Oman",
+      "summary": "A 60-day temporary peace agreement between the United States and Iran expired without a permanent deal to end their ongoing conflict. After Iran announced a separate shipping plan with Oman for the vital Strait of Hormuz, President Trump publicly threatened to bomb Oman if it gets in the way of US operations.",
+      "why": "The diplomatic window to pause the war has officially collapsed, and threatening military strikes against a neutral mediator risks pulling new countries into the conflict and choking off global oil shipping.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran peace window closes as trump threatens military action",
+      "date": "2026-08-18"
     }
   ]
 }
