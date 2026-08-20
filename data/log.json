@@ -3349,6 +3349,56 @@
       "mode": "evening",
       "fp": "us and canada agree on trade deal to avert tariffs",
       "date": "2026-08-19"
+    },
+    {
+      "headline": "US national debt climbs past $40 trillion",
+      "summary": "America's total federal debt has doubled in less than a decade, driven by tax cuts, big relief packages, and steep interest rates. Critics on one side argue public investment is needed to keep the economy afloat, while fiscal hawks warn the government is drowning in its own tab. It works like carrying a maxed-out credit card into a storm \u2014 paying just the monthly interest eats up money meant for schools, roads, and healthcare.",
+      "why": "Higher borrowing costs in the world's largest economy pull money away from public services and push interest rates up globally.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us national debt climbs past 40 trillion",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "Massive Russian strikes hit Kyiv power grid and civilian areas",
+      "summary": "Russia launched one of its heaviest missile barrages in months against Kyiv and regional centers, killing civilians and damaging energy infrastructure. Moscow claims it aimed at military support targets, while Ukrainian officials and Western allies call it a deliberate attempt to freeze the population. This barrage lands right as Kyiv reshuffles top officials to crack down on internal corruption and keep troops supplied.",
+      "why": "Knocking out basic utilities before winter threatens millions of lives and tests whether foreign allies can sustain basic support for Ukraine.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "massive russian strikes hit kyiv power grid and civilian areas",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "US tightens economic squeeze on Iran amid Gulf standoff",
+      "summary": "Washington launched a sweeping new campaign to cut off Iran's remaining trade and financial lifelines after nuclear diplomacy stalled [1.2.2]. The White House sees this as a non-military way to force Tehran to the table, but Gulf neighbors worry it could trigger retaliatory strikes on shipping lanes. It is like tightening the lid on a boiling pot, with energy markets bracing for steam to blow out elsewhere.",
+      "why": "Any disruption to Gulf trade and fuel routes immediately hits the price of gas, food, and shipping worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us tightens economic squeeze on iran amid gulf standoff",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "mRNA skin cancer vaccine clears crucial late-stage trial",
+      "summary": "Moderna and Merck announced that their custom-made cancer shot successfully cut the chance of melanoma returning in high-risk patients. The vaccine acts like handing the patient's own immune system a wanted poster, teaching white blood cells to hunt down hidden tumor cells before they grow back. Doctors view the success as the first solid proof that pandemic-era mRNA tools can beat long-standing killer diseases.",
+      "why": "It confirms that personalized gene vaccines work in real patients, paving the way for targeted treatments against many other cancers.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "mrna skin cancer vaccine clears crucial late stage trial",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "Ebola death outside known hot zone triggers alarm in Congo",
+      "summary": "Health officials in the Democratic Republic of Congo confirmed an Ebola death in a province previously thought clear of the virus. Local clinics are already drained by fighting between rebel groups and bare-bones budgets, making contact tracing very difficult. Finding the virus in a new area is like spotting a new ember miles past a wildfire line.",
+      "why": "If a deadly virus breaks out of containment in a conflict area, it can quickly turn into a cross-border public health emergency.",
+      "domain": "Health",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "ebola death outside known hot zone triggers alarm in congo",
+      "date": "2026-08-20"
     }
   ]
 }
