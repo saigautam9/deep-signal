@@ -3449,6 +3449,56 @@
       "mode": "afternoon",
       "fp": "china sentences evergrande founder to life in prison",
       "date": "2026-08-20"
+    },
+    {
+      "headline": "US national debt crosses $40 trillion",
+      "summary": "The United States government officially passed forty trillion dollars in public debt, reaching the milestone years ahead of official forecasts [1.2.5]. The total has doubled in less than a decade, driven by accelerating borrowing and sharp interest payments. Rising debt servicing costs are now competing directly with spending on basic infrastructure and social programs.",
+      "why": "When the world's anchor economy runs on a heavily strained credit card, higher borrowing costs and inflation risks spill over into every global market.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us national debt crosses 40 trillion",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "US-Iran confrontation deepens around Persian Gulf",
+      "summary": "The United States ramped up pressure on Tehran with threats of total economic isolation and intensified naval enforcement around the Strait of Hormuz. Regional trade partners including the UAE moved to sever financial links, while maritime transport through key shipping lanes remains heavily disrupted. Iran dismissed the pressure and warned it will maintain an aggressive posture against foreign naval intervention.",
+      "why": "Squeezing the world's most critical oil transit choke point threatens global energy supplies and keeps the risk of an all-out regional war on a hair trigger.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us iran confrontation deepens around persian gulf",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "Russian strikes on Kyiv spill near NATO borders",
+      "summary": "A heavy Russian missile and drone barrage hit the Ukrainian capital, killing at least 16 people and knocking out vital municipal infrastructure. Debris and explosive drones from the overnight raid were detected across the border in neighboring Romania and Moldova. Both sides continue to trade massive long-range drone attacks as formal diplomatic peace efforts remain stalled.",
+      "why": "Attacks bleeding into the territory of border states sharply increase the danger of accidental escalation between Russia and NATO.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "russian strikes on kyiv spill near nato borders",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "Record Ebola outbreak triggers emergency response in Congo",
+      "summary": "The Democratic Republic of the Congo is facing its deadliest Bundibugyo Ebola outbreak to date, with hundreds dying before reaching medical care. The United Nations and health agencies rushed 70,000 vaccine doses to the region to protect frontline workers. Teams have set up emergency screening corridors along the 1,700-kilometer Congo River to block the virus from traveling between major population hubs.",
+      "why": "Containing a fast-moving lethal pathogen along major river transit routes is essential to prevent a wider public health disaster across central Africa.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "record ebola outbreak triggers emergency response in congo",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "Evergrande founder gets life sentence in China real estate crackdown",
+      "summary": "A Chinese court sentenced Evergrande founder Hui Ka Yan to life in prison for large-scale financial fraud, embezzlement, and bribery. Authorities also handed down billions of dollars in penalties to the developer's corporate entities. The landmark ruling represents Beijing's most aggressive legal reckoning yet with the debt-driven property bubble that destabilized its economy.",
+      "why": "The harsh punishment signals a definitive end to unchecked corporate borrowing and reshapes how Beijing manages risk in the world's second-largest economy.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "evergrande founder gets life sentence in china real estate crackdown",
+      "date": "2026-08-20"
     }
   ]
 }
