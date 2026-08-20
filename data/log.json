@@ -3399,6 +3399,56 @@
       "mode": "morning",
       "fp": "ebola death outside known hot zone triggers alarm in congo",
       "date": "2026-08-20"
+    },
+    {
+      "headline": "Heavy Russian air barrages pound Kyiv and Ukraine's power grid",
+      "summary": "Russia launched heavy missile and drone strikes on Kyiv and regional hubs, damaging critical infrastructure and causing civilian casualties. The renewed assault comes as political unity faces strain in Ukraine over wartime governance and defense needs. European allies are rushing emergency repairs to secure the energy grid before colder months arrive.",
+      "why": "Knocking out basic utilities threatens the daily survival of millions and tests the endurance of European security.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "heavy russian air barrages pound kyiv and ukraine s power",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "Humanitarian crisis deepens in Gaza as truce talks stall",
+      "summary": "Intense military operations in Gaza continue to displace civilian families into ever-shrinking pockets with scarce food, clean water, and medicine. Regional mediators in Qatar are struggling to secure a breakthrough for a lasting ceasefire. Aid groups warn that public health and basic survival systems are near complete collapse.",
+      "why": "Beyond the massive human toll, the ongoing violence keeps the entire region on a hair-trigger for wider conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "humanitarian crisis deepens in gaza as truce talks stall",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "US ramps up economic pressure campaign against Iran",
+      "summary": "The US has launched a massive economic push targeting countries and shippers dealing with Iran. Oil routes through the Persian Gulf are on edge as both sides trade warnings and maritime tensions rise. Key allies and markets are caught in the middle, bracing for supply chain fallout and volatile energy prices.",
+      "why": "It threatens the world's main oil highway, which directly drives up what everyday people pay for fuel and groceries.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us ramps up economic pressure campaign against iran",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "US juries find major social platforms liable for youth addiction",
+      "summary": "Courts delivered landmark verdicts holding tech companies liable for designing addictive features that harmed children's mental health. The rulings weaken the long-standing legal shields that previously protected social media giants from liability over platform harm. Regulators and tech companies now face intense pressure to fundamentally rethink algorithmic feeds.",
+      "why": "It could force big tech to redesign how apps work, reshaping the digital environment for billions of young users.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us juries find major social platforms liable for youth addiction",
+      "date": "2026-08-20"
+    },
+    {
+      "headline": "China sentences Evergrande founder to life in prison",
+      "summary": "A Chinese court handed a life sentence and massive fines to the founder of property giant Evergrande for financial fraud. The company collapsed under a mountain of debt, leaving millions of unfinished apartments across the country. Beijing wants to show strong accountability, but the broader property slump still drags down consumer confidence.",
+      "why": "When China's giant housing market stumbles, the whole global economy feels the chill through slower growth and weaker trade.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "china sentences evergrande founder to life in prison",
+      "date": "2026-08-20"
     }
   ]
 }
