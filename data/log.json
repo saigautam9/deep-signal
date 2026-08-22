@@ -3139,6 +3139,56 @@
       "mode": "morning",
       "fp": "bangladesh elects veteran leader amid youth protests",
       "date": "2026-08-21"
+    },
+    {
+      "headline": "Russia and Ukraine Trade Massive Strikes as Peace Talks Stall",
+      "summary": "A fierce round of missile and drone attacks has struck deep inside both Ukraine and Russia, targeting fuel refineries and city centers. Ceasefire discussions mediated by foreign powers remain deadlocked over borders and long-term security guarantees. Both sides are focusing on damaging each other's war economy rather than backing down.",
+      "why": "The continued fighting keeps Europe's security on edge and threatens international grain and energy routes.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russia and ukraine trade massive strikes as peace talks stall",
+      "date": "2026-08-22"
+    },
+    {
+      "headline": "US and Iran Lock Horns as China Rejects New Economic Pressure",
+      "summary": "The United States is escalating severe trade penalties against Iran, but China has openly refused to go along with the measures [1.2.5]. Beijing is keeping its trade doors open with Tehran, deepening divisions between global powers. Financial markets are already jittery over the possibility of higher energy costs and supply disruptions.",
+      "why": "It risks driving up global fuel prices and tests how much punch American sanctions have when other superpowers push back.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran lock horns as china rejects new economic",
+      "date": "2026-08-22"
+    },
+    {
+      "headline": "Middle East Ceasefire Efforts Struggle Amid Renewed Border Strikes",
+      "summary": "Cross-border bombardments continue across southern Lebanon and Gaza even as diplomats scramble to negotiate a ceasefire. Humanitarian conditions are deteriorating rapidly for hundreds of thousands of displaced families. Mediators are running into stiff resistance from all sides on key terms.",
+      "why": "Any wider flare-up threatens to pull neighboring nations into the fighting and disrupt vital maritime trade routes.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "middle east ceasefire efforts struggle amid renewed border strikes",
+      "date": "2026-08-22"
+    },
+    {
+      "headline": "Court Verdict Finds Social Media Platforms Liable for Addiction",
+      "summary": "A landmark trial has held top social media companies legally responsible for platform designs that hook young users. Tech firms argue they have safety measures in place, but juries concluded that platform features actively encouraged harmful screen addiction. The decision creates a major legal precedent that could reshape internet regulations worldwide.",
+      "why": "It could force big tech to completely overhaul their algorithms and put user wellbeing ahead of engagement.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "court verdict finds social media platforms liable for addiction",
+      "date": "2026-08-22"
+    },
+    {
+      "headline": "Panama Canal Caps Ship Traffic Due to Severe Drought",
+      "summary": "Authorities have limited the number of daily vessels passing through the Panama Canal because low rainfall has drained the reservoirs that feed the locks. Giant cargo carriers must now wait in long queues or take expensive multi-week detours around South America. It works like a sudden bottleneck on one of the busiest crossroads in global commerce.",
+      "why": "Slower shipping times mean pricier freight and higher price tags for everyday store goods.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "panama canal caps ship traffic due to severe drought",
+      "date": "2026-08-22"
     }
   ]
 }
