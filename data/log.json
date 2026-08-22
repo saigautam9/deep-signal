@@ -3189,6 +3189,16 @@
       "mode": "morning",
       "fp": "panama canal caps ship traffic due to severe drought",
       "date": "2026-08-22"
+    },
+    {
+      "headline": "US-Canada trade talks collapse, triggering 50% tariffs and retaliation",
+      "summary": "High-stakes trade negotiations between the US and Canada broke down just before a midnight deadline. Washington moved ahead with 50% tariffs on tens of billions in Canadian goods, prompting Ottawa to halt talks and pledge matching dollar-for-dollar counter-tariffs.",
+      "why": "The US and Canada run one of the biggest trading partnerships on Earth. Dropping sudden 50% taxes on major goods instantly jolts cross-border supply chains, drives up consumer costs, and marks a severe economic policy rift between close allies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us canada trade talks collapse triggering 50 tariffs and retaliation",
+      "date": "2026-08-22"
     }
   ]
 }
