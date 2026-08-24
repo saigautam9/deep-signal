@@ -2999,6 +2999,56 @@
       "mode": "evening",
       "fp": "evergrande founder sentenced to life for massive property fraud",
       "date": "2026-08-22"
+    },
+    {
+      "headline": "European Allies Move to Boost Ukraine's Long-Range Arms Production",
+      "summary": "Western partners gathered in Kyiv to bolster Ukraine's depleted air defenses as the conflict grinds past another independence anniversary. As part of the support package, the UK agreed to share blueprints so Ukraine can produce long-range missiles domestically. The move aims to make Ukraine's defense industry more self-reliant over the long haul.",
+      "why": "Shifting to local missile production deepens Europe's long-term defense network and alters deterrence against Russia.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "european allies move to boost ukraine s long range arms",
+      "date": "2026-08-24"
+    },
+    {
+      "headline": "US and Canada Slap Heavy Tariffs on Each Other as Trade Talks Collapse",
+      "summary": "Trade negotiations between Washington and Ottawa fell apart, prompting the US to slap 50% tariffs on around $20 billion of Canadian goods [1.2.4]. Canada immediately vowed to hit back with matching duties, signaling a sharp escalation between the two close neighbors. Both governments are digging in for what could become a long economic fight.",
+      "why": "It threatens to drive up grocery and manufacturing costs across North America while shaking global supply chains.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us and canada slap heavy tariffs on each other as",
+      "date": "2026-08-24"
+    },
+    {
+      "headline": "US-Iran Standfall Deepens as Truce Window Closes Near Strait of Hormuz",
+      "summary": "A 60-day diplomatic window between the US and Iran expired without an extension, prompting Washington to threaten sweeping new economic measures. The standoff over shipping lanes in the Strait of Hormuz remains unresolved, keeping regional waterways tense. Global energy markets are closely tracking the friction as crude oil prices swing.",
+      "why": "Any prolonged pinch on Gulf shipping routes directly impacts world fuel prices and global inflation.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us iran standfall deepens as truce window closes near strait",
+      "date": "2026-08-24"
+    },
+    {
+      "headline": "Israel and Syria Hold Rare Backchannel Talks to Defuse Clashes",
+      "summary": "Officials from Israel and Syria engaged in US-mediated talks following a spate of cross-border airstrikes and drone attacks. The quiet dialogue aims to establish clear ground rules and prevent localized skirmishes from spiraling. Both sides are testing whether fragile diplomacy can cool down the volatile frontier.",
+      "why": "Direct communication between old adversaries lowers the risk of a wider Middle Eastern war dragging in regional allies.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "israel and syria hold rare backchannel talks to defuse clashes",
+      "date": "2026-08-24"
+    },
+    {
+      "headline": "Iceland Weighs Historic Vote on Reopening European Union Talks",
+      "summary": "Iceland is holding a key referendum on whether to restart negotiations to join the European Union. Voters are balancing the promise of stronger economic stability against longstanding fears of losing control over their fishing waters. The debate reflects broader anxiety among smaller nations seeking shelter in uncertain times.",
+      "why": "A pivot toward Brussels would reshape Arctic trade and signal changing strategic alignments in northern Europe.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "iceland weighs historic vote on reopening european union talks",
+      "date": "2026-08-24"
     }
   ]
 }
