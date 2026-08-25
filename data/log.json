@@ -2819,6 +2819,56 @@
       "mode": "morning",
       "fp": "iceland weighs historic vote on reopening european union talks",
       "date": "2026-08-24"
+    },
+    {
+      "headline": "US rolls out sweeping global sanctions against Iran",
+      "summary": "Washington launched a major economic pressure campaign targeting any international bank or country doing business with Tehran [1.2.8]. The new secondary sanctions aim to choke off Iran's oil revenue and isolate its financial system.",
+      "why": "It threatens to disrupt global energy markets and forces trade partners in Asia and Europe to choose between American markets and Iranian oil.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us rolls out sweeping global sanctions against iran",
+      "date": "2026-08-25"
+    },
+    {
+      "headline": "Relentless European heatwaves cause 35,000 excess deaths",
+      "summary": "Consecutive waves of record high temperatures across Europe have killed more than 35,000 people and pushed power grids to the limit. Financial analysts warn the heat is hammering crop yields, drying river trade routes, and driving up insurance costs.",
+      "why": "It shows extreme heat is moving from an occasional weather hazard into a chronic burden on public health systems and national budgets.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "relentless european heatwaves cause 35 000 excess deaths",
+      "date": "2026-08-25"
+    },
+    {
+      "headline": "US and Canada clash over massive 50% auto tariffs",
+      "summary": "The US announced plans to hit Canadian auto and steel imports with a 50 percent tariff starting in January, prompting Canada to prepare retaliation. Because car parts cross the northern border multiple times during production, the dispute strikes at the heart of integrated North American factories.",
+      "why": "Hitting vehicle trade with hefty levies will drive up car prices for everyday buyers and risk factory jobs across both nations.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and canada clash over massive 50 auto tariffs",
+      "date": "2026-08-25"
+    },
+    {
+      "headline": "UK gives Ukraine blueprints to build long-range missiles",
+      "summary": "Britain agreed to provide Ukraine with the technical plans needed to manufacture long-range strike weapons on its own soil. The move is designed to make Kyiv less dependent on slow foreign weapon deliveries.",
+      "why": "It ramps up Ukraine's domestic strike capabilities and shows European allies are shifting toward long-term defense production.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "uk gives ukraine blueprints to build long range missiles",
+      "date": "2026-08-25"
+    },
+    {
+      "headline": "Deadly gang offensive in Haiti deepens humanitarian crisis",
+      "summary": "Coordinated gang assaults across Port-au-Prince killed dozens of residents and forced thousands of families from their homes. The spike in violence has choked off food and medical deliveries to the hardest-hit neighborhoods.",
+      "why": "The surge in violence pushes Haiti's fragile capital closer to total paralysis and deepens an already severe hunger crisis.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "deadly gang offensive in haiti deepens humanitarian crisis",
+      "date": "2026-08-25"
     }
   ]
 }
