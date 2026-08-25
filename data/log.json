@@ -2869,6 +2869,56 @@
       "mode": "morning",
       "fp": "deadly gang offensive in haiti deepens humanitarian crisis",
       "date": "2026-08-25"
+    },
+    {
+      "headline": "US National Debt Crosses Historic $40 Trillion Mark",
+      "summary": "The total debt owed by the United States government officially climbed past $40 trillion for the first time. High interest rates mean the government now spends massive sums every month just to pay interest on its loans. That leaves less taxpayer cash available for healthcare, roads, education, and defense.",
+      "why": "Runaway debt can weaken the dollar, keep inflation sticky, and push up borrowing costs for ordinary families.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us national debt crosses historic 40 trillion mark",
+      "date": "2026-08-25"
+    },
+    {
+      "headline": "Ukraine Pleads for Urgent Air Defense Replacements",
+      "summary": "Ukrainian officials launched a diplomatic push to secure more Patriot missile batteries to defend energy grids and major cities from air strikes. European partners are coordinating to negotiate air defense shipments with US counterparts. Securing these batteries is becoming harder as domestic stockpiles and production capacity remain tight across donor nations.",
+      "why": "A shortfall in air defenses leaves millions of ordinary people vulnerable to widespread power and heat outages.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ukraine pleads for urgent air defense replacements",
+      "date": "2026-08-25"
+    },
+    {
+      "headline": "US Threatens Global Sanctions Over Iran Business Ties",
+      "summary": "The US government announced tough new penalties targeting foreign nations and companies that keep doing business with Iran [1.2.9]. Officials want to choke off Tehran's revenue, but the move risks sparking fierce trade fights with major buyers like China. It puts global banks and shipping firms in a tough spot where they must choose between American financial markets and Middle Eastern trade.",
+      "why": "This move could disrupt energy markets, drive up fuel prices, and force nations to pick economic sides.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us threatens global sanctions over iran business ties",
+      "date": "2026-08-25"
+    },
+    {
+      "headline": "Landmark Court Verdict Holds Tech Giants Liable for Platform Addiction",
+      "summary": "A jury ruled that major social media networks are legally liable for youth addiction and mental health harms caused by their product designs. Tech companies argued they build engaging tools, but the court found their youth safeguards fell short. The ruling sets a major legal precedent that paves the way for waves of similar consumer lawsuits.",
+      "why": "This could fundamentally change how social platforms hook users and force companies to overhaul recommendation algorithms.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "landmark court verdict holds tech giants liable for platform addiction",
+      "date": "2026-08-25"
+    },
+    {
+      "headline": "US and Canada Trade Fight Intensifies Over Retaliatory Tariffs",
+      "summary": "Tensions flared between the US and Canada as both sides threatened matching import taxes on cross-border shipments. Canadian leaders pledged to match any new American tariffs dollar-for-dollar to protect local industry. Companies in automotive and energy supply chains warn that sudden border fees will disrupt everyday production lines.",
+      "why": "Tariffs act like an extra sales tax that ultimately gets passed down to shoppers buying cars, food, and building materials.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us and canada trade fight intensifies over retaliatory tariffs",
+      "date": "2026-08-25"
     }
   ]
 }
