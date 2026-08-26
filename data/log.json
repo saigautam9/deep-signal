@@ -2809,6 +2809,16 @@
       "mode": "afternoon",
       "fp": "us and canada trade fight intensifies over retaliatory tariffs",
       "date": "2026-08-25"
+    },
+    {
+      "headline": "Deadly Flash Flood Hits Nepal-Tibet Border",
+      "summary": "A sudden, massive flash flood along the mountainous border between Nepal and Tibet has killed more than 150 people and left hundreds of locals and tourists missing, washing away roads and bridges.",
+      "why": "This is a major natural disaster causing sudden mass casualties, widespread destruction, and an urgent international emergency response.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "deadly flash flood hits nepal tibet border",
+      "date": "2026-08-26"
     }
   ]
 }
