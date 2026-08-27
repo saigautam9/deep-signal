@@ -1,156 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Iran pause strikes after two weeks of conflict",
-      "summary": "The US paused its nightly airstrikes against Iran after military advisers warned that missile stocks were running low and key targets were exhausted. Iran also held its fire while diplomats in Oman tried to negotiate a deal to reopen vital trade routes. President Trump said he is giving peace talks room to work, though the situation remains very tense.",
-      "why": "Reopening the Strait of Hormuz is essential to stopping global fuel prices from soaring and keeping the world economy from grinding to a halt.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us and iran pause strikes after two weeks of conflict",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "Record wildfires force 350,000 to flee across France and Spain",
-      "summary": "A fierce summer heatwave has sparked monstrous wildfires across southern Europe, forcing over 350,000 people to leave their homes. The flames near Bordeaux and Madrid are so hot that they are creating their own lightning storms and spreading fast. Emergency crews are overwhelmed, and French officials are even weighing whether to evacuate entire cities.",
-      "why": "This marks one of Europe's largest peacetime evacuations in history, showing how extreme climate disasters can quickly disrupt life for millions.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "record wildfires force 350 000 to flee across france and",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "Ebola outbreak surges past 3,200 cases in DR Congo",
-      "summary": "A deadly Ebola outbreak in the Democratic Republic of Congo has jumped to more than 3,200 cases and claimed over 1,400 lives [1.4.2]. Infections shot up by a thousand cases in just ten days as the virus pushed into two new provinces. Aid groups are now racing against time to fly medical supplies into remote areas before the virus spreads any further.",
-      "why": "Without quick containment, this rapidly growing outbreak could spill across international borders and trigger a wider health disaster.",
-      "domain": "Health",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "ebola outbreak surges past 3 200 cases in dr congo",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "UN chief visits Damascus to support Syria's transition",
-      "summary": "UN chief Ant\u00f3nio Guterres made a landmark visit to Damascus to meet Syria's new president, Ahmad Al-Sharaa. The UN promised international support to help rebuild ruined cities, fix broken public services, and bring stability back to the country. Global leaders view this transition as a rare opening to reconstruct the nation after years of devastating civil war.",
-      "why": "A stable Syria could calm long-standing tensions across the Middle East and finally allow millions of refugees to return home safely.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "un chief visits damascus to support syria s transition",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "India overhauls national exam system after massive youth protests",
-      "summary": "Prime Minister Narendra Modi announced a total revamp of India's testing system following huge youth-led protests over leaked exam papers. Tech entrepreneur Nandan Nilekani will lead a new task force to build leak-proof, digital testing methods, backed by fresh legislation. Millions of young people had taken to the streets to demand fair access to college seats and government jobs.",
-      "why": "This overhaul directly affects the career prospects and economic future of hundreds of millions of young people in the world's most populous nation.",
-      "domain": "Society",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "india overhauls national exam system after massive youth protests",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "US and Iran hold fire after two weeks of strikes",
-      "summary": "The United States and Iran have temporarily halted direct military attacks following nearly two weeks of escalating strikes on military targets and shipping routes. Both sides paused operations as international mediators try to secure a lasting agreement to keep the critical Strait of Hormuz open to global shipping.",
-      "why": "A lasting pause could stabilize global oil markets, while renewed conflict threatens worldwide energy supplies.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us and iran hold fire after two weeks of strikes",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "US rolls out new double-digit tariffs on dozens of nations",
-      "summary": "The US government has imposed sweeping new tariffs on over 60 countries, sparking sharp pushback from trade partners in Europe and Asia. American officials claim the import taxes will protect domestic industries, while foreign governments are preparing retaliatory measures.",
-      "why": "Sudden trade barriers drive up prices for everyday goods and threaten to fuel global inflation.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us rolls out new double digit tariffs on dozens of",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "Extreme wildfires force massive evacuations across Southern Europe",
-      "summary": "Devastating wildfires fueled by intense heatwaves have swept across parts of France and Spain, forcing more than 250,000 people from their homes. Firefighters are struggling to control blazes that threaten major agricultural regions and key residential zones.",
-      "why": "Severe climate events put human lives at immediate risk, destroy vital crops, and strain local economies.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "extreme wildfires force massive evacuations across southern europe",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "German authorities heighten security after deadly Berlin attack",
-      "summary": "Germany has placed its security forces on high alert following a fatal van-ramming attack at a festival in Berlin. European law enforcement agencies are increasing police presence at public gatherings while investigators piece together the events.",
-      "why": "Rising security risks at major public events affect civic freedom and force governments to overhaul public safety.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "german authorities heighten security after deadly berlin attack",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "India sets up tech task force to overhaul national exam system",
-      "summary": "Indian Prime Minister Narendra Modi appointed tech entrepreneur Nandan Nilekani to lead a complete rebuild of the country's national testing system. The decision follows weeks of massive student protests triggered by widespread test paper leaks that threw millions of young lives into chaos.",
-      "why": "Rebuilding trust in these exams directly shapes the future and careers of tens of millions of young people.",
-      "domain": "Society",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "india sets up tech task force to overhaul national exam",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "US and Iran hold fire after weeks of heavy airstrikes",
-      "summary": "The US suspended its two-week bombing campaign in Iran after military advisers warned missile supplies were running low. Iran held back its own retaliatory strikes in return, bringing a brief pause to a conflict that has shaken global energy markets.",
-      "why": "A temporary pause offers brief relief to global oil supplies, but the threat of a wider Middle East war remains high.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us and iran hold fire after weeks of heavy airstrikes",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "Nvidia in talks for massive $250 billion AI data center deal",
-      "summary": "Tech giant Nvidia is discussing backing $250 billion in financing for OpenAI to build next-generation AI data centers. If finalized, it would mark one of the largest tech infrastructure investments in history.",
-      "why": "AI built on this scale demands power equivalent to whole cities, rapidly reshaping global energy grids and finance.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "nvidia in talks for massive 250 billion ai data center",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "UN Security Council meets as Russia escalates attacks on Ukraine",
-      "summary": "Ukraine called an urgent UN meeting following some of the largest Russian missile and drone barrages of the war on Kyiv. Meanwhile, Britain agreed to share advanced jamming technology so Ukraine can mass-produce its own drone defenses.",
-      "why": "The surge in aerial bombardments directly threatens millions of civilians and deepens Europe's worst security crisis.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "un security council meets as russia escalates attacks on ukraine",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "US push to cut Chinese mineral dependence hits heavy snags",
-      "summary": "A US campaign to secure domestic supplies of critical defense minerals like rare earths is falling far short of its goals. America remains heavily reliant on Chinese refining, leaving high-tech supply chains exposed.",
-      "why": "Without these vital raw materials, manufacturing modern defense systems, electronics, and green tech could hit severe bottlenecks.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "us push to cut chinese mineral dependence hits heavy snags",
-      "date": "2026-07-27"
-    },
-    {
-      "headline": "UN places iconic global landmarks on endangered list due to war",
-      "summary": "UNESCO added six historic sites and major animal migration corridors to its List of World Heritage in Danger. Sites across Lebanon, Ukraine, Palestine, and South Sudan face immediate threat from active military conflict and climate stress.",
-      "why": "Escalating global wars and extreme weather are permanently erasing irreplaceable human history and crucial natural ecosystems.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "un places iconic global landmarks on endangered list due to",
-      "date": "2026-07-27"
-    },
-    {
       "headline": "Powerful 7.1 Earthquake Strikes Southern Japan",
       "summary": "A major 7.1 magnitude earthquake struck the Kumamoto region in southern Japan. It hit with the maximum level of shaking on Japan's seismic scale. Buildings collapsed, fires broke out, and a shopping mall partially caved in with people trapped inside. Power was cut to tens of thousands of homes, and over 150,000 residents were told to evacuate.",
       "why": "This is a major natural disaster hitting a populated region. It caused immediate structural destruction, fires, trapped citizens, and an emergency response to save lives.",
@@ -2869,6 +2719,16 @@
       "mode": "evening",
       "fp": "meta reaches landmark 18 billion youth safety settlement",
       "date": "2026-08-26"
+    },
+    {
+      "headline": "Catastrophic Glacial Collapse Triggers Massive Flooding Across Nepal-China Border",
+      "summary": "A sudden glacial lake collapse triggered violent flash floods and mudslides along the border region between Nepal and Tibet, leaving more than 160 people confirmed dead and over 1,300 people missing as entire villages and critical infrastructure were swept away.",
+      "why": "This is a major natural disaster causing severe loss of life, mass civilian displacement, and widespread destruction of vital cross-border transport and economic corridors.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "catastrophic glacial collapse triggers massive flooding across nepal china border",
+      "date": "2026-08-27"
     }
   ]
 }
