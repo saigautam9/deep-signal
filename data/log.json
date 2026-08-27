@@ -2739,6 +2739,56 @@
       "mode": "monitor",
       "fp": "catastrophic glacier collapse triggers deadly himalayan flash floods in nepal",
       "date": "2026-08-27"
+    },
+    {
+      "headline": "Deadly Himalayan floods expose growing mountain climate risks",
+      "summary": "Massive flash floods tore through mountain valleys across Nepal and southern Tibet, killing hundreds and leaving over a thousand people missing [1.2.6]. Rescue teams are racing to reach cut-off villages while watching swollen lakes that could burst at any moment.",
+      "why": "It shows how melting glaciers and violent weather make mountain regions dangerous for millions living downstream.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "deadly himalayan floods expose growing mountain climate risks",
+      "date": "2026-08-27"
+    },
+    {
+      "headline": "US and Iran trade warnings as regional peace talks stall",
+      "summary": "Tensions between the United States and Iran flared again as regional diplomats scrambled to prevent direct military clashes. Both sides are digging in their heels over maritime security and economic pressure.",
+      "why": "A wider fight in the Gulf could choke vital shipping lanes and send fuel prices climbing worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us and iran trade warnings as regional peace talks stall",
+      "date": "2026-08-27"
+    },
+    {
+      "headline": "Russia targets critical energy networks supplying Europe",
+      "summary": "Heavy strikes hit major gas and energy infrastructure in Ukraine, disrupting key transit corridors. European partners are rushing emergency repair equipment and shoring up air defenses ahead of the colder months.",
+      "why": "Damaged pipeline networks threaten fuel reserves and make energy supplies far more volatile for neighboring countries.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russia targets critical energy networks supplying europe",
+      "date": "2026-08-27"
+    },
+    {
+      "headline": "World ocean temperatures hit unprecedented records",
+      "summary": "Global sea surface temperatures reached the hottest levels ever recorded, stressing marine life and destabilizing ecosystems. Meteorologists warn that the trapped ocean heat is already feeding unusually erratic weather patterns worldwide.",
+      "why": "Hotter seas act like rocket fuel for severe storms and threaten food supplies for millions of coastal residents.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "world ocean temperatures hit unprecedented records",
+      "date": "2026-08-27"
+    },
+    {
+      "headline": "US cracks down on covert AI chip smuggling to China",
+      "summary": "Federal prosecutors charged tech workers for secretly routing banned artificial intelligence hardware to Chinese firms. Regulators are plugging export loopholes to stop advanced processors from crossing borders through middlemen.",
+      "why": "Controlling high-end chips determines who builds the smartest systems and leads the next era of computing power.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us cracks down on covert ai chip smuggling to china",
+      "date": "2026-08-27"
     }
   ]
 }
