@@ -2729,6 +2729,16 @@
       "mode": "monitor",
       "fp": "catastrophic glacial collapse triggers massive flooding across nepal china border",
       "date": "2026-08-27"
+    },
+    {
+      "headline": "Catastrophic Glacier Collapse Triggers Deadly Himalayan Flash Floods in Nepal and Tibet",
+      "summary": "A massive piece of a glacier collapsed near the Nepal-Tibet border, sending a wall of water, mud, and boulders roaring down river valleys. The disaster has killed nearly 400 people, destroyed entire villages, and left over 1,400 people missing, including hundreds of foreign tourists and pilgrims.",
+      "why": "This is a major natural disaster with an exceptionally high and rising casualty toll, severe cross-border destruction, and an urgent ongoing search-and-rescue operation across remote mountainous terrain.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "catastrophic glacier collapse triggers deadly himalayan flash floods in nepal",
+      "date": "2026-08-27"
     }
   ]
 }
