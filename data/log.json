@@ -1,86 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Powerful 7.1 Earthquake Strikes Southern Japan",
-      "summary": "A major 7.1 magnitude earthquake struck the Kumamoto region in southern Japan. It hit with the maximum level of shaking on Japan's seismic scale. Buildings collapsed, fires broke out, and a shopping mall partially caved in with people trapped inside. Power was cut to tens of thousands of homes, and over 150,000 residents were told to evacuate.",
-      "why": "This is a major natural disaster hitting a populated region. It caused immediate structural destruction, fires, trapped citizens, and an emergency response to save lives.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "powerful 7 1 earthquake strikes southern japan",
-      "date": "2026-07-28"
-    },
-    {
-      "headline": "U.S. and Iran pause strikes to negotiate reopening critical global sea lanes",
-      "summary": "The U.S. and Iran have temporarily stopped military strikes to try to negotiate a peace deal through mediators in Oman and Qatar. President Trump warned he will resume bombing if talks fail, but both sides want to reopen the Strait of Hormuz to commercial shipping. Oil prices fell slightly as global markets held their breath for a breakthrough.",
-      "why": "Blocking this narrow sea passage is like putting a toll booth on the world's primary gas station, threatening energy prices for everyone.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "u s and iran pause strikes to negotiate reopening critical",
-      "date": "2026-07-28"
-    },
-    {
-      "headline": "Global stock markets tumble as investors question massive AI spending",
-      "summary": "Stock markets across Asia and the West tumbled, with South Korea's main stock index falling over 10 percent in a single day. Investors are getting nervous after tech giants poured hundreds of billions of dollars into artificial intelligence with slow immediate financial returns. The massive selloff in microchip makers triggered panic selling across international markets.",
-      "why": "When the world's biggest tech companies lose value fast, it squeezes pensions, company investments, and general economic stability everywhere.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "global stock markets tumble as investors question massive ai spending",
-      "date": "2026-07-28"
-    },
-    {
-      "headline": "Extreme heatwaves and wildfires scorch North America and Europe",
-      "summary": "More than 165 million Americans are living under extreme heat warnings while scorching heat waves fuel massive wildfires across southern Europe. Firefighters in France and Spain are fighting record blazes that have forced over 300,000 people to flee their homes. Power grids in multiple countries are struggling under the huge surge in air conditioning demand.",
-      "why": "Simultaneous global climate disasters act like a sudden heavy tax on everyday life, breaking power lines, destroying crops, and putting millions at risk.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "extreme heatwaves and wildfires scorch north america and europe",
-      "date": "2026-07-28"
-    },
-    {
-      "headline": "Ukraine expands drone strikes into the Caspian Sea to hit Russian-Iranian supply lines",
-      "summary": "Ukrainian long-range drones struck cargo ships and military vessels in the Caspian Sea to disrupt weapons shipments between Iran and Russia. Kyiv says the targeted vessels were carrying Iranian combat drones and missiles heading toward Russian front lines. Iranian officials warned that attacking ships in the Caspian Sea opens a dangerous new front.",
-      "why": "By striking this previously safe waterway, Ukraine is tying two separate regional wars together and choking off Russia's main backdoor supply route.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "ukraine expands drone strikes into the caspian sea to hit",
-      "date": "2026-07-28"
-    },
-    {
-      "headline": "White House asks Supreme Court for emergency ruling on mail-in ballots",
-      "summary": "The White House asked the U.S. Supreme Court to step in after lower courts blocked an order affecting the Post Office. The contested order would allow postal workers to withhold mail-in ballots from voters not on specific government lists. Voting rights groups warn the policy could block millions of citizens from voting in upcoming elections.",
-      "why": "Changing how post offices handle mail right before an election directly alters who gets to vote and who wins power.",
-      "domain": "Society",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "white house asks supreme court for emergency ruling on mail",
-      "date": "2026-07-28"
-    },
-    {
-      "headline": "Major 7.1-magnitude earthquake hits southern Japan",
-      "summary": "A powerful 7.1-magnitude earthquake struck Kumamoto on Japan's southern island of Kyushu. The severe shaking collapsed parts of a busy shopping mall and industrial buildings, trapping people inside, causing local fires, and cutting power to tens of thousands of homes.",
-      "why": "This is a major natural disaster causing immediate life-threatening damage and severe infrastructure destruction. Authorities instructed over 300,000 residents to evacuate and dispatched thousands of military personnel to help emergency rescue teams.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "major 7 1 magnitude earthquake hits southern japan",
-      "date": "2026-07-28"
-    },
-    {
-      "headline": "Major 7.1-Magnitude Earthquake Strikes Southern Japan, Triggering Collapses and Mass Evacuations",
-      "summary": "A strong, shallow earthquake hit Kumamoto Prefecture in southern Japan. The quake registered the highest possible shaking level on Japan's seismic intensity scale. It caused buildings to collapse, including a shopping mall in Kashima where gas explosions trapped shoppers and staff. Factory structures fell, power went out across the region, hundreds of people were injured, and multiple deaths were reported. Japanese officials ordered roughly 300,000 residents to evacuate and sent thousands of troops to help rescue trapped survivors.",
-      "why": "This qualifies as a major natural disaster. The earthquake reached maximum seismic intensity, destroyed buildings, left people trapped under rubble, and forced a widespread emergency response with hundreds of thousands evacuated.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "major 7 1 magnitude earthquake strikes southern japan triggering collapses",
-      "date": "2026-07-28"
-    },
-    {
       "headline": "Iran Launches Missiles at U.S. Base as U.S. and Saudi Arabia Strike Militias in Iraq",
       "summary": "Iran launched a barrage of ballistic missiles at a U.S. military base in Jordan, which U.S. air defense systems intercepted. In tandem, U.S. and Saudi air forces conducted joint precision airstrikes against Iran-aligned militia facilities in eastern Iraq following dozens of drone attacks against American forces and Saudi oil infrastructure.",
       "why": "This marks a sharp military escalation that shatters a multi-day pause in hostilities between the U.S. and Iran, directly drawing Saudi Arabia into joint combat operations and heightening the risk of a wider regional war.",
@@ -2789,6 +2709,16 @@
       "mode": "afternoon",
       "fp": "us cracks down on covert ai chip smuggling to china",
       "date": "2026-08-27"
+    },
+    {
+      "headline": "Catastrophic Flash Floods Strike Nepal and Tibet Border",
+      "summary": "Massive flash floods and mudflows triggered by a suspected glacial collapse have swept through the Nepal-China border region [1.2.5]. Over 400 people are confirmed dead and more than 1,300 remain missing as floodwaters wash away homes, bridges, and infrastructure.",
+      "why": "This is a major natural disaster causing hundreds of confirmed deaths and a massive international humanitarian and rescue crisis.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "catastrophic flash floods strike nepal and tibet border",
+      "date": "2026-08-28"
     }
   ]
 }
