@@ -2719,6 +2719,16 @@
       "mode": "monitor",
       "fp": "catastrophic flash floods strike nepal and tibet border",
       "date": "2026-08-28"
+    },
+    {
+      "headline": "Massive Flash Floods in Nepal and Tibet Leave Hundreds Dead and Nearly 2,000 Missing",
+      "summary": "A sudden glacial and rock collapse along the Nepal-China border sent huge torrents of water and debris crashing through downstream communities. Hundreds of lives have been lost, close to 2,000 people are unaccounted for, and tens of thousands are left displaced without food or shelter.",
+      "why": "This is a severe, fast-moving natural disaster with immense loss of life and an acute humanitarian crisis requiring urgent international relief efforts.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "massive flash floods in nepal and tibet leave hundreds dead",
+      "date": "2026-08-28"
     }
   ]
 }
