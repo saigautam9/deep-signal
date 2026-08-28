@@ -2729,6 +2729,56 @@
       "mode": "monitor",
       "fp": "massive flash floods in nepal and tibet leave hundreds dead",
       "date": "2026-08-28"
+    },
+    {
+      "headline": "Middle East War Hits Six-Month Mark as Energy and Infrastructure Strains Spread",
+      "summary": "Six months of conflict involving the US, Israel, and Iran has settled into a grinding standoff with over 7,900 casualties [1.2.5]. Chokepoints in the Strait of Hormuz remain under pressure, and related cyberattacks have begun hitting power and water utilities abroad. Neither side has gained a clear advantage, leaving regional trade and energy flows deeply disrupted.",
+      "why": "When critical shipping routes and energy corridors get tangled up in war, everyday people around the world end up paying higher prices for fuel, power, and food.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "middle east war hits six month mark as energy and",
+      "date": "2026-08-28"
+    },
+    {
+      "headline": "Catastrophic Himalayan Floods Leave Hundreds Dead Along the Nepal-China Border",
+      "summary": "Sudden glacial collapses and flash floods have swept through mountain valleys along the Nepal-China border, killing hundreds and leaving over a thousand people missing. Rescue workers are racing to evacuate vulnerable towns because a newly formed barrier lake threatens to burst and cause a second disaster. Washed-out bridges and roads have cut off remote communities from medical help and clean drinking water.",
+      "why": "It shows how quickly fragile mountain regions can face catastrophic loss of life and displacement when extreme weather triggers chained natural disasters.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "catastrophic himalayan floods leave hundreds dead along the nepal china",
+      "date": "2026-08-28"
+    },
+    {
+      "headline": "Russia Steps Up Strikes on Ukrainian Grid as Diplomatic Talks Stall",
+      "summary": "Russian forces have launched widespread missile and drone barrages targeting Ukrainian power grids, transport hubs, and cities after peace discussions broke down. Ukraine has fired long-range drone counterstrikes into Russian territory, marking one of the largest aerial escalations of the year. Both militaries are digging in for prolonged fighting as autumn approaches.",
+      "why": "Wrecking energy infrastructure right before the colder months leaves millions of civilians at risk of blackouts and freezes any near-term path toward ending the war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russia steps up strikes on ukrainian grid as diplomatic talks",
+      "date": "2026-08-28"
+    },
+    {
+      "headline": "Escalating US-Canada Tariff Fight Puts Factory Jobs and Supply Chains at Risk",
+      "summary": "A mounting trade dispute between Washington and Ottawa is forcing businesses on both sides of the border to scramble and rethink how they build products. Steep new tariffs are hitting closely linked sectors like manufacturing, energy, and agriculture, prompting companies to pull production local to avoid extra costs. Business leaders warn the stand-off could wipe out tens of thousands of jobs if new exemptions are not negotiated.",
+      "why": "Splitting two economies that are built to work like interlocking puzzle pieces drives up manufacturing costs and makes everyday goods pricier for shoppers on both sides.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "escalating us canada tariff fight puts factory jobs and supply",
+      "date": "2026-08-28"
+    },
+    {
+      "headline": "US Nears Landmark Energy Deal to Operate Venezuelan Oil Fields",
+      "summary": "The United States is wrapping up a deal that would allow American energy companies to directly manage and develop several Venezuelan oilfields. Under the proposed arrangement, the extracted crude will be funneled directly to US refineries to shore up long-term domestic supply. The move represents a major foreign policy pivot driven by ongoing volatility in Middle Eastern oil shipping.",
+      "why": "Tapping the world's largest known crude reserves reshapes Latin American politics and gives Western refineries a vital buffer against global oil price shocks.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us nears landmark energy deal to operate venezuelan oil fields",
+      "date": "2026-08-28"
     }
   ]
 }
