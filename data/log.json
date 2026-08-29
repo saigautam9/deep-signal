@@ -1,186 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Iran Launches Missiles at U.S. Base as U.S. and Saudi Arabia Strike Militias in Iraq",
-      "summary": "Iran launched a barrage of ballistic missiles at a U.S. military base in Jordan, which U.S. air defense systems intercepted. In tandem, U.S. and Saudi air forces conducted joint precision airstrikes against Iran-aligned militia facilities in eastern Iraq following dozens of drone attacks against American forces and Saudi oil infrastructure.",
-      "why": "This marks a sharp military escalation that shatters a multi-day pause in hostilities between the U.S. and Iran, directly drawing Saudi Arabia into joint combat operations and heightening the risk of a wider regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "iran launches missiles at u s base as u s",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "Major 7.1 Earthquake Strikes Southwestern Japan",
-      "summary": "A strong magnitude 7.1 earthquake hit the Kumamoto region in southern Japan [1.1.4]. The quake collapsed buildings, trapped people inside a shopping mall, cut power to tens of thousands of homes, and killed at least 13 people. Soldiers and emergency crews are racing against the clock to dig out survivors.",
-      "why": "It is a major natural disaster causing loss of life, widespread destruction, and an urgent crisis for emergency responders.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "major 7 1 earthquake strikes southwestern japan",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "US and Saudi Forces Launch Joint Air Strikes in Iraq",
-      "summary": "American and Saudi military jets hit several militia bases in eastern Iraq overnight. The strikes came after Iran-backed groups launched over 30 drone and missile attacks at US troops and Saudi energy facilities. Meanwhile, Jordan intercepted five incoming missiles fired from Iran.",
-      "why": "This represents a sharp military escalation involving key global powers inside a crucial region for world oil supplies.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us and saudi forces launch joint air strikes in iraq",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "US and Saudi Arabia Launch Joint Strikes on Iran-Backed Militias",
-      "summary": "The US and Saudi Arabia carried out joint airstrikes against Iran-backed armed groups in Iraq following drone attacks on Saudi oil facilities. Iran also launched ballistic missiles at US forces, though air defense systems intercepted all of them. The renewed fighting threatens shipping through the Strait of Hormuz, where one-fifth of the world's oil flows.",
-      "why": "A prolonged conflict in this bottleneck could spike global energy prices and drag major world powers into a wider war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us and saudi arabia launch joint strikes on iran backed",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "Deadly Earthquake Hits Japan, Triggering Urgent Rescue Operations",
-      "summary": "A powerful earthquake struck Kumamoto in southwestern Japan, killing at least 13 people and destroying dozens of structures. Emergency crews and military troops are digging through rubble in a race to find missing residents. Displaced families are being moved into temporary shelters across the region.",
-      "why": "Beyond the tragic loss of life, severe disasters in major industrial regions can ripple through global technology supply chains.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "deadly earthquake hits japan triggering urgent rescue operations",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "Raging Wildfires Force Over 200,000 Evacuations in Southern France",
-      "summary": "Fast-moving wildfires in southern France forced more than 220,000 people to flee their homes overnight. Firefighters from across Europe are fighting the flames amid severe summer heatwaves and dry winds. Thousands of families are currently staying in temporary emergency shelters as dense smoke blankets nearby towns.",
-      "why": "Increasingly frequent climate disasters are pushing emergency services to their limits and causing huge economic losses.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "raging wildfires force over 200 000 evacuations in southern france",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "Meta and BlackRock Team Up for $14 Billion AI Infrastructure Deal",
-      "summary": "Meta and asset manager BlackRock announced a $14 billion deal to build a massive data center campus in El Paso, Texas. The facility will feed the huge electric and computing power required for advanced artificial intelligence models. Tech giants are increasingly teaming up with global finance firms to fund their massive AI buildouts.",
-      "why": "This huge investment shows how the race to build AI is reshaping local energy grids and steering corporate capital worldwide.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "meta and blackrock team up for 14 billion ai infrastructure",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "US Boardroom Diversity Falls to Lowest Level in a Decade",
-      "summary": "New appointments of women and racial minorities to S&P 500 corporate boards dropped to 40 percent this year. Major corporations are quietly walking back their diversity programs following intense political pressure and legal challenges in the US. Board recruiters report that white men are once again taking the lion's share of newly open seats.",
-      "why": "This retreat marks a major shift in how the world's largest companies select leaders and guide future business policies.",
-      "domain": "Society",
-      "severity": "MEDIUM",
-      "mode": "morning",
-      "fp": "us boardroom diversity falls to lowest level in a decade",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "US and Saudi forces strike Iran-backed targets in Iraq as Gulf tensions spike",
-      "summary": "US and Saudi jets bombed Iran-aligned militia sites in Iraq after facing dozens of drone attacks. At the same time, Iranian forces stopped three oil tankers near the Strait of Hormuz, where a fifth of all global oil flows.",
-      "why": "Direct joint military strikes in a key conflict zone combined with threats to the world's main oil highway mark a sharp military escalation that could trigger a wider war or hurt global fuel supplies.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us and saudi forces strike iran backed targets in iraq",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "Huge wildfires in southwest France force 220,000 people to flee",
-      "summary": "Fast-moving wildfires near Bordeaux have forced over 220,000 people to leave their homes. Firefighters are stretched thin trying to protect towns during an intense heatwave.",
-      "why": "Moving hundreds of thousands of residents out of harm's way makes this a major natural disaster and one of the largest emergency evacuations in modern European history.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "huge wildfires in southwest france force 220 000 people to",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "U.S. and Saudi Arabia Launch Joint Air Strikes in Iraq as Middle East Hostilities Escalate",
-      "summary": "U.S. and Saudi armed forces conducted joint precision air strikes targeting Iran-aligned militias in eastern Iraq following dozens of Iranian drone and missile attacks. In response, Iran resumed missile strikes against U.S. forces and move to intercept commercial oil tankers in the Strait of Hormuz.",
-      "why": "This represents a sharp military escalation involving direct joint combat operations by the U.S. and Saudi Arabia against Iranian targets, alongside heightened threats to global maritime trade.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and saudi arabia launch joint air strikes in",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "Powerful 7.1 Magnitude Earthquake Strikes Southwestern Japan",
-      "summary": "A major 7.1 magnitude earthquake hit Kumamoto Prefecture on Japan's southern island of Kyushu, leaving at least 13 people dead, collapsing homes, halting high-speed rail lines, and leaving tens of thousands without electricity or gas.",
-      "why": "This is a major natural disaster resulting in immediate loss of life, structural collapses, and severe infrastructure disruption.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "powerful 7 1 magnitude earthquake strikes southwestern japan",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "Strong 7.1 magnitude earthquake strikes southern Japan",
-      "summary": "A powerful 7.1 magnitude earthquake hit near Kumamoto in southwestern Japan. It killed several people, shook down structures, and sparked dozens of aftershocks.",
-      "why": "A magnitude 7.1 quake is a major natural disaster that causes immediate destruction, loss of life, and severe disruption to regional infrastructure.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "strong 7 1 magnitude earthquake strikes southern japan",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "US and Saudi Arabia Strike Iran-Backed Militias in Iraq",
-      "summary": "US and Saudi jets launched joint strikes against Iran-aligned forces in Iraq after dozens of drone attacks hit regional oil facilities [1.1.2]. Meanwhile, Iranian forces stopped several oil tankers around the Strait of Hormuz, pushing regional tensions to a dangerous new high.",
-      "why": "Escalating military clashes in key shipping corridors risk cutting off global oil supplies and driving up energy prices worldwide.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us and saudi arabia strike iran backed militias in iraq",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "Washington Summit Seeks Way Forward on Ukraine and Middle East Conflicts",
-      "summary": "The US president held back-to-back meetings with Ukraine's Volodymyr Zelenskyy and Israel's Benjamin Netanyahu. The talks centered on military aid conditions, trade policies, and potential frameworks to pause fighting in both war zones.",
-      "why": "Decisions made in these diplomatic talks directly determine where global military aid flows and how peace lines get drawn.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "washington summit seeks way forward on ukraine and middle east",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "Middle East War Spikes Fuel Costs, Hurting Global Travel and Trade",
-      "summary": "Escalating drone and missile strikes around key sea lanes have sent aviation and maritime fuel prices soaring. Major international airlines are reporting heavy losses and bumping up ticket surcharges, while cargo ships face record insurance costs.",
-      "why": "When transport costs jump, the price of everyday imported goods goes up for families everywhere.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "middle east war spikes fuel costs hurting global travel and",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "Physical Attacks on Cloud Data Centers Highlight New Tech Vulnerabilities",
-      "summary": "Satellite images confirmed recent Iranian missile strikes damaged Amazon data center facilities in Bahrain. Military forces are increasingly targeting physical tech infrastructure, claiming cloud networks support regional defense operations.",
-      "why": "Damaging physical cloud servers can instantly paralyze banking, healthcare, and daily digital services for entire regions.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "physical attacks on cloud data centers highlight new tech vulnerabilities",
-      "date": "2026-07-29"
-    },
-    {
-      "headline": "US and Saudi Forces Strike Iran-Backed Militias in Iraq, Triggering Retaliatory Iranian Missile Barrage",
-      "summary": "US and Saudi forces launched joint airstrikes against Iranian-backed militia bases in Iraq, killing at least 20 fighters and six Iranian advisers [1.3.7]. Hours later, Iran responded by firing a barrage of missiles targeting US forces across the Middle East. President Trump warned the US will hit back hard in response.",
-      "why": "This represents a sharp military escalation directly involving US, Saudi, and Iranian military forces. The direct exchange of strikes and counter-missiles threatens to escalate an already fragile situation into a broader regional war and disruption of key global shipping lanes like the Strait of Hormuz.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us and saudi forces strike iran backed militias in iraq",
-      "date": "2026-07-29"
-    },
-    {
       "headline": "US Launches Heavy Strikes on Iran as Middle East War Escalates",
       "summary": "The US military launched a massive wave of airstrikes against Iran and its allied militias in Iraq after a brief pause in fighting fell apart. The strikes followed Iranian missile attacks on American forces in Jordan and oil targets in Saudi Arabia. Both sides are now warning of further action, dashing hopes for near-term peace talks.",
       "why": "This rapid escalation threatens to ignite a wider regional war, disrupting global trade routes and driving up energy prices worldwide.",
@@ -2779,6 +2599,56 @@
       "mode": "afternoon",
       "fp": "us nears landmark energy deal to operate venezuelan oil fields",
       "date": "2026-08-28"
+    },
+    {
+      "headline": "Push to Reopen Vital Oil Shipping Route in Strait of Hormuz",
+      "summary": "Regional mediators are racing to finalize a deal with Iran and Oman to clear mines and open a temporary shipping corridor through the Strait of Hormuz. Washington is pushing harsh economic sanctions to isolate Tehran, while major buyers like China refuse to cut off trade. If negotiations stall, global energy supplies and maritime trade remain at serious risk.",
+      "why": "This narrow waterway carries a massive slice of the world's daily oil, so any blockages quickly drive up fuel and grocery bills everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "push to reopen vital oil shipping route in strait of",
+      "date": "2026-08-29"
+    },
+    {
+      "headline": "Deadly Flash Floods Devastate Nepal and Himalayan Region",
+      "summary": "Massive monsoon floods and mudslides swept through mountain villages across Nepal and neighboring Tibet, leaving nearly two thousand people missing. Emergency teams are struggling to reach cut-off valleys as roads, bridges, and power lines wash away. The disaster marks one of the most severe climate-driven flood events in the region in years.",
+      "why": "It shows how vulnerable Himalayan mountain communities are to sudden extreme weather, displacing thousands of families with little infrastructure to protect them.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "deadly flash floods devastate nepal and himalayan region",
+      "date": "2026-08-29"
+    },
+    {
+      "headline": "US-Canada Trade Battle Escalates with Dollar-for-Dollar Tariffs",
+      "summary": "Canada announced sweeping retaliatory tariffs on goods like steel, electronics, and farm tools after talks over steep US import taxes collapsed. Both countries are now trading direct economic blows across one of the busiest trade borders on earth. Factories and farmers on both sides are bracing for higher costs and disrupted supply lines.",
+      "why": "Cross-border trade between these neighbors powers basic manufacturing, so these extra taxes will hit ordinary consumer prices and industrial jobs.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "us canada trade battle escalates with dollar for dollar tariffs",
+      "date": "2026-08-29"
+    },
+    {
+      "headline": "US Moves to Secure Major Oil Stake in Venezuela",
+      "summary": "The US unveiled a controversial framework aimed at taking substantial control over vast oil reserves in Venezuela. The move has sparked fierce pushback from regional leaders and Venezuelan opposition groups who view it as overreach. Analysts say the shift could reshape Western Hemisphere energy control and global crude flows.",
+      "why": "Controlling the tap on some of the planet's largest oil reserves dramatically alters global fuel security and diplomatic leverage in the Americas.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us moves to secure major oil stake in venezuela",
+      "date": "2026-08-29"
+    },
+    {
+      "headline": "Global Government Cyber Sweep Dismantles Covert Hacking Networks",
+      "summary": "US authorities seized major hacking systems used to secretly infiltrate sensitive state departments, energy labs, and central banking networks. Investigators say the hidden server networks hijacked thousands of everyday internet devices to conceal high-level espionage. Officials warn that state-linked groups are increasingly embedding themselves inside foundational public digital networks.",
+      "why": "Modern power grids, water systems, and banking networks run on this digital plumbing, making these invisible intrusions a major risk to everyday safety.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global government cyber sweep dismantles covert hacking networks",
+      "date": "2026-08-29"
     }
   ]
 }
