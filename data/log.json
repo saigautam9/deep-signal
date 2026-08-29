@@ -2719,6 +2719,16 @@
       "mode": "monitor",
       "fp": "catastrophic glacial flash floods devastate nepal and tibet",
       "date": "2026-08-29"
+    },
+    {
+      "headline": "Catastrophic Floods Sweep Nepal and Tibet, Leaving Hundreds Dead and Over 2,400 Missing",
+      "summary": "A massive wall of water and debris tore through mountain valleys in Nepal and Tibet. It wiped out villages, smashed hydroelectric dams, and left more than 580 confirmed dead with over 2,400 people still unaccounted for.",
+      "why": "This is a massive cross-border natural disaster with thousands of casualties, wiping out critical power infrastructure and displacing entire communities in the Himalayas.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "catastrophic floods sweep nepal and tibet leaving hundreds dead and",
+      "date": "2026-08-29"
     }
   ]
 }
