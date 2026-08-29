@@ -2709,6 +2709,16 @@
       "mode": "afternoon",
       "fp": "european natural gas reserves plunge ahead of winter",
       "date": "2026-08-29"
+    },
+    {
+      "headline": "Catastrophic Glacial Flash Floods Devastate Nepal and Tibet",
+      "summary": "A massive glacial collapse and ice-rock avalanche triggered catastrophic flash floods sweeping downstream through central Nepal and border regions of Tibet, leaving more than 660 confirmed dead and nearly 3,000 people missing as entire villages and critical infrastructure were washed away.",
+      "why": "This represents a massive, sudden natural disaster with an extremely high and rapidly escalating casualty toll, widespread destruction of communities, and a critical ongoing humanitarian emergency.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "catastrophic glacial flash floods devastate nepal and tibet",
+      "date": "2026-08-29"
     }
   ]
 }
