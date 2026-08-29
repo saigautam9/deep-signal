@@ -2649,6 +2649,16 @@
       "mode": "evening",
       "fp": "global government cyber sweep dismantles covert hacking networks",
       "date": "2026-08-29"
+    },
+    {
+      "headline": "Catastrophic Himalayan Flash Floods Kill Over 600, With Nearly 3,000 Missing in Nepal and Tibet",
+      "summary": "Massive flash floods and mudslides triggered by a glacial collapse along the Trishuli River have devastated border communities across Nepal and Tibet. The confirmed death toll has climbed past 630, while roughly 3,000 people remain missing. Rescue workers and soldiers are racing to dig through deep mud to reach dozens of workers trapped inside a buried hydropower tunnel, while newly formed glacial lakes create fears of secondary floods.",
+      "why": "This is an enormous natural disaster with massive loss of life, thousands missing, destroyed regional infrastructure, and an urgent international humanitarian emergency requiring multi-nation disaster rescue support.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "catastrophic himalayan flash floods kill over 600 with nearly 3",
+      "date": "2026-08-29"
     }
   ]
 }
