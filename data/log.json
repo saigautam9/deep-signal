@@ -1,176 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US Launches Heavy Strikes on Iran as Middle East War Escalates",
-      "summary": "The US military launched a massive wave of airstrikes against Iran and its allied militias in Iraq after a brief pause in fighting fell apart. The strikes followed Iranian missile attacks on American forces in Jordan and oil targets in Saudi Arabia. Both sides are now warning of further action, dashing hopes for near-term peace talks.",
-      "why": "This rapid escalation threatens to ignite a wider regional war, disrupting global trade routes and driving up energy prices worldwide.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us launches heavy strikes on iran as middle east war",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "Devastating Earthquake Strikes Japan, Crushing Homes and Factories",
-      "summary": "A powerful earthquake struck southwestern Japan, killing at least 25 people and destroying homes, factories, and shopping centers. Emergency workers are searching through rubble under extreme summer heat while aftershocks continue to shake the area. Local infrastructure suffered heavy damage from fires and structural collapses.",
-      "why": "Beyond the terrible loss of life, damage to key manufacturing hubs in Japan threatens to slow down global technology and vehicle supply chains.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "devastating earthquake strikes japan crushing homes and factories",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "Russian Missile Barrage Hits Cities Across Ukraine",
-      "summary": "Russia launched a heavy overnight strike using ballistic missiles and drones that reached from eastern Ukraine to Lviv in the far west. Local authorities reported at least eight civilians killed, including children, with dozens more wounded in destroyed residential buildings. The barrage marks one of the most widespread aerial attacks on Ukraine in recent weeks.",
-      "why": "The relentless shelling deepens the humanitarian emergency in Eastern Europe and keeps European security on edge.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "russian missile barrage hits cities across ukraine",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "Iraq Condemns US-Saudi Strikes as Regional Conflict Spreads",
-      "summary": "Joint military strikes by the US and Saudi Arabia hit Iran-backed militia targets inside Iraq, killing at least 20 people. Iraq's government fiercely condemned the attacks as an illegal violation of its sovereignty and canceled scheduled diplomatic visits. Armed groups in Baghdad have warned they will strike back on the ground.",
-      "why": "Dragging Iraq into the wider Middle East war threatens to break its fragile stability and draw neighboring nations into an expanding multi-front conflict.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "iraq condemns us saudi strikes as regional conflict spreads",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "Federal Reserve Holds Rates High Amid Rising Inflation Risks",
-      "summary": "The US Federal Reserve held its main interest rate steady for the fifth straight meeting. Federal Reserve officials noted that while the economy is holding up, rising oil prices caused by Middle East tension are sparking fresh inflation concerns. This means interest rates will likely stay high for longer than buyers and businesses hoped.",
-      "why": "High interest rates make mortgages, loans, and everyday expenses more costly for people and businesses across the global economy.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "federal reserve holds rates high amid rising inflation risks",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "US launches massive new airstrikes on Iran",
-      "summary": "The US military carried out a heavy two-hour wave of airstrikes on dozens of Iranian military targets overnight. The strikes were a direct response after Iran launched missiles at American troops stationed at a base in Jordan. This shattered a brief five-day pause in direct fighting between the two sides.",
-      "why": "This is a sharp military escalation between major powers in the Middle East, risking an even wider regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us launches massive new airstrikes on iran",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "US and Iran exchange direct missile strikes across the Middle East",
-      "summary": "The US and Iran launched fresh rounds of heavy missile strikes against each other today, ending a brief lull in fighting. Neighboring Jordan shot down incoming missiles over its airspace, while a strike in northern Kuwait killed one person.",
-      "why": "This is a sharp military escalation involving major international forces. Direct back-and-forth missile strikes threaten to pull neighboring countries deeper into a broader regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us and iran exchange direct missile strikes across the middle",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "US and Iran trade direct military strikes as Middle East conflict escalates",
-      "summary": "The US and Saudi Arabia launched joint airstrikes against Iran-backed groups in Iraq, and US forces hit targets inside Iran. Iran retaliated by firing missiles at US military bases in Jordan and attacking targets in Kuwait. Jordanian forces intercepted several incoming missiles.",
-      "why": "Direct missile and airstrike exchanges between the US and Iran mark a sharp military escalation that risks dragging multiple countries into a wider regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us and iran trade direct military strikes as middle east",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "Russian Missile Crashes in NATO Member Poland During Mass Attack on Ukraine",
-      "summary": "A Russian cruise missile crossed into Polish airspace and landed in a field in eastern Poland during a heavy aerial assault across Ukraine. NATO scrambled fighter jets, and Polish officials held an emergency meeting to assess the breach.",
-      "why": "A missile landing inside a NATO member country creates a direct risk of escalating the conflict into an armed confrontation between NATO and Russia.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "russian missile crashes in nato member poland during mass attack",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "US Military Launches Wave of Retaliatory Airstrikes Against Iranian Targets",
-      "summary": "The United States launched a heavy barrage of airstrikes targeting dozens of Iranian military bases, missile sites, and command centers after Iran fired ballistic missiles at U.S. forces stationed in Jordan.",
-      "why": "Direct missile trades between American and Iranian forces represent a sharp military escalation that threatens to ignite a broader regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us military launches wave of retaliatory airstrikes against iranian targets",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "US Launches Major Wave of Airstrikes Against Iranian Military Targets",
-      "summary": "US forces carried out a heavy two-hour wave of airstrikes against dozens of Iranian military targets overnight, hitting command centers, missile sites, and drone facilities across Iran. The strikes followed an Iranian ballistic missile attack aimed at US troops stationed in Jordan. Iran quickly responded with fresh missile and drone attacks across the region, including strikes in Kuwait and near Egyptian ports.",
-      "why": "This represents a sharp military escalation directly between the United States and Iran. Direct US strikes on Iranian soil shatter a fragile pause in fighting, stall diplomatic talks, and raise the risk of a broader regional war that threatens global energy supplies and critical international trade routes.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us launches major wave of airstrikes against iranian military targets",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "US and Iran Exchange Strikes as Middle East Conflict Expands",
-      "summary": "The U.S. military launched heavy strikes on military targets inside Iran and Iraq following attacks on American bases. Iran fired back with missiles across the region, striking targets in neighboring Gulf nations while air defenses in Jordan intercepted incoming threats.",
-      "why": "A full-scale regional war risks choking off world energy supplies and spiking gas prices for everyday consumers globally.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us and iran exchange strikes as middle east conflict expands",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "Suspected Russian Missile Lands in Poland, Raising NATO Alarms",
-      "summary": "A stray missile crashed into an open field in Poland, blasting a massive crater and triggering emergency security meetings across Europe. Officials suspect the weapon spilled over from ongoing strikes in Ukraine, marking a risky breach near NATO borders.",
-      "why": "Accidents or miscalculations spilling onto NATO soil risk pulling Western military forces directly into the conflict with Russia.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "suspected russian missile lands in poland raising nato alarms",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "Deadly Heatwave Batters Europe, Triggering Wildfires and Heat Deaths",
-      "summary": "Scorching heatwaves and sweeping wildfires across Southern Europe have forced thousands of residents to evacuate their homes. Public health agencies reported nearly 10,000 heat-related deaths in Germany alone as power grids and hospitals strain under extreme temperatures.",
-      "why": "Record-breaking heat acts like a slow-motion emergency, overloading power grids, destroying crops, and pushing healthcare systems to their limits.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "deadly heatwave batters europe triggering wildfires and heat deaths",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "US Central Bank Holds Interest Rates High Over Inflation Fears",
-      "summary": "The U.S. Federal Reserve decided to freeze interest rates at current levels rather than cutting them. Central bankers warned that rising regional conflicts and stubborn energy costs are keeping prices higher than expected.",
-      "why": "Keeping interest rates high acts like a handbrake on the economy, keeping home mortgages, credit cards, and business loans expensive.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us central bank holds interest rates high over inflation fears",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "Powerful Earthquake Hits Japan, Leaving Thousands Displaced",
-      "summary": "A major earthquake struck Japan's Kumamoto region, collapsing buildings and cutting off power to thousands of homes. Rescue teams are working through intense summer heat and severe aftershocks to reach trapped survivors.",
-      "why": "Severe disasters in major industrial hubs disrupt critical manufacturing supply chains that industries around the world rely on daily.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "powerful earthquake hits japan leaving thousands displaced",
-      "date": "2026-07-30"
-    },
-    {
-      "headline": "U.S. Launches Major Airstrikes on Iran in Sharp Escalation",
-      "summary": "The United States military carried out a heavy wave of overnight airstrikes hitting dozens of military targets in Iran. The strikes came after Iran fired ballistic missiles at U.S. bases in Jordan and drone attacks hit cargo ships in Egyptian waters.",
-      "why": "This is a sharp military escalation between two major powers. The fighting is expanding into new countries and threatening global oil supply lines, raising the danger of a wider regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s launches major airstrikes on iran in sharp escalation",
-      "date": "2026-07-30"
-    },
-    {
       "headline": "US Announces Deal for Complete Disarmament of Hamas in Gaza",
       "summary": "President Donald Trump announced that the US-led Board of Peace reached an agreement for Hamas and other armed groups to completely disarm in Gaza [2.1.6]. Under the proposed plan, Israeli troops will pull back as disarmament occurs, making way for an international force and a new Palestinian police force to manage security under a non-political government.",
       "why": "This represents a major geopolitical shift that could bring an end to the Gaza war and fundamentally alter governance and security in the region.",
@@ -2729,6 +2559,16 @@
       "mode": "monitor",
       "fp": "catastrophic floods sweep nepal and tibet leaving hundreds dead and",
       "date": "2026-08-29"
+    },
+    {
+      "headline": "Catastrophic Flooding Devastates Nepal and Southwest China",
+      "summary": "Severe torrential rains triggered catastrophic flash floods and landslides across border regions of Nepal and southwestern China, leaving thousands of people missing and causing widespread destruction.",
+      "why": "This is a massive humanitarian disaster with thousands missing, extensive damage to critical infrastructure, and emergency rescue operations underway across international borders.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "catastrophic flooding devastates nepal and southwest china",
+      "date": "2026-08-30"
     }
   ]
 }
