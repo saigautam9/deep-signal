@@ -2569,6 +2569,56 @@
       "mode": "monitor",
       "fp": "catastrophic flooding devastates nepal and southwest china",
       "date": "2026-08-30"
+    },
+    {
+      "headline": "Sudan's War Expands Deeper into Kordofan",
+      "summary": "Paramilitary forces attacked towns across North Kordofan, killing civilians and sending thousands fleeing from their homes. The fighting between rival generals is spreading into previously stable farming regions, cutting off vital trade routes. Aid agencies warn that this new push is making the country's severe hunger crisis even harder to contain.",
+      "why": "When fighting spills into breadbasket and crossroads towns, it cuts off the last remaining food lines for millions facing famine.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "sudan s war expands deeper into kordofan",
+      "date": "2026-08-30"
+    },
+    {
+      "headline": "Deadly Flash Flooding Tears Through the Nepal-China Border",
+      "summary": "Intense mountain downpours triggered massive flash floods and landslides across Nepal's northern districts and into southern Tibet. Over 800 people have died, and entire villages along steep valleys were swept away within hours. Rescue crews are struggling to reach cut-off communities because key mountain highways and bridges have vanished.",
+      "why": "Himalayan mountain valleys are warming and flooding faster than infrastructure can adapt, threatening key trans-border trade corridors and vulnerable mountain towns.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "deadly flash flooding tears through the nepal china border",
+      "date": "2026-08-30"
+    },
+    {
+      "headline": "Rebel Soldiers Clash at Niger's Presidential Palace",
+      "summary": "Soldiers launched an attack on the presidential palace and a key airbase in Niamey, shaking the military junta that took power three years ago [1.1.9]. The government claims it has contained the mutiny, but heavy fighting and dozens of arrests point to deep cracks inside the armed forces. This comes while the country is already battling regional insurgencies and political isolation.",
+      "why": "Niger sits on major uranium reserves and acts as a security linchpin in the Sahel, so any civil crackup risks creating a giant power vacuum in West Africa.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "rebel soldiers clash at niger s presidential palace",
+      "date": "2026-08-30"
+    },
+    {
+      "headline": "Passenger Ferry Sinks in Eastern Mediterranean",
+      "summary": "A ferry carrying nearly 270 people capsized in rough waters while traveling between Cyprus and Turkey. International and local rescue teams saved over 230 passengers, but several people have died and others remain missing. Maritime authorities are now investigating whether overcrowding or sudden hull failure caused the rapid sinking.",
+      "why": "The disaster puts intense scrutiny on commercial ferry safety standards and emergency coordination across politically divided waters.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "passenger ferry sinks in eastern mediterranean",
+      "date": "2026-08-30"
+    },
+    {
+      "headline": "Russia and China Fast-Track Giant Gas Pipeline Talks",
+      "summary": "Leaders from Moscow and Beijing are preparing to finalize key terms for the Power of Siberia 2 pipeline ahead of the upcoming regional summit. The deal aims to redirect vast gas supplies that once went to Europe straight into Chinese factories. While Beijing is driving a hard bargain on price, Moscow needs the revenue to keep its wartime economy running.",
+      "why": "It locks the world's biggest energy exporter and its biggest manufacturer into a multi-decade embrace that permanently bypasses Western energy markets.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "russia and china fast track giant gas pipeline talks",
+      "date": "2026-08-30"
     }
   ]
 }
