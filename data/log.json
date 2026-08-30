@@ -2619,6 +2619,16 @@
       "mode": "afternoon",
       "fp": "russia and china fast track giant gas pipeline talks",
       "date": "2026-08-30"
+    },
+    {
+      "headline": "US Strikes Iranian Rocket Launchers in Strait of Hormuz",
+      "summary": "U.S. forces struck Iranian Revolutionary Guard rocket sites along the Strait of Hormuz after tracking preparations to launch sea-mine-equipped rockets into the shipping corridor, prompting immediate vows of retaliation from Tehran [1.1.1].",
+      "why": "The Strait of Hormuz is the world's most critical oil transit chokepoint. Direct military engagement and threats of naval mining there risk immediate escalation into wider regional warfare and severe global energy market disruptions.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us strikes iranian rocket launchers in strait of hormuz",
+      "date": "2026-08-30"
     }
   ]
 }
