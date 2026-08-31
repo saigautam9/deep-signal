@@ -2569,6 +2569,56 @@
       "mode": "monitor",
       "fp": "u s and iran trade direct missile and airstrikes around",
       "date": "2026-08-31"
+    },
+    {
+      "headline": "Massive mountain floods kill over 900 across Nepal and China",
+      "summary": "Extreme monsoon rainfall triggered catastrophic flash floods and landslides across Nepal and southern China. Over 900 people are confirmed dead, with emergency crews racing to save hundreds of workers trapped inside flooded hydropower tunnels. The disaster washed away roads, bridges, and power lines across the Himalayas.",
+      "why": "The wreckage of major dams cuts off power for millions and shows how vulnerable critical energy networks are to climate shocks.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "massive mountain floods kill over 900 across nepal and china",
+      "date": "2026-08-31"
+    },
+    {
+      "headline": "US and Iran trade missile strikes near vital oil shipping route",
+      "summary": "The US military bombed Iranian rocket sites near the Strait of Hormuz, and Iran quickly fired back [1.1.6]. Both governments are now threatening key energy hubs, putting global shipping lanes on high alert. It is like two rivals throwing sparks near a gas station.",
+      "why": "If tanker traffic through that narrow sea passage stalls, fuel and grocery prices will quickly rise across the world.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us and iran trade missile strikes near vital oil shipping",
+      "date": "2026-08-31"
+    },
+    {
+      "headline": "Xi and Putin meet as Moscow leans harder on Beijing's economy",
+      "summary": "Vladimir Putin and Xi Jinping met at a regional summit in Central Asia to lock in closer trade, energy, and military cooperation. Squeezed by Western sanctions and domestic refinery strikes, Russia is selling discounted crude to China in exchange for manufactured parts and tech. The dynamic leaves Beijing holding most of the cards in their relationship.",
+      "why": "This growing partnership fractures world trade into two separate economic camps and blunts the power of global financial sanctions.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "xi and putin meet as moscow leans harder on beijing",
+      "date": "2026-08-31"
+    },
+    {
+      "headline": "Ammunition blast near Kyiv kills 37 and levels nearby homes",
+      "summary": "A Russian strike hit a munitions depot outside Kyiv, triggering huge secondary blasts that wrecked roughly 50 residential buildings and killed at least 37 people. Ukrainian officials launched a criminal inquiry into why explosives were stored right beside neighborhoods. The blast forced hundreds of residents out of their ruined apartments.",
+      "why": "It highlights the deadly civilian danger when wartime armies stockpile heavy ammunition inside crowded urban zones.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ammunition blast near kyiv kills 37 and levels nearby homes",
+      "date": "2026-08-31"
+    },
+    {
+      "headline": "Military mutiny in Niger exposes cracks in Russia's African security push",
+      "summary": "Troops in Niger revolted against their commanders, laying bare severe infighting within the military junta and its Russian-backed Africa Corps. Moscow stepped in to replace Western troops in the region, but local soldiers are struggling to push back insurgent fighters. The unrest reveals growing frustration among local units over poor safety and broken promises.",
+      "why": "Instability in the Sahel threatens key cross-desert transport corridors and risks creating fresh refugee movements toward neighboring regions.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "military mutiny in niger exposes cracks in russia s african",
+      "date": "2026-08-31"
     }
   ]
 }
