@@ -2619,6 +2619,16 @@
       "mode": "afternoon",
       "fp": "military mutiny in niger exposes cracks in russia s african",
       "date": "2026-08-31"
+    },
+    {
+      "headline": "Catastrophic Glacial Collapse and Flooding Hits Nepal and China",
+      "summary": "A massive glacial collapse triggered severe flash floods across the border regions of Nepal and China, killing over 950 people and trapping hundreds inside damaged hydropower tunnels.",
+      "why": "This is a mass-casualty natural disaster that has caused extreme loss of life and wiped out critical regional energy and transport infrastructure.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "catastrophic glacial collapse and flooding hits nepal and china",
+      "date": "2026-08-31"
     }
   ]
 }
