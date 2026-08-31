@@ -2559,6 +2559,16 @@
       "mode": "monitor",
       "fp": "us strikes iranian rocket launchers in strait of hormuz",
       "date": "2026-08-30"
+    },
+    {
+      "headline": "U.S. and Iran trade direct missile and airstrikes around the Persian Gulf, raising fears of wider conflict",
+      "summary": "Hostilities between the U.S. and Iran flared sharply after U.S. forces struck missile launchers on Iran's Larak Island. Iran responded with ballistic missile strikes against U.S. airbases in Jordan and maritime targets near the Strait of Hormuz, prompting the U.S. administration to threaten retaliatory strikes on Iran's critical Kharg Island oil infrastructure.",
+      "why": "This represents a direct military clash between major powers in a vital global energy transit route, threatening global oil supplies and risking full-scale war across the region.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade direct missile and airstrikes around",
+      "date": "2026-08-31"
     }
   ]
 }
