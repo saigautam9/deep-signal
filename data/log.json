@@ -2519,6 +2519,26 @@
       "mode": "monitor",
       "fp": "catastrophic glacial collapse and flooding hits nepal and china",
       "date": "2026-08-31"
+    },
+    {
+      "headline": "US and Iran Trade Direct Missile Strikes, Ending Month-Long Pause",
+      "summary": "US forces hit Iranian rocket launchers in the Strait of Hormuz, and Iran fired back with ballistic missiles at US-linked bases in Jordan and the UAE. President Trump warned that the US plans to hit Iran back hard.",
+      "why": "This breaks a four-week lull in direct combat between the two militaries, sharply escalating the risk of a broader regional war and threatening oil transit through the world's most critical energy chokepoint.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran trade direct missile strikes ending month long",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "US Army Secretary Resigns Amid Pentagon Clashes Over Military Purges",
+      "summary": "Army Secretary Dan Driscoll resigned after ongoing disputes with Defense Secretary Pete Hegseth over the firing of several top military generals and the direction of Army modernization.",
+      "why": "The resignation leaves the United States Army without Senate-confirmed top civilian leadership during an active military conflict in the Middle East.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us army secretary resigns amid pentagon clashes over military purges",
+      "date": "2026-09-01"
     }
   ]
 }
