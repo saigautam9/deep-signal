@@ -2589,6 +2589,26 @@
       "mode": "afternoon",
       "fp": "us postal service whistleblower sounds alarm over mail voting changes",
       "date": "2026-09-01"
+    },
+    {
+      "headline": "U.S. Military Launches New Wave of Strikes Against Iranian Forces",
+      "summary": "U.S. Central Command confirmed it began striking Islamic Revolutionary Guard Corps targets inside Iran around midday, retaliating against Iranian drone strikes and attempts to place mines in the Strait of Hormuz.",
+      "why": "This is a direct military confrontation between two heavily armed states over the world's most vital energy transit corridor, creating an immediate risk of wider war and energy market disruptions.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s military launches new wave of strikes against iranian",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "Death Toll Tops 1,000 in Devastating Nepal-China Glacial Floods",
+      "summary": "Mass burials are underway across the Himalayas after the death toll from catastrophic glacial collapse and flash floods crossed 1,000, with more than 4,000 people still missing.",
+      "why": "This is a major humanitarian disaster that has obliterated mountain communities, crippled critical hydropower infrastructure, and claimed thousands of lives.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "death toll tops 1 000 in devastating nepal china glacial",
+      "date": "2026-09-01"
     }
   ]
 }
