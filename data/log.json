@@ -2539,6 +2539,56 @@
       "mode": "monitor",
       "fp": "us army secretary resigns amid pentagon clashes over military purges",
       "date": "2026-09-01"
+    },
+    {
+      "headline": "US and Iran trade strikes around vital oil shipping routes",
+      "summary": "The United States launched fresh strikes on Iranian positions near the Strait of Hormuz to stop naval minelaying, prompting Iran to fire missiles back at regional bases. Regional mediators are scrambling to restore a shaky ceasefire, but both sides remain on a hair-trigger over shipping lanes and sanctions. The standoff has jittery global markets worried about oil supplies being choked off.",
+      "why": "If this narrow shipping corridor gets blocked, energy bills around the world could jump overnight like gas prices during an oil embargo.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us and iran trade strikes around vital oil shipping routes",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "Russia unleashes relentless six-day air assault on Ukrainian cities",
+      "summary": "Russian forces carried out heavy overnight missile and drone bombardments against Kyiv and eight other regions for a sixth straight day. The strikes hit residential neighborhoods and energy grids right as millions of children returned to school. Meanwhile, high-level diplomatic talks at the G20 showed both sides remain far apart on ending the war.",
+      "why": "Moscow is trying to grind down civilian endurance before winter, locking Europe into another long, expensive security standoff.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russia unleashes relentless six day air assault on ukrainian cities",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "Massive Himalayan flash floods kill over a thousand in Nepal and China",
+      "summary": "Catastrophic flash floods and landslides swept through mountain valleys along the Nepal-China border, killing more than 1,000 people and leaving thousands missing. Whole villages and bridges were washed away, forcing emergency crews into mass burials while struggling to access cut-off regions. Experts say supercharged monsoon rains are rapidly overwhelming fragile mountain terrain.",
+      "why": "It is a tragic warning of how extreme weather is wiping out entire communities and vital regional infrastructure with almost no notice.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "massive himalayan flash floods kill over a thousand in nepal",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "Spiking energy costs spark a fresh wave of global inflation",
+      "summary": "New economic reports show inflation heating up again across Europe and major markets, fueled mostly by rising oil and shipping costs. Unlike the pandemic crunch, this price jump comes straight from geopolitical turmoil rattling fuel supplies. Central bankers are now warning they may have to keep interest rates high to keep prices from spiraling.",
+      "why": "When fuel gets expensive, everyday goods follow, leaving regular families squeezed and making loans much harder to afford.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "spiking energy costs spark a fresh wave of global inflation",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "US Postal Service whistleblower sounds alarm over mail voting changes",
+      "summary": "A postal whistleblower warned that rushed overhauls to comply with presidential directives could cause massive failures in mail-in ballot delivery ahead of upcoming elections. The revelation sparked fierce arguments between officials over voting rules and mail reliability. Several states are now demanding independent checks to ensure ballots do not get lost in transit.",
+      "why": "If people lose trust in how votes are delivered and counted, the results of the world's most watched elections will be disputed from day one.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us postal service whistleblower sounds alarm over mail voting changes",
+      "date": "2026-09-01"
     }
   ]
 }
