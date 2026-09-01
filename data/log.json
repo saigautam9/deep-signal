@@ -2609,6 +2609,56 @@
       "mode": "monitor",
       "fp": "death toll tops 1 000 in devastating nepal china glacial",
       "date": "2026-09-01"
+    },
+    {
+      "headline": "Missile and Mine Strikes in Hormuz Threaten Global Oil Flow",
+      "summary": "Two oil tankers were struck near the Strait of Hormuz, prompting fresh US military strikes against Iranian targets. The clashes are choking the world's most critical maritime bottleneck and jolting energy markets worldwide. Governments and central banks are already preparing for another wave of inflation as shipping costs climb.",
+      "why": "A prolonged disruption in this narrow channel acts like a blocked fuel line for the world economy, driving up prices for everything from gas to groceries.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "missile and mine strikes in hormuz threaten global oil flow",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "Massive Floods in Nepal Leave Over 1,000 Dead",
+      "summary": "Catastrophic monsoon flooding and landslides swept across Nepal, washing away villages and trapping hundreds of workers in collapsed hydropower tunnels. Emergency crews are racing against time, but destroyed roads and severed power lines have cut off entire regions. Aid agencies warn the disaster has overwhelmed local rescue systems and left thousands homeless.",
+      "why": "It highlights how vulnerable mountain communities and clean-energy infrastructure are to increasingly severe climate shocks.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "massive floods in nepal leave over 1 000 dead",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "Germany Blames Russia for Drone Sabotage on European Infrastructure",
+      "summary": "German officials formally accused Russia of launching drone attacks against Leipzig airport and sabotaging key power lines in Brandenburg. The incidents mark a sharp escalation in suspected hybrid warfare deep inside NATO territory. European leaders are now tightening border controls and scrambling to protect critical energy and transit grids.",
+      "why": "It shows modern warfare is spilling out of Ukraine and directly targeting the everyday systems that keep Europe running.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "germany blames russia for drone sabotage on european infrastructure",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "Russian Strikes Zero In on Ukraine's Rail Network",
+      "summary": "Russian forces launched a coordinated barrage targeting Ukraine's central railway lines and transport hubs. The rail system serves as the country's primary lifeline for moving food, civilians, and military supplies. The strikes threaten to paralyze domestic travel and choke essential trade routes connecting Ukraine to Europe.",
+      "why": "Severing the railways cuts off the main circulatory system keeping Ukraine's economy and defense supplied.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "russian strikes zero in on ukraine s rail network",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "Spain Clashes With Foreign Powers Over Ceuta Border Crisis",
+      "summary": "Spanish Prime Minister Pedro S\u00e1nchez accused foreign actors of fueling a sudden migration surge and spreading disinformation at the Ceuta border enclave. The standoff has triggered emergency security measures and strained diplomatic ties across the Mediterranean. European capitals are treating the border pressure as a coordinated campaign to test EU cohesion.",
+      "why": "Weaponizing migration routes puts intense political pressure on European unity and border stability.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "spain clashes with foreign powers over ceuta border crisis",
+      "date": "2026-09-01"
     }
   ]
 }
