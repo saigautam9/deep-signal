@@ -2659,6 +2659,26 @@
       "mode": "evening",
       "fp": "spain clashes with foreign powers over ceuta border crisis",
       "date": "2026-09-01"
+    },
+    {
+      "headline": "US launches new barrage of airstrikes against Iran near Strait of Hormuz",
+      "summary": "The US military carried out fresh airstrikes against Iranian Revolutionary Guard targets across southern Iran, including Bandar Abbas and Qeshm Island. The strikes came after renewed projectile attacks on commercial oil tankers and US bases in the region. President Trump warned of even larger attacks if Iran responds.",
+      "why": "The Strait of Hormuz is the world's most critical oil chokepoint. Direct military clashes here risk shutting down global fuel shipments and spiraling into a wider regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us launches new barrage of airstrikes against iran near strait",
+      "date": "2026-09-01"
+    },
+    {
+      "headline": "Death toll passes 1,000 in catastrophic Nepal-China Himalayan flood disaster",
+      "summary": "Massive flash floods and mudslides triggered by a high-altitude glacier collapse swept through mountain valleys along the Nepal-China border. Official death tolls officially passed 1,000 today, with over 4,000 people still missing across both countries.",
+      "why": "This is one of the deadliest climate-driven natural disasters in the region in decades, causing massive loss of life and destroying critical regional infrastructure.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "death toll passes 1 000 in catastrophic nepal china himalayan",
+      "date": "2026-09-01"
     }
   ]
 }
