@@ -1,136 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Ukraine Runs Out of Patriot Missiles as Russian Ballistic Attack Hits Kyiv",
-      "summary": "Ukraine has run out of interceptor missiles for its U.S.-made Patriot air defense systems. Russia launched a massive strike with 27 ballistic missiles and nearly 200 drones, mainly targeting Kyiv. Because Ukraine had no interceptor rounds left, it could only shoot down a single ballistic missile. The attack killed at least 10 people and injured dozens.",
-      "why": "This represents a severe military crisis. Without interceptor missiles, Ukraine's capital is left almost completely exposed to incoming heavy ballistic attacks, creating a major strategic vulnerability in the conflict.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "ukraine runs out of patriot missiles as russian ballistic attack",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "OpenAI says new AI model solved 10 unsolved math problems",
-      "summary": "OpenAI revealed that its upcoming AI model, named Astra, solved ten open math and computer science problems that stumped human experts for over a decade. The team published full computer-checked proofs on GitHub so mathematicians can verify the work.",
-      "why": "This is a major technology breakthrough. The AI moved beyond taking tests to doing real scientific research and discovering new mathematical truths.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "openai says new ai model solved 10 unsolved math problems",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "US pauses planned military strikes on Iran after regional leaders intervene",
-      "summary": "President Donald Trump canceled a planned military attack against Iranian energy targets after Middle Eastern countries asked for time to negotiate. The proposed deal focuses on fully reopening the Strait of Hormuz and curbing Iran's nuclear activities.",
-      "why": "This halts a sharp military escalation and potential widespread war in the Middle East that threatened global energy markets.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us pauses planned military strikes on iran after regional leaders",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "Ukraine Strikes Deep in Russia as Nuclear Plant Loses Power",
-      "summary": "Long-range Ukrainian drones hit three oil refineries nearly a thousand miles inside Russia, aiming to starve Moscow's military of fuel. Meanwhile, the Russian-occupied Zaporizhzhia nuclear plant briefly lost its main external power line again, forcing emergency measures to keep reactors safe.",
-      "why": "Taking out distant fuel hubs drains Russia's war engine, but ongoing power cuts at the nuclear plant raise dangerous radiation risks for Europe.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "ukraine strikes deep in russia as nuclear plant loses power",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "US Holds Off Iran Strikes to Pursue Hormuz Deal",
-      "summary": "President Trump canceled planned military attacks on Iranian energy sites, saying both sides agreed to basic terms for a peace deal. The proposed agreement aims to reopen the Strait of Hormuz shipping route and halt Iran's nuclear work after regional leaders pushed for diplomatic talks.",
-      "why": "Keeping the Strait of Hormuz open prevents a sudden spike in world fuel prices and stops a massive regional war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us holds off iran strikes to pursue hormuz deal",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "Gaza Peace Plan Pushed as Deadly Fighting Continues",
-      "summary": "The US unveiled a new 15-point proposal to disarm Hamas and secure a lasting ceasefire in Gaza. However, Israeli air strikes killed at least eight people on Sunday as negotiators continue to argue over troop withdrawals and disarmament terms.",
-      "why": "Millions of trapped civilians remain at risk while world powers struggle to turn a paper proposal into actual safety on the ground.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "gaza peace plan pushed as deadly fighting continues",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "Deadly Bomb Attack Strikes Restaurant in Heart of Moscow",
-      "summary": "A bomb carried by a woman exploded outside a fine-dining restaurant in central Moscow, killing three people and injuring more than twenty. The blast happened right outside a skyscraper where a Russian military official was reportedly attending a party.",
-      "why": "Bringing violence directly into the capital shows that security is breaking down on the Russian home front as conflict spreads beyond the battlefield.",
-      "domain": "Society",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "deadly bomb attack strikes restaurant in heart of moscow",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "European Heatwave Forces Hungary to Plan Nuclear Plant Shutdown",
-      "summary": "Severe heat and drought have caused river levels across Europe to drop drastically. Hungary announced plans to temporarily turn off its main nuclear power plant because the Danube River is now too low to safely cool the reactors.",
-      "why": "Extreme weather is directly threatening major power plants, proving that climate shocks can quickly turn into regional energy blackouts.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "european heatwave forces hungary to plan nuclear plant shutdown",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "Ukraine Runs Out of Key Air Defense Missiles",
-      "summary": "Russia launched a heavy barrage of missiles and drones at Kyiv, killing ten people. Ukrainian leaders warned that their military has exhausted its supply of Patriot interceptor missiles. Without fresh shipments, major cities and energy grids are left completely vulnerable to attacks.",
-      "why": "Without air defense shields, civilians and critical power networks are left exposed to daily bombardment.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "ukraine runs out of key air defense missiles",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "US-Iran Tensions Spike Over Vital Oil Trade Route",
-      "summary": "President Trump paused planned military strikes against Iran, claiming a deal was near to reopen the Strait of Hormuz. However, Iranian leaders rejected his claim as a lie and kept their forces on high alert. The ongoing standoff leaves a crucial global trade lane locked down.",
-      "why": "When this narrow waterway gets blocked, global oil supplies drop and fuel prices jump for everyone.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us iran tensions spike over vital oil trade route",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "Global Weather Agency Warns of Intense El Ni\u00f1o",
-      "summary": "The World Meteorological Organization warned that a strong El Ni\u00f1o pattern is rapidly building up in the Pacific Ocean. It will drive extreme heatwaves, severe droughts, and heavy floods across much of the globe over the coming months.",
-      "why": "Wild weather ruins harvests and drives up grocery bills, making basic food harder to afford worldwide.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "global weather agency warns of intense el ni o",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "Border Surges Trigger Travel Restrictions Across Europe",
-      "summary": "Deadly migrant clashes at Spanish enclaves in North Africa have pushed several European nations to panic. Italy suspended its open-border travel agreement with Spain and brought back physical border checks.",
-      "why": "Closing open borders inside Europe disrupts trade, travel, and trust between neighboring nations like locking gates between connected backyards.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "border surges trigger travel restrictions across europe",
-      "date": "2026-08-02"
-    },
-    {
-      "headline": "EU Law Forcing Clear Labels on AI Content Takes Effect",
-      "summary": "New European Union regulations took effect today, requiring tech companies to clearly label artificial intelligence content. Any synthetic images, audio, or text must now carry transparent tags so people know when they are looking at AI work.",
-      "why": "It draws a clear line between human creations and machine fakes, setting a global benchmark for digital honesty.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "eu law forcing clear labels on ai content takes effect",
-      "date": "2026-08-02"
-    },
-    {
       "headline": "Severe Wildfires Ravage Southern Europe and Western U.S.",
       "summary": "Record summer heatwaves continue to feed destructive wildfires across Greece, France, Spain, and the U.S. Pacific Northwest. The blazes have forced mass evacuations and claimed lives, including two pilots killed in a helicopter crash during firefighting efforts in Greece.",
       "why": "Escalating extreme weather events are overwhelming emergency services and inflicting mounting economic and human costs across continents.",
@@ -2679,6 +2549,16 @@
       "mode": "monitor",
       "fp": "death toll passes 1 000 in catastrophic nepal china himalayan",
       "date": "2026-09-01"
+    },
+    {
+      "headline": "Nepal and China flood disaster death toll surpasses 1,000",
+      "summary": "Catastrophic flash floods and mudslides across Nepal and border regions of China have killed more than 1,000 people. Emergency crews are digging through mud-filled tunnels and buried settlements searching for survivors.",
+      "why": "This is a major natural disaster causing massive loss of life and severe humanitarian destruction across the region.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "nepal and china flood disaster death toll surpasses 1 000",
+      "date": "2026-09-02"
     }
   ]
 }
