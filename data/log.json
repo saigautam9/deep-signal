@@ -2729,6 +2729,16 @@
       "mode": "evening",
       "fp": "chinese electric cars find a backdoor into north america through",
       "date": "2026-09-02"
+    },
+    {
+      "headline": "Sharp Military Escalation as US Bombs Southern Iran and Iran Retaliates Across the Gulf",
+      "summary": "Following weeks of uneasy quiet, US forces carried out hours of heavy airstrikes across southern Iran near the Strait of Hormuz, where local officials report a strike hit a home during a wedding party and killed civilians. Tehran quickly answered by firing waves of missiles and drones targeting American military bases and allies across Bahrain, Kuwait, Jordan, and Iraq, with both sides warning of further strikes.",
+      "why": "This is a direct military clash between two major powers right next to the world's most important oil transit route. Striking bases across several host countries pulls an entire region into the line of fire, destroying fragile diplomatic talks and drastically raising the risk of an all-out war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "sharp military escalation as us bombs southern iran and iran",
+      "date": "2026-09-02"
     }
   ]
 }
