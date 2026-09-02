@@ -2569,6 +2569,56 @@
       "mode": "monitor",
       "fp": "u s launches fresh direct strikes on targets in iran",
       "date": "2026-09-02"
+    },
+    {
+      "headline": "Direct US-Iran missile strikes ignite fears of a wider energy war",
+      "summary": "The United States and Iran traded heavy strikes overnight after a monthlong lull, hitting military targets and commercial choke points near the Strait of Hormuz. Iranian retaliation targeted regional bases and Gulf neighbors following reported civilian casualties from American airstrikes. Oil prices jumped immediately as shipping companies braced for disruptions in the world's most critical crude corridor.",
+      "why": "A full blockade or wider war in Hormuz would instantly raise gas prices and living costs across the entire planet.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "direct us iran missile strikes ignite fears of a wider",
+      "date": "2026-09-02"
+    },
+    {
+      "headline": "UN confirms Earth is set to blow past the 1.5-degree warming limit",
+      "summary": "A landmark report from the UN Environment Programme revealed that global temperatures will definitely breach the Paris Agreement's 1.5\u00b0C threshold within years. Scientists warned that the planet is entering an 'overshoot' era where dangerous extreme heat and crop failures will become the baseline normal. The report urged governments to simultaneously fund massive climate defenses while preparing expensive carbon-removal technology.",
+      "why": "It marks the official transition from trying to prevent dangerous climate change to surviving and paying for its direct damages.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "un confirms earth is set to blow past the 1",
+      "date": "2026-09-02"
+    },
+    {
+      "headline": "G20 finance chiefs isolate China over massive cheap export push",
+      "summary": "At a tense economic summit in North Carolina, 19 finance ministers backed US calls to crack down on heavily subsidized Chinese factory goods flooding world markets. Beijing stood alone in dissent, arguing its manufacturing keeps global inflation down. The meeting signals that more nations are preparing heavy tariffs to protect local jobs from a wave of diverted Chinese exports.",
+      "why": "This sets the stage for a coordinated global trade wall against Beijing, permanently splintering international supply chains.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "g20 finance chiefs isolate china over massive cheap export push",
+      "date": "2026-09-02"
+    },
+    {
+      "headline": "Spiking bond yields trigger fresh financial pain worldwide",
+      "summary": "Government borrowing costs across the US, UK, and Europe surged to new highs as investors dumped bonds over renewed inflation and oil price shocks. Stock markets dropped in response while central banks signaled interest rates may stay higher for longer. The sudden squeeze is forcing finance ministries to rethink upcoming public spending plans.",
+      "why": "When sovereign borrowing gets expensive, governments cut back on public services while ordinary people face steeper mortgage and credit rates.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "spiking bond yields trigger fresh financial pain worldwide",
+      "date": "2026-09-02"
+    },
+    {
+      "headline": "Chevron signs multi-billion-dollar oil pact to ramp up Venezuela production",
+      "summary": "Chevron inked major long-term agreements with Venezuela to pour over seven billion dollars into the Orinoco oil belt. The deal aims to more than double output to 600,000 barrels a day under restructured fiscal and operating terms. It represents a decisive pivot by Washington to secure alternative crude supplies in the Western hemisphere.",
+      "why": "Locking in heavy crude nearby acts as a crucial safety valve against potential supply cutoffs in the volatile Middle East.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "chevron signs multi billion dollar oil pact to ramp up",
+      "date": "2026-09-02"
     }
   ]
 }
