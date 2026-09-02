@@ -2679,6 +2679,56 @@
       "mode": "afternoon",
       "fp": "china s xi lands in egypt to deepen footprint in",
       "date": "2026-09-02"
+    },
+    {
+      "headline": "Iran conflict escalates as Gulf bases and oil tankers come under attack",
+      "summary": "Tensions exploded after Tehran accused the U.S. of striking an Iranian wedding party. In response, Iranian forces launched strikes against U.S. bases in the Gulf, and two commercial tankers caught fire after hitting naval mines in the Strait of Hormuz. Think of the region as a powder keg where someone just lit a very short fuse.",
+      "why": "Closing or disrupting the world's most critical oil bottleneck can send global energy prices through the roof overnight and spark a wider war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "iran conflict escalates as gulf bases and oil tankers come",
+      "date": "2026-09-02"
+    },
+    {
+      "headline": "UN warns global warming will blow past the 1.5-degree limit",
+      "summary": "In a landmark report, the United Nations conceded that the planet has lost its chance to avoid exceeding 1.5 degrees Celsius of warming. Instead of preventing the threshold breach, world leaders now have to manage a decades-long 'overshoot' of extreme heat, crop failures, and severe weather. The strategy has shifted from dodging the crash to surviving the impact and trying to pull temperatures back down later.",
+      "why": "It marks the end of the world's primary climate safety line, locking in sharper food shortages, rising insurance crises, and deeper displacement.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "un warns global warming will blow past the 1 5",
+      "date": "2026-09-02"
+    },
+    {
+      "headline": "Europe pushes fresh sanctions after foiled German airport attack",
+      "summary": "European officials are preparing new sanctions and travel restrictions against Moscow following an intercepted explosive incident at a German airport. Western intelligence services warn that covert sabotage against European transportation and energy networks is rising sharply. Governments across the bloc are now scrambling to protect public infrastructure from being pulled into the gray zone of the Ukraine war.",
+      "why": "It shows the confrontation with Russia is increasingly spilling into everyday European civilian transport and infrastructure.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "europe pushes fresh sanctions after foiled german airport attack",
+      "date": "2026-09-02"
+    },
+    {
+      "headline": "Federal judge refuses to break up Google's advertising empire",
+      "summary": "The U.S. government wanted to force Google to sell off pieces of its online advertising business to curb its monopoly power. A federal judge rejected that breakup demand, ordering the company to make its ad tools work with rivals instead. It is like telling a mega-retailer they can keep all their storefronts as long as they let outside brands rent shelf space.",
+      "why": "It hands Big Tech a major legal victory and limits how far regulators can go in physically breaking apart giant digital platforms.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "federal judge refuses to break up google s advertising empire",
+      "date": "2026-09-02"
+    },
+    {
+      "headline": "Chinese electric cars find a backdoor into North America through Canada",
+      "summary": "Chinese electric carmakers are preparing an aggressive rollout into North America following a trade opening in Canada. The United States has used hefty import taxes to lock cheap Chinese vehicles out, but this move places them right across the northern border. It is like locking the front gate while your neighbor quietly opens the adjoining fence.",
+      "why": "Cheap, highly competitive Chinese electric vehicles arriving on the continent will pile intense pressure on Western automakers and escalate trade friction.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "chinese electric cars find a backdoor into north america through",
+      "date": "2026-09-02"
     }
   ]
 }
