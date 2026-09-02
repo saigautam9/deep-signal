@@ -2619,6 +2619,16 @@
       "mode": "morning",
       "fp": "chevron signs multi billion dollar oil pact to ramp up",
       "date": "2026-09-02"
+    },
+    {
+      "headline": "US and Iran Trade Direct Strikes in Sharp Persian Gulf Escalation",
+      "summary": "The US military launched a major wave of airstrikes hitting Iranian air defense, radar, and naval sites near the Strait of Hormuz after accusing Iran of attempting to lay mines. Iran retaliated by firing drones and missiles toward US base locations and American allies across Kuwait, Bahrain, and Jordan, ending a month-long lull in direct fighting.",
+      "why": "This sudden exchange breaks weeks of relative calm and drags multiple neighboring Gulf countries into the line of fire. It sharply elevates the risk of a full-scale regional war and threatens shipping through the Strait of Hormuz, a critical bottleneck for world energy supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran trade direct strikes in sharp persian gulf",
+      "date": "2026-09-02"
     }
   ]
 }
