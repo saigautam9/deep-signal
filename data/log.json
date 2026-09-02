@@ -2559,6 +2559,16 @@
       "mode": "monitor",
       "fp": "nepal and china flood disaster death toll surpasses 1 000",
       "date": "2026-09-02"
+    },
+    {
+      "headline": "U.S. Launches Fresh Direct Strikes on Targets in Iran",
+      "summary": "The United States military carried out a new wave of airstrikes against Iranian targets following attacks on commercial ships in the Persian Gulf region.",
+      "why": "Direct combat exchanges between major militaries in a vital oil choke point threaten a wider regional war and immediate shocks to global energy supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s launches fresh direct strikes on targets in iran",
+      "date": "2026-09-02"
     }
   ]
 }
