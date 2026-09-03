@@ -1,106 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Severe Wildfires Ravage Southern Europe and Western U.S.",
-      "summary": "Record summer heatwaves continue to feed destructive wildfires across Greece, France, Spain, and the U.S. Pacific Northwest. The blazes have forced mass evacuations and claimed lives, including two pilots killed in a helicopter crash during firefighting efforts in Greece.",
-      "why": "Escalating extreme weather events are overwhelming emergency services and inflicting mounting economic and human costs across continents.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "severe wildfires ravage southern europe and western u s",
-      "date": "2026-08-03"
-    },
-    {
-      "headline": "U.S. and Iran Edge Toward Negotiations Over Gulf Crisis",
-      "summary": "President Donald Trump called off planned air strikes on Iran after regional allies urged a diplomatic resolution. Meanwhile, Iranian officials are holding talks with Oman to manage shipping through the vital Strait of Hormuz.",
-      "why": "Keeping the Strait open and avoiding direct war prevents a global energy crisis and protects world trade.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "u s and iran edge toward negotiations over gulf crisis",
-      "date": "2026-08-03"
-    },
-    {
-      "headline": "U.S. Senate Moves to Block Executive Control Over Science Funding",
-      "summary": "Senate leaders inserted a bipartisan spending provision to prevent political appointees from vetoing federal research grants. The White House had sought to review scientific and medical grants to ensure they align with administration priorities.",
-      "why": "Keeping political appointees out of grant selection protects billions in funding for objective scientific and health research.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "u s senate moves to block executive control over science",
-      "date": "2026-08-03"
-    },
-    {
-      "headline": "Border Chaos in Spain's Ceuta Triggers European Migration Clash",
-      "summary": "Thousands of migrants attempted to enter Spain's North African territory of Ceuta from Morocco, leading Spain to deploy floating maritime barriers and boost security. Spanish leaders publicly criticized other European nations for failing to share the burden of the growing emergency.",
-      "why": "The surge highlights growing border pressures that threaten to split the European Union on humanitarian and security policies.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "border chaos in spain s ceuta triggers european migration clash",
-      "date": "2026-08-03"
-    },
-    {
-      "headline": "Myanmar Junta Permits Rare Meeting with Aung San Suu Kyi",
-      "summary": "Myanmar's military government allowed ousted leader Aung San Suu Kyi to meet with an official from the International Red Cross. Photos from the visit mark her first confirmed contact with an international representative since being imprisoned following the 2021 military coup.",
-      "why": "This small crack in the junta's isolation offers diplomatic leverage to regional leaders seeking an end to Myanmar's civil conflict.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "myanmar junta permits rare meeting with aung san suu kyi",
-      "date": "2026-08-03"
-    },
-    {
-      "headline": "U.S.-Iran Tensions Wobbly as Diplomatic Claims Clash with Oil Blockades",
-      "summary": "President Trump claimed he paused massive military strikes on Iran so new peace talks could begin on Monday. Tehran quickly denied any talks are happening while armed groups continue blocking oil tankers in key shipping lanes. Energy markets are jumping around as world leaders try to figure out if war is starting or stopping.",
-      "why": "A full-blown war here could choke off the world's primary oil route and send global fuel prices through the roof.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "u s iran tensions wobbly as diplomatic claims clash with",
-      "date": "2026-08-03"
-    },
-    {
-      "headline": "European Heatwave and River Droughts Force Emergency Energy Tactics",
-      "summary": "Record summer heat and fires are sweeping across southern Europe, drying up major rivers like the Danube. In Romania, authorities even blew up riverbed rocks with explosives to keep enough water flowing to cool a nuclear plant. Emergency services across the continent are pushed to the limit as power grids struggle under high demand.",
-      "why": "Extreme weather is no longer just uncomfortable; it is directly threatening basic food, water, and power supplies for millions.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "european heatwave and river droughts force emergency energy tactics",
-      "date": "2026-08-03"
-    },
-    {
-      "headline": "Massive Border Surge in Spanish Enclave Triggers EU Security Meeting",
-      "summary": "Tens of thousands of migrants crossed into Ceuta, a small Spanish territory on the North African coast, within a matter of days. Spain deployed troops to secure the border while blaming online misinformation for sparking the sudden rush. European Union officials called emergency meetings to figure out how to share the burden.",
-      "why": "Sudden border shocks like this test Europe's political unity and spark deep debates about migration policies.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "massive border surge in spanish enclave triggers eu security meeting",
-      "date": "2026-08-03"
-    },
-    {
-      "headline": "Cuba Opens to Private Business in Biggest Economic Shift in Decades",
-      "summary": "Struggling with severe blackouts and shortages, Cuba's government launched major economic reforms. The island is opening up much more space for private enterprise and foreign investment while keeping state control over key sectors. It is a quiet admission that the old economic plan can no longer keep the lights on.",
-      "why": "This marks a historic shift in how a communist nation runs its economy, directly changing daily survival for millions of people.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "cuba opens to private business in biggest economic shift in",
-      "date": "2026-08-03"
-    },
-    {
-      "headline": "Ukrainian Strikes Push Russian Oil Refining to Historic Lows",
-      "summary": "Repeated drone attacks on Russian fuel facilities have pushed the country's oil refining output down to its lowest level in over two decades. Moscow is facing local fuel shortages while trying to keep its military fueled and its budget afloat. The supply drop is rippling through neighboring trade routes and global energy markets.",
-      "why": "Cutting into a major nation's fuel engine hits both its military ability and global energy prices at the same time.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "ukrainian strikes push russian oil refining to historic lows",
-      "date": "2026-08-03"
-    },
-    {
       "headline": "Record Heatwave and Wildfires Trigger Agricultural Crisis Across Europe",
       "summary": "Blistering heatwaves and unchecked wildfires are battering Europe, forcing farmers in Britain to abandon failing crops and Romanian factories to halt production to save power. In Switzerland, the military is airlifting water to mountain farms as alpine pastures dry up. Firefighters across Greece and France continue fighting stubborn blazes driven by strong winds.",
       "why": "Severe weather is directly damaging food harvests and straining power grids, hitting households through higher living costs and food shortages.",
@@ -2739,6 +2639,16 @@
       "mode": "monitor",
       "fp": "sharp military escalation as us bombs southern iran and iran",
       "date": "2026-09-02"
+    },
+    {
+      "headline": "US-Iran Conflict Sharply Escalates as Fresh Missile and Air Strikes Spread Across the Gulf",
+      "summary": "A month-long lull in direct fighting between the United States and Iran has broken down. Following heavy American airstrikes targeting Iranian radar facilities, missile sites, and tankers along the Strait of Hormuz, Tehran launched retaliatory waves of missiles and drones across the Persian Gulf. By Thursday morning, Kuwait confirmed its air defense systems were actively intercepting incoming Iranian missiles and drones, while President Trump warned that the US is ready to strike again immediately.",
+      "why": "This represents a sharp military escalation that directly endangers commercial shipping in the Strait of Hormuz and risks dragging US Gulf allies into an open, wider regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran conflict sharply escalates as fresh missile and air",
+      "date": "2026-09-03"
     }
   ]
 }
