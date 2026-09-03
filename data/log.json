@@ -2649,6 +2649,56 @@
       "mode": "monitor",
       "fp": "us iran conflict sharply escalates as fresh missile and air",
       "date": "2026-09-03"
+    },
+    {
+      "headline": "The US and Iran Trade Heavy Strikes Across the Gulf",
+      "summary": "The US launched intense bombing runs inside Iran, and Tehran quickly answered by firing missiles and drones at American military bases in Kuwait. Washington says it is knocking out threats, but Tehran and its neighbors warn the conflict is spilling past its borders. Inside the Pentagon, deep disagreements over the campaign led to the Army secretary's abrupt resignation.",
+      "why": "An open war in the Gulf is like lighting a match near an oil refinery; it threatens vital shipping lanes and could send global fuel prices skyrocketing.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "the us and iran trade heavy strikes across the gulf",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "Catastrophic Flash Floods in Nepal Leave Over 1,200 Dead",
+      "summary": "Massive mountain floods and landslides wiped out entire villages along Nepal's river valleys, killing more than 1,200 people. Roads and bridges washed away, forcing survivors to haul medicine and food across raging waters on zip lines. Scientists and local leaders say shifting weather systems now dump violent walls of water faster than early-warning alarms can catch them.",
+      "why": "It shows how quickly climate-driven disasters can wipe out critical lifelines for fragile mountain communities.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "catastrophic flash floods in nepal leave over 1 200 dead",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "China Steps Into the Mideast as Western Tensions Spike",
+      "summary": "Chinese leader Xi Jinping met with Egypt's president to lock in deeper trade and infrastructure deals near the Suez Canal. While Washington is bogged down in regional military strikes, Beijing is pitching itself as a calm business partner that brings cash without political lectures. Regional governments welcome the investment, even as Western capitals worry China is locking down influence over key global trade routes.",
+      "why": "China is filling the diplomatic vacuum left by Western conflict to reshape trade partnerships and gain leverage in the Global South.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "china steps into the mideast as western tensions spike",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "A Widening Trade Rift Between the US and Key Allies",
+      "summary": "Washington is doubling down on heavy tariffs against close allies like Canada, sparking friction among global finance ministers. The White House insists import taxes protect local jobs, but partner nations warn the fight will choke cross-border supply chains. Multinational companies are putting major investments on ice because they no longer know what crossing a border will cost tomorrow.",
+      "why": "Tearing up predictable trade rules acts like a hidden tax on everyday households and threatens to reignite global inflation.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "a widening trade rift between the us and key allies",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "Russia and Germany Clash Over Alleged Airport Sabotage",
+      "summary": "Russia ordered Germany to close its cultural centers after Berlin accused Moscow of backing drone plots against German airports. European leaders called the incident state-backed sabotage, while Russian diplomats dismissed the claims as Western paranoia. Britain and European allies are stepping up security, worried that covert attacks on transit networks are multiplying.",
+      "why": "The shadow conflict between Russia and the West is moving from cyber hacks to physical transport hubs, raising the danger of a direct military spark.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "russia and germany clash over alleged airport sabotage",
+      "date": "2026-09-03"
     }
   ]
 }
