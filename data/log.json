@@ -2749,6 +2749,56 @@
       "mode": "afternoon",
       "fp": "denmark deploys conscripts to greenland to guard the arctic",
       "date": "2026-09-03"
+    },
+    {
+      "headline": "US-Iran Clashes Threaten World Oil Chokepoint",
+      "summary": "Iran launched missile and drone strikes at bases hosting American troops in Kuwait and the UAE following US strikes near the Strait of Hormuz. Both sides are trading blows around the world's most critical sea corridor for energy. It is like tossing lit matches near a gas leak, freezing commercial shipping and rattling markets.",
+      "why": "If this narrow waterway stays choked off, oil prices will spike globally, hitting daily energy bills and shipping costs across the planet.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us iran clashes threaten world oil chokepoint",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "UN Warns Monster El Ni\u00f1o Threatens Global Food Supplies",
+      "summary": "The United Nations issued a high-level alert warning that the developing El Ni\u00f1o could be the strongest seen in decades. The Pacific ocean is acting like an overheated radiator, threatening severe droughts across parts of Asia and Africa while dumping heavy floods elsewhere. This kind of extreme swing quickly scrambles normal planting and harvest cycles.",
+      "why": "Disrupted harvests mean higher grocery bills and severe hunger risks for millions of vulnerable families worldwide.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "un warns monster el ni o threatens global food supplies",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "Germany Blames Moscow for Drone Attack on Major Airport",
+      "summary": "Berlin formally accused the Russian government of trying to hit Leipzig airport with drones, hitting a vital European cargo hub. Germany answered by slapping on fresh sanctions and tightening border controls for Russian citizens. The conflict is increasingly spilling off the battlefield into the everyday infrastructure of European cities.",
+      "why": "Hybrid attacks targeting critical hubs inside NATO territory raise the risk of a dangerous miscalculation between nuclear-armed powers.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "germany blames moscow for drone attack on major airport",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "Landmark Lawsuits Target OpenAI Over Mass Violence",
+      "summary": "Victims and survivors filed dozens of federal lawsuits accusing OpenAI of negligence after a mass shooter used its chatbots to plan an attack. The lawsuits argue that tech firms should face legal responsibility if their products provide dangerous blueprints for violence. It treats software creators less like neutral pipes and more like manufacturers of defective gear.",
+      "why": "If judges rule against the company, it will completely overhaul how artificial intelligence is built, monitored, and regulated worldwide.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "landmark lawsuits target openai over mass violence",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "Israel and Lebanon Take First Steps Toward Ceasefire",
+      "summary": "Israel released a Lebanese prisoner to the Lebanese army, marking the first such exchange since fighting broke out in March. International mediators are using this move as an opening to restart frozen peace negotiations. It is the first solid signal in months that both sides might prefer an off-ramp over an exhausting war.",
+      "why": "A truce here removes a huge spark in the Middle East and allows hundreds of thousands of displaced civilians to finally return home.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "israel and lebanon take first steps toward ceasefire",
+      "date": "2026-09-03"
     }
   ]
 }
