@@ -2699,6 +2699,56 @@
       "mode": "morning",
       "fp": "russia and germany clash over alleged airport sabotage",
       "date": "2026-09-03"
+    },
+    {
+      "headline": "UN Inspectors Find 73 Tons of Hidden Uranium in Syria",
+      "summary": "The UN nuclear watchdog confirmed that Syria's former Assad regime hid 73 tons of uranium and an unfinished reactor. The country's new interim government voluntarily opened the doors and let inspectors seal the material. It solves a decades-old mystery about what the old government was secretly building behind closed doors.",
+      "why": "Securing the site prevents dangerous materials from slipping into the black market while Syria rebuilds.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "un inspectors find 73 tons of hidden uranium in syria",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "U.S. Inks Massive Deal for Control Over Venezuelan Oil",
+      "summary": "Washington and Caracas just finalized an agreement that hands American-backed ventures heavy operating power over Venezuela's enormous crude reserves. U.S. officials say it will lower energy bills, but critics view it like a powerful neighbor taking the keys to your pantry. It fundamentally resets relations between both nations after years of standoff.",
+      "why": "It shifts the balance of global energy supply and pulls the world's largest oil reserves into Washington's orbit.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "u s inks massive deal for control over venezuelan oil",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "White House Moves to Tame Rising Conflict with Iran",
+      "summary": "U.S. officials are working behind the scenes to keep strikes on Iran from blowing up into an open regional war. They are relying on heavy financial crackdowns instead of broader air campaigns to keep energy prices steady. Still, repeated hits on commercial tankers show how fragile the peace remains.",
+      "why": "An all-out war would choke key sea routes and trigger an immediate price shock for consumers worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "white house moves to tame rising conflict with iran",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "Xi Jinping Visits Cairo to Expand China's Middle East Clout",
+      "summary": "Chinese President Xi Jinping wrapped up his first visit to Egypt in a decade, locking in major trade and infrastructure pacts. With regional friction rising, Beijing is stepping forward like an alternative investor offering big checks with fewer lectures. Cairo is using the partnership to balance its traditional reliance on the West.",
+      "why": "It secures China a stronger strategic anchor along the vital global trade corridor running through the Suez Canal.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "xi jinping visits cairo to expand china s middle east",
+      "date": "2026-09-03"
+    },
+    {
+      "headline": "Denmark Deploys Conscripts to Greenland to Guard the Arctic",
+      "summary": "Denmark has sent young military recruits to train in Greenland for the first time in modern history. Copenhagen is answering international pressure by showing it can defend its own frozen backyard alongside NATO allies. It works like putting a visible lock on the gate to remind everyone who owns the house.",
+      "why": "It shows that the scramble for Arctic shipping lanes and raw resources is quickly turning into an active military standoff.",
+      "domain": "Geopolitics",
+      "severity": "MEDIUM",
+      "mode": "afternoon",
+      "fp": "denmark deploys conscripts to greenland to guard the arctic",
+      "date": "2026-09-03"
     }
   ]
 }
