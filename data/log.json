@@ -2799,6 +2799,16 @@
       "mode": "evening",
       "fp": "israel and lebanon take first steps toward ceasefire",
       "date": "2026-09-03"
+    },
+    {
+      "headline": "Iran Launches Drone and Missile Strikes at Kuwait Targeting U.S. Bases",
+      "summary": "Kuwait activated its air defenses early Thursday to shoot down a wave of Iranian missiles and drones aiming at bases used by American forces, following intense U.S. airstrikes in southern Iran.",
+      "why": "This is a sharp escalation that drags neighboring Gulf nations directly into the line of fire, threatening key oil shipping lanes and raising the odds of a wider regional conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "iran launches drone and missile strikes at kuwait targeting u",
+      "date": "2026-09-03"
     }
   ]
 }
