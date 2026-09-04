@@ -2869,6 +2869,16 @@
       "mode": "evening",
       "fp": "diesel prices hit all time highs squeezing delivery costs",
       "date": "2026-09-04"
+    },
+    {
+      "headline": "Russian Drone Strikes Ukrainian Intelligence Headquarters in Central Kyiv",
+      "summary": "In broad daylight, a Russian attack drone flew straight into the central Kyiv headquarters of Ukraine's security service (the SBU), aiming directly at the agency chief's office and injuring at least 12 people.",
+      "why": "Government headquarters in downtown Kyiv have rarely been hit throughout the war. Direct decapitation-style strikes against high-level command buildings mark a sharp escalation that threatens to trigger reciprocal strikes deep inside Russia and torpedo upcoming peace talks.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "russian drone strikes ukrainian intelligence headquarters in central kyiv",
+      "date": "2026-09-04"
     }
   ]
 }
