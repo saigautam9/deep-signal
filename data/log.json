@@ -2819,6 +2819,56 @@
       "mode": "afternoon",
       "fp": "philippine court orders arrest of vice president duterte",
       "date": "2026-09-04"
+    },
+    {
+      "headline": "US and Iran trade strikes across the Middle East",
+      "summary": "The United States launched fresh strikes on Iranian sites and tightened sanctions after a week of back-and-forth attacks. Iran fired back with warnings at American allies like Jordan, treating them as potential targets. Washington plays it down as a limited fight, but neighbors are bracing for a much wider flare-up.",
+      "why": "A bigger clash could choke off oil routes in the Persian Gulf and send energy prices through the roof everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran trade strikes across the middle east",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Russia strikes Ukraine's security headquarters in major escalation",
+      "summary": "A Russian drone strike slammed into Ukraine's intelligence headquarters right in the heart of Kyiv. Ukraine called the hit a dangerous new phase that targets central command. At the same time, European leaders warn that sabotage operations are quietly spreading across the continent.",
+      "why": "Direct hits on top command centers make peace talks far less likely and raise the stakes for everyone involved.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "russia strikes ukraine s security headquarters in major escalation",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Black Sea attacks put the world's grain supply at risk",
+      "summary": "Fresh drone and missile hits on Black Sea cargo ships have panicked commercial shippers. Insurers are hiking rates or refusing to cover vessels moving through the corridor. That means grain and fertilizer are getting stuck in ports just as key harvest shipments begin.",
+      "why": "If grain cannot safely leave the Black Sea, staple food prices will spike for millions of everyday families.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "black sea attacks put the world s grain supply at",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Catastrophic floods in Nepal knock out clean power",
+      "summary": "Massive floods across Nepal wrecked mountain roads and swamped critical hydroelectric stations. Rescuers pulled trapped workers out alive after nine days in a mud-filled tunnel, but physical damage is severe. These damaged dams normally export clean electricity across borders into northern India.",
+      "why": "Wrecked dams leave millions without reliable power and wipe out years of clean energy progress for the region.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "catastrophic floods in nepal knock out clean power",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Diesel prices hit all-time highs, squeezing delivery costs",
+      "summary": "Diesel prices just climbed to a record high, driven by tight supplies and growing transport headaches. Almost every delivery truck, freight train, and cargo boat runs on this single fuel. Shipping companies are already passing these higher fuel bills straight down the line.",
+      "why": "Because diesel moves virtually every product, higher pump prices act like a hidden tax on groceries and household basics.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "diesel prices hit all time highs squeezing delivery costs",
+      "date": "2026-09-04"
     }
   ]
 }
