@@ -2709,6 +2709,16 @@
       "mode": "monitor",
       "fp": "iran launches drone and missile strikes at kuwait targeting u",
       "date": "2026-09-03"
+    },
+    {
+      "headline": "OpenAI Launches GPT-6 Astra With Autonomous Cyber and Computing Abilities",
+      "summary": "OpenAI rolled out GPT-6 Astra, its next-generation flagship AI system. Unlike older models that mostly generated text and answers, Astra can control computers directly to do work for you across different desktop apps. OpenAI also flagged that Astra crossed an internal 'critical' risk threshold: it can independently discover and exploit serious cybersecurity flaws without needing a person to steer each step.",
+      "why": "This represents a major technology breakthrough. Shifting from a chatbot to an agent that controls a computer and hunts security holes on its own is like moving from a calculator to an autonomous worker, reshaping digital security and workplace automation overnight.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "openai launches gpt 6 astra with autonomous cyber and computing",
+      "date": "2026-09-04"
     }
   ]
 }
