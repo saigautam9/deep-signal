@@ -2719,6 +2719,56 @@
       "mode": "monitor",
       "fp": "openai launches gpt 6 astra with autonomous cyber and computing",
       "date": "2026-09-04"
+    },
+    {
+      "headline": "US Investigates Fatal Iran Strike Amid Rising Gulf Military Tensions",
+      "summary": "The US military has opened a formal inquiry into a strike near Kuhestak during an operation targeting missile launchers in southern Iran. The strike comes after months of escalating military skirmishes that have repeatedly threatened shipping corridors in the Strait of Hormuz. With funerals underway in Iran, both capitals face intense political pressure to show strength without triggering an uncontrollable regional war.",
+      "why": "Disruptions and military missteps in the Strait of Hormuz directly threaten the world's energy supply and could drag international powers into direct conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us investigates fatal iran strike amid rising gulf military tensions",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Ukraine Targets Russian Airspace as Drone Campaign Escalates",
+      "summary": "Ukraine has broadened its long-range drone strikes to disrupt commercial flight corridors across Russia, warning global carriers to steer clear. Several foreign airlines have begun suspending routes, while drone alarms have rippled into Europe, prompting Germany and Russia to expel personnel and shutter consulates. The push marks a deliberate shift to choke transport logistics and bring the war's costs directly home to the Russian public.",
+      "why": "Grounded flight paths cut Russia off from key trade routes and heighten the risk of dangerous military encounters in European skies.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ukraine targets russian airspace as drone campaign escalates",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Devastating Himalayan Floods Strand Workers and Cause Billions in Damage",
+      "summary": "Violent flash floods and landslides tore through border areas between Nepal and Tibet, destroying roads, bridges, and energy projects. Emergency crews staged dramatic rescues, pulling workers alive from flooded tunnels more than a week after the disaster hit. Economic assessments now place the immediate losses at more than $2.5 billion, overwhelming local budgets and regional transit arteries.",
+      "why": "The disaster demonstrates how intensifying weather patterns can instantly wipe out billions of dollars in critical infrastructure across fragile developing nations.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "devastating himalayan floods strand workers and cause billions in damage",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Volkswagen Slashes 50,000 Jobs in Sweeping Industrial Retooling",
+      "summary": "Volkswagen finalized a deal with union representatives to cut roughly 50,000 positions under a drastic corporate restructuring plan. The German automaker is grappling with high production overheads, sagging consumer spending, and fierce foreign competition in electric vehicles. The decision marks one of the deepest workforce contractions in modern European manufacturing history.",
+      "why": "As Europe's industrial engine cuts back, the fallout threatens thousands of suppliers and signals enduring trouble for the continent's manufacturing core.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "volkswagen slashes 50 000 jobs in sweeping industrial retooling",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Argentina Steps Up Falklands Dispute With Oil Sanction Threats",
+      "summary": "Argentine President Javier Milei has threatened strict penalties against international energy firms drilling around the Falkland Islands. The move escalates a long-dormant sovereignty confrontation with the United Kingdom over territorial control and offshore natural resources. Buenos Aires is using shifting diplomatic signals from Washington to reassert its claims and challenge British administrative rights.",
+      "why": "Renewed friction threatens offshore energy exploration contracts and strains diplomatic ties between major Western partners in the South Atlantic.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "argentina steps up falklands dispute with oil sanction threats",
+      "date": "2026-09-04"
     }
   ]
 }
