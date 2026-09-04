@@ -2769,6 +2769,56 @@
       "mode": "morning",
       "fp": "argentina steps up falklands dispute with oil sanction threats",
       "date": "2026-09-04"
+    },
+    {
+      "headline": "U.S.-Iran Strait of Hormuz Clashes Drive Energy Shock",
+      "summary": "American forces struck Iranian patrol vessels and minelaying positions after attacks in the busy shipping strait. Iran fired back with missiles and drones toward allied bases in Kuwait and Jordan, sending diesel prices to record highs. Both sides insist they are ready to keep fighting, leaving commercial tankers navigating a live shooting gallery.",
+      "why": "A chokehold on this narrow waterway threatens the world's daily fuel tank and could instantly restart runaway global inflation.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "u s iran strait of hormuz clashes drive energy shock",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Volkswagen Approves 100,000 Job Cuts in Historic Shake-up",
+      "summary": "Volkswagen's leadership and unions agreed to cut 100,000 jobs worldwide and drop future vehicle guarantees for four German factories. The carmaker plans to slash its model lineup by half to urgently lower costs and survive. Aggressive competition from cheaper Chinese electric cars has pushed Europe's biggest industrial giant against the wall.",
+      "why": "It is the largest downsizing in modern automotive history, showing how traditional manufacturing hubs are struggling to survive the shift to electric cars.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "volkswagen approves 100 000 job cuts in historic shake up",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Russian Drone Hits Ukraine's Intelligence Headquarters in Kyiv",
+      "summary": "A Russian jet-powered drone smashed into the central building of Ukraine's security service in downtown Kyiv, injuring at least twelve people. Ukrainian officials confirmed the strike aimed directly at their acting spy chief, who was unharmed and ordered immediate retaliation. The bold hit on the nation's intelligence hub landed just as international envoys prepared to travel to Moscow and Kyiv for peace negotiations.",
+      "why": "Striking the nerve center of a country's defense in broad daylight threatens to derail delicate diplomatic talks and trigger a fresh wave of retaliatory strikes.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russian drone hits ukraine s intelligence headquarters in kyiv",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Hackers Leak Over 150 Million Driver's Licenses Online",
+      "summary": "Federal investigators launched a probe after criminal forums began selling scanned driver's licenses belonging to more than 150 million Americans and Canadians. The breach reportedly hit an identity verification company that processes personal documents for banks and apps. Criminals are already using these leaked records to bypass security checks and open fake accounts.",
+      "why": "It exposes nearly half the adult population to identity theft, handing fraudsters the keys to people's financial lives with no simple way to change the lock.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "hackers leak over 150 million driver s licenses online",
+      "date": "2026-09-04"
+    },
+    {
+      "headline": "Philippine Court Orders Arrest of Vice President Duterte",
+      "summary": "A Manila court issued an arrest warrant for Vice President Sara Duterte over public comments where she claimed she hired an assassin to target President Ferdinand Marcos Jr.. The criminal charge comes while she faces an ongoing Senate impeachment trial over the threats and budget misuse. While she is expected to post bail, the feud between the country's two ruling political dynasties is now a full-blown constitutional standoff.",
+      "why": "When the two top leaders of a pivotal Asian democracy openly feud over assassination plots, it paralyzes the government and threatens political stability.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "philippine court orders arrest of vice president duterte",
+      "date": "2026-09-04"
     }
   ]
 }
