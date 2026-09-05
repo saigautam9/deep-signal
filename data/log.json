@@ -2779,6 +2779,16 @@
       "mode": "afternoon",
       "fp": "masked anti immigrant protesters block britain s port of dover",
       "date": "2026-09-05"
+    },
+    {
+      "headline": "US strikes three Iranian oil tankers after missile fire on warships",
+      "summary": "The US military hit three Iranian oil tankers across the Persian Gulf and the Gulf of Oman, disabling two and destroying a third. Washington said the action was payback after Iranian forces launched ballistic missiles at an American aircraft carrier and destroyer, warning it is ready to wipe out Iran's entire oil fleet if pushed.",
+      "why": "Striking commercial tankers right off Iran's main oil hub is a dangerous military escalation. It puts the world's most vital oil transit corridor, the Strait of Hormuz, directly in the line of fire and sharply raises the risk of direct, wider conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us strikes three iranian oil tankers after missile fire on",
+      "date": "2026-09-05"
     }
   ]
 }
