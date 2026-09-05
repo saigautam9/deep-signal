@@ -2789,6 +2789,16 @@
       "mode": "monitor",
       "fp": "us strikes three iranian oil tankers after missile fire on",
       "date": "2026-09-05"
+    },
+    {
+      "headline": "US Strikes Iranian Oil Tankers After Warships Targeted in Persian Gulf",
+      "summary": "Iran fired ballistic missiles at a US aircraft carrier and a guided-missile destroyer patrolling regional waters. The warships dodged the missiles and no troops were hurt. In response, US forces struck three Iranian crude oil tankers near Kharg Island and the Gulf of Oman, destroying one and crippling two others.",
+      "why": "This is a sharp, direct military escalation between two heavily armed powers in the world's main oil artery. Moving from shadow attacks to shooting missiles at US aircraft carriers and blowing up oil tankers pushes both sides closer to an open, wider war that could choke global energy supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us strikes iranian oil tankers after warships targeted in persian",
+      "date": "2026-09-05"
     }
   ]
 }
