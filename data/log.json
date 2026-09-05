@@ -2799,6 +2799,56 @@
       "mode": "monitor",
       "fp": "us strikes iranian oil tankers after warships targeted in persian",
       "date": "2026-09-05"
+    },
+    {
+      "headline": "US strikes Iranian oil tankers in Persian Gulf flare-up",
+      "summary": "The US military bombed three Iranian oil tankers near the Strait of Hormuz after trading fire with regional forces. Washington claims the vessels bankroll armed proxy groups, while Tehran has warned it could choke off commercial shipping in return. Both sides are stepping closer to an all-out naval confrontation.",
+      "why": "When missiles fly around the world's main oil highway, fuel and shipping prices rise for everyone like an automatic tax on daily life.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us strikes iranian oil tankers in persian gulf flare up",
+      "date": "2026-09-05"
+    },
+    {
+      "headline": "Global bond sell-off pushes borrowing costs to 20-year highs",
+      "summary": "Investors are dumping government debt around the world, sending long-term borrowing yields to their highest marks in two decades. Markets are spooked by jumping oil prices, swelling government deficits, and heavy tech-sector borrowing to build artificial intelligence data centers. Central bankers are signaling that interest rate cuts are now effectively paused.",
+      "why": "When government borrowing gets this expensive, it immediately trickles down into higher interest rates on home mortgages, car loans, and business payrolls.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global bond sell off pushes borrowing costs to 20 year",
+      "date": "2026-09-05"
+    },
+    {
+      "headline": "Catastrophic Himalayan flood leaves over 5,000 missing in Nepal",
+      "summary": "A massive glacial collapse triggered violent flash floods and mudslides that swept through northern Nepal, leaving over 1,300 confirmed dead. Rescuers are still pulling trapped workers from subterranean hydropower tunnels ten days after the disaster. The torrent crushed towns, shattered highway border links with China, and knocked out key electric plants.",
+      "why": "It exposes how fast melting high-altitude ice can trigger sudden disasters that wipe out clean power supplies and high-mountain communities without warning.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "catastrophic himalayan flood leaves over 5 000 missing in nepal",
+      "date": "2026-09-05"
+    },
+    {
+      "headline": "US envoys meet Putin in Moscow for Ukraine peace talks",
+      "summary": "American envoys arrived in the Russian capital to discuss a proposed framework to end the war with Ukraine. Both Moscow and Kyiv agreed to a three-day pause on striking each other's capitals while the talks take place. The negotiations represent the first major direct diplomatic push between the sides in months.",
+      "why": "It is the most significant opening yet to halt Europe's largest land war and settle borders that have reshaped global security.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us envoys meet putin in moscow for ukraine peace talks",
+      "date": "2026-09-05"
+    },
+    {
+      "headline": "US flies deported migrants to Guyana under third-party deal",
+      "summary": "Planes carrying deported Afghan and Cuban migrants touched down in Guyana under an agreement with Washington. Guyana has become the latest of more than thirty nations accepting foreign deportees in exchange for closer financial and security partnerships. Human rights groups warn the practice leaves asylum seekers in limbo, while supporters say it deters illegal border crossings.",
+      "why": "It fundamentally changes global asylum rules by turning migration control into an outsourced swap market between wealthy and developing nations.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "us flies deported migrants to guyana under third party deal",
+      "date": "2026-09-05"
     }
   ]
 }
