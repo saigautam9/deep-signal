@@ -2729,6 +2729,56 @@
       "mode": "monitor",
       "fp": "russian drone strikes ukrainian intelligence headquarters in central kyiv",
       "date": "2026-09-04"
+    },
+    {
+      "headline": "US strikes Iranian oil tankers after missile attack in the Gulf",
+      "summary": "The US military hit three Iranian oil tankers near Kharg Island after Iran launched ballistic missiles at two American warships in regional waters. Washington warned it will impose heavier economic pain if its ships are targeted, while Gulf neighbors scramble over shipping safety in the Strait of Hormuz. It is like two neighbors throwing rocks at each other's cars, raising the risk of an all-out street fight.",
+      "why": "Disruptions in this narrow energy chokepoint can instantly drive up global fuel prices and pull major powers into a direct military conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us strikes iranian oil tankers after missile attack in the",
+      "date": "2026-09-05"
+    },
+    {
+      "headline": "US envoys land in Moscow as Russia halts Kyiv strikes",
+      "summary": "American envoys arrived in Moscow to restart stalled peace talks aimed at ending the war in Ukraine. In return, Vladimir Putin ordered a 72-hour pause on airstrikes against Kyiv to give the diplomacy room to breathe. Think of it like taking a foot off the gas pedal just long enough to see if a deal can be hammered out.",
+      "why": "Any breakthrough or breakdown in these negotiations will decide whether Europe moves toward a durable settlement or faces years more of grinding war and economic strain.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us envoys land in moscow as russia halts kyiv strikes",
+      "date": "2026-09-05"
+    },
+    {
+      "headline": "US envoy pushes Israel over West Bank settler attacks",
+      "summary": "US officials visited Palestinian communities in the occupied West Bank to inspect damage and demand stronger Israeli protection against settler attacks. The diplomatic push comes as humanitarian agencies warn that basic water and electrical systems in Gaza are collapsing. It is like a fire inspector finally stepping into a building where smoke has been billowing out the windows for weeks.",
+      "why": "Spiraling unrest in the West Bank threatens to derail fragile ceasefires and trigger another widespread explosion of regional violence.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us envoy pushes israel over west bank settler attacks",
+      "date": "2026-09-05"
+    },
+    {
+      "headline": "Backlash grows over US-Venezuela oil agreement",
+      "summary": "A major new energy deal between Washington and Caracas has drawn intense pushback from political factions across Venezuela. The agreement paves the way for US firms to develop Venezuelan crude in exchange for sanctions relief, but critics argue it surrenders national resources too cheaply. It is like pawning the family heirloom in a hurry just to pay off the weekly grocery bill.",
+      "why": "The pact could dramatically reshape global oil flows and set a new standard for how major powers trade sanctions relief for energy access.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "backlash grows over us venezuela oil agreement",
+      "date": "2026-09-05"
+    },
+    {
+      "headline": "Masked anti-immigrant protesters block Britain's Port of Dover",
+      "summary": "Hundreds of demonstrators blocked the main access roads to Dover, freezing freight trucks and train routes into the UK's busiest international crossing. The group demanded an immediate end to migrant boats crossing the English Channel, drawing swift condemnation from the British government. It was like putting a padlock on a country\u2019s front door during the morning commute to make a political statement.",
+      "why": "The blockade disrupts vital European supply chains and shows how anti-immigration anger is shifting from politics into direct economic sabotage.",
+      "domain": "Society",
+      "severity": "MEDIUM",
+      "mode": "afternoon",
+      "fp": "masked anti immigrant protesters block britain s port of dover",
+      "date": "2026-09-05"
     }
   ]
 }
