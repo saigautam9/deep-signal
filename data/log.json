@@ -2859,6 +2859,16 @@
       "mode": "monitor",
       "fp": "us and iran exchange strikes as american forces target iranian",
       "date": "2026-09-05"
+    },
+    {
+      "headline": "U.S. Airstrikes Disable Iranian Oil Tankers After Missiles Target American Warships",
+      "summary": "The U.S. military struck and disabled three Iranian oil tankers, including one near Iran's critical oil export hub at Kharg Island. CENTCOM launched the strikes after Iranian forces fired ballistic missiles directly at an American aircraft carrier and a guided-missile destroyer in the region. Iran condemned the strikes as economic warfare and threatened immediate retaliation against American naval vessels and commercial shipping in the Strait of Hormuz.",
+      "why": "This is a dangerous, direct military escalation between two state militaries. Moving beyond proxy skirmishes, forces are now directly targeting vital warships and commercial energy fleets, raising the immediate danger of an all-out naval conflict and a blockade of the world's most sensitive oil shipping chokepoint.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s airstrikes disable iranian oil tankers after missiles target",
+      "date": "2026-09-05"
     }
   ]
 }
