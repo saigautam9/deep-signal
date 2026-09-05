@@ -2849,6 +2849,16 @@
       "mode": "evening",
       "fp": "us flies deported migrants to guyana under third party deal",
       "date": "2026-09-05"
+    },
+    {
+      "headline": "US and Iran Exchange Strikes as American Forces Target Iranian Oil Fleet",
+      "summary": "The US military disabled two Iranian crude oil tankers and destroyed a third near Kharg Island and the Gulf of Oman. This came right after Iranian forces fired ballistic missiles at an American aircraft carrier and a guided-missile destroyer. Iran immediately threatened wider counterstrikes against American naval ships.",
+      "why": "This is a direct, violent clash between two major militaries in the world's most sensitive energy bottleneck. Striking naval warships and commercial oil carriers removes the guardrails, risking a wider open war that could choke off global energy supplies overnight.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran exchange strikes as american forces target iranian",
+      "date": "2026-09-05"
     }
   ]
 }
