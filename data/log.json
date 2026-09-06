@@ -2899,6 +2899,56 @@
       "mode": "monitor",
       "fp": "us military strikes three iranian oil tankers after warships targeted",
       "date": "2026-09-06"
+    },
+    {
+      "headline": "Strait of Hormuz clashes threaten global oil and spark market anxiety",
+      "summary": "Fresh military strikes between the U.S. and Iran in the Persian Gulf have targeted tankers and coastal positions near the Strait of Hormuz. Crude oil prices jumped immediately, which triggered a sharp selloff in bond markets as traders worry about a fresh wave of inflation. Central banks may now feel forced to keep borrowing costs higher for longer.",
+      "why": "A choke in this narrow waterway hits the global economy like a kink in a garden hose, pushing up gas and grocery bills everywhere.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "strait of hormuz clashes threaten global oil and spark market",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "U.S. envoys launch high-stakes peace talks between Russia and Ukraine",
+      "summary": "American negotiators traveled from talks with Vladimir Putin in Moscow to Kyiv to pitch an outline for halting the conflict. As a show of goodwill for the diplomatic push, both sides agreed to a temporary halt on drone and missile attacks against each other's capital cities. Heavy combat, however, is still grinding on across the eastern and southern front lines.",
+      "why": "This is the most direct diplomatic push yet to pause a grinding war that shapes global food security, defense budgets, and international stability.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "u s envoys launch high stakes peace talks between russia",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "Devastating flash floods leave thousands missing across Nepal and China",
+      "summary": "Severe downpours caused catastrophic mudslides and river bursts across Himalayan valleys spanning Nepal and southern China. Entire mountain villages have been cut off, with washed-out roads and severed power lines slowing emergency rescue efforts. Thousands of people remain unaccounted for as emergency shelters fill to capacity.",
+      "why": "These disasters showcase how rapidly shifting climate patterns are overwhelming basic infrastructure and wiping out livelihoods in vulnerable communities.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "devastating flash floods leave thousands missing across nepal and china",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "Far-right AfD surges in pivotal German state election",
+      "summary": "Germany's right-wing Alternative for Germany scored major gains in regional voting, breaking past traditional political firewalls. Mainstream parties in Berlin are now scrambling to hold coalitions together as voters voice anger over the economy, immigration, and foreign policy. The outcome leaves the national government weakened and internally divided.",
+      "why": "When Europe's economic anchor becomes politically gridlocked, it stalls crucial decisions on regional trade, green energy transitions, and military support.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "far right afd surges in pivotal german state election",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "Volcano eruption shuts Jakarta airport and strands Southeast Asian travel",
+      "summary": "Indonesia's Anak Krakatau volcano erupted violently, blowing a dense ash cloud over western Java and the Sunda Strait. Aviation authorities shut down Jakarta's international hub and several nearby regional airports to prevent jet engines from choking on abrasive ash. The shutdown has left tens of thousands of passengers stranded and held up air cargo shipments across the region.",
+      "why": "In an island nation where airplanes act like intercity buses, grounded flights instantly sever supply chains and leave millions cut off.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "volcano eruption shuts jakarta airport and strands southeast asian travel",
+      "date": "2026-09-06"
     }
   ]
 }
