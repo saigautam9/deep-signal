@@ -2949,6 +2949,16 @@
       "mode": "afternoon",
       "fp": "volcano eruption shuts jakarta airport and strands southeast asian travel",
       "date": "2026-09-06"
+    },
+    {
+      "headline": "US destroys three Iranian tankers after ballistic missile attack on Navy warships",
+      "summary": "Iran fired ballistic missiles targeting a US aircraft carrier and a guided-missile destroyer in Gulf waters. The US military struck back, disabling and destroying three Iranian crude tankers near Kharg Island and the Gulf of Oman. Washington says its ships dodged the salvos and targeted Iran's oil fleet to choke off funding for its forces. Tehran claims it scored direct hits on the American warships and warned that harsher attacks are coming.",
+      "why": "Shooting ballistic missiles at a US aircraft carrier crosses a massive red line. It moves both nations from a simmering shadow contest into an open naval brawl right at the mouth of the Strait of Hormuz. It is like tossing lit matches into a room full of gasoline: an escalation this sharp risks all-out war and could choke off the world's primary oil corridor overnight.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us destroys three iranian tankers after ballistic missile attack on",
+      "date": "2026-09-06"
     }
   ]
 }
