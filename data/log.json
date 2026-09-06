@@ -2889,6 +2889,16 @@
       "mode": "morning",
       "fp": "far right party aims for historic win in german state",
       "date": "2026-09-06"
+    },
+    {
+      "headline": "US Military Strikes Three Iranian Oil Tankers After Warships Targeted",
+      "summary": "The US military attacked three Iranian oil tankers near the Strait of Hormuz, sinking one and disabling two others. US Central Command stated the strikes were retaliation after Iran fired ballistic missiles at American naval ships patrolling the region. Iran has threatened an even sharper response.",
+      "why": "This marks a sharp military escalation between the United States and Iran in the world's main oil chokepoint. Directly destroying crude tankers puts global energy supplies at risk and threatens to pull both nations into full-scale conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us military strikes three iranian oil tankers after warships targeted",
+      "date": "2026-09-06"
     }
   ]
 }
