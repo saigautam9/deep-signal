@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Ukraine Targets Russian Fuel Infrastructure as Air Attacks Strike Cities",
-      "summary": "Ukrainian forces launched overnight strikes against major oil facilities deep inside Russian territory. Russian missile attacks struck several Ukrainian cities including Sumy and Kyiv, damaging residential buildings and local infrastructure. Both armies are focused on cutting off energy supplies to weaken each other's war effort.",
-      "why": "Targeting fuel and power infrastructure threatens energy supplies and keeps heating and fuel costs high across Europe.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "ukraine targets russian fuel infrastructure as air attacks strike cities",
-      "date": "2026-08-06"
-    },
-    {
-      "headline": "Iran and Oman Close In on Deal to Control Strait of Hormuz Shipping",
-      "summary": "Iran and Oman are finalizing a new agreement to reroute cargo ships through Iranian territorial waters. The plan aims to manage commercial traffic after months of severe disruptions in the narrow waterway. Tehran maintains that fully opening the strait depends on the U.S. ending its naval blockade.",
-      "why": "Because a fifth of the world's oil flows through this narrow path, control over the strait directly affects gas prices and global trade.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "iran and oman close in on deal to control strait",
-      "date": "2026-08-06"
-    },
-    {
-      "headline": "U.S. and China Trade Tensions Spike Over Tech and Tariff Disputes",
-      "summary": "China tightened export restrictions on drones and slapped sanctions on American firms after the U.S. blacklisted dozens of Chinese tech companies. Meanwhile, U.S. courts are overseeing the return of about $100 billion in disputed emergency tariffs to importers. The friction comes just weeks before a planned meeting between the two nations' leaders.",
-      "why": "Fighting between the world's two biggest economies makes electronics and everyday goods more expensive for consumers everywhere.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "u s and china trade tensions spike over tech and",
-      "date": "2026-08-06"
-    },
-    {
-      "headline": "Skirmishes in Southern Lebanon Threaten Fragile Middle East Truces",
-      "summary": "Two Israeli soldiers were killed by explosives in southern Lebanon, marking new military deaths following a recent truce. Clashes continue to erupt along borders, straining fragile ceasefires across the region. Peacekeepers and regional neighbors worry these incidents could reignite broader fighting.",
-      "why": "Fragile ceasefires falling apart could spark a wider war, causing massive civilian displacement and deeper regional instability.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "skirmishes in southern lebanon threaten fragile middle east truces",
-      "date": "2026-08-06"
-    },
-    {
-      "headline": "Myanmar Military Leader Visits Thailand Seeking International Recognition",
-      "summary": "Myanmar junta chief Min Aung Hlaing met with Thailand's prime minister in Bangkok during a rare official diplomatic trip. Protesters gathered outside government offices to voice anger against the general who led the 2021 military coup. The visit represents a push by Myanmar's ruling military to break out of political isolation.",
-      "why": "Recognizing Myanmar's military government alters regional power dynamics and affects millions of refugees fleeing civil war.",
-      "domain": "Geopolitics",
-      "severity": "MEDIUM",
-      "mode": "morning",
-      "fp": "myanmar military leader visits thailand seeking international recognition",
-      "date": "2026-08-06"
-    },
-    {
       "headline": "US and China trade fresh economic punches with new tariffs",
       "summary": "The United States has put broad new import taxes into effect, triggering a fast response from China with its own retaliatory tariffs. Businesses and stock markets are feeling the pressure as both nations raise the cost of importing goods. Experts warn this back-and-forth could disrupt global electronics and manufacturing supply chains.",
       "why": "When major nations raise taxes on trade, everyday products and food get more expensive for families everywhere.",
@@ -2869,6 +2819,16 @@
       "mode": "monitor",
       "fp": "u s airstrikes disable iranian oil tankers after missiles target",
       "date": "2026-09-05"
+    },
+    {
+      "headline": "US Military Hits Three Iranian Oil Tankers After Missile Attack on Warships",
+      "summary": "The US military disabled two Iranian oil tankers and destroyed a third near key Gulf shipping lanes. US Central Command launched the strikes after Iranian forces fired ballistic missiles at an American aircraft carrier and a guided-missile destroyer. Washington announced a new tit-for-tat policy and warned it is prepared to destroy Iran's entire oil fleet if attacks continue.",
+      "why": "This marks a sharp military escalation directly targeting energy infrastructure in the world's most critical oil bottleneck. Moving from shadow skirmishes to openly taking out commercial tankers threatens to choke the Strait of Hormuz, shake global markets, and ignite direct naval warfare.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us military hits three iranian oil tankers after missile attack",
+      "date": "2026-09-06"
     }
   ]
 }
