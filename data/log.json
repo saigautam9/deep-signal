@@ -2959,6 +2959,56 @@
       "mode": "monitor",
       "fp": "us destroys three iranian tankers after ballistic missile attack on",
       "date": "2026-09-06"
+    },
+    {
+      "headline": "Iran threatens to choke shipping through the Strait of Hormuz",
+      "summary": "Tehran announced plans to create a maritime exclusion zone around the Strait of Hormuz to stop and penalize ships passing through. The move follows direct military clashes, with the U.S. striking three Iranian oil tankers after Tehran fired ballistic missiles at American warships. Both sides are digging in as a weeks-long naval blockade turns the waterway into a high-stakes standoff.",
+      "why": "About a fifth of the world's oil passes through this narrow passage, so treating it like a shooting gallery could spike global energy bills overnight.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "iran threatens to choke shipping through the strait of hormuz",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "U.S. peace envoys head to Kyiv immediately after talks in Moscow",
+      "summary": "White House envoys Jared Kushner and Steve Witkoff held urgent meetings with Ukrainian President Volodymyr Zelenskyy in Kyiv just hours after sitting down with Vladimir Putin in Russia. Washington is trying to hammer out a framework to end the four-and-a-half-year war before freezing winter weather sets in. While U.S. officials called the talks encouraging, Ukraine warned that heavy Russian strikes are ongoing and deep disagreements remain.",
+      "why": "This is the most aggressive diplomatic push yet to end Europe's deadliest conflict in eighty years, but any forced deal will rewrite borders and determine European security for decades.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "u s peace envoys head to kyiv immediately after talks",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "U.S. and Canada barrel toward tariff showdown as talks collapse",
+      "summary": "Relations between North America's closest neighbors have hit a low point after bilateral trade negotiations collapsed. The U.S. slapped 50 percent tariffs on billions in Canadian goods, and Ottawa is rolling out matching, dollar-for-dollar counter-tariffs on September 8 covering steel, agriculture, and electronics. Personal insults and symbolic disputes over border waters have further stalled any quick compromise.",
+      "why": "Slapping massive taxes on cross-border parts and food disrupts tightly linked factories and hits everyday shoppers with higher price tags on both sides.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "u s and canada barrel toward tariff showdown as talks",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "Volcano eruption in Indonesia strands over 170,000 air travelers",
+      "summary": "The island volcano Anak Krakatau erupted in the Sunda Strait, blasting dense ash clouds across western Indonesia. Aviation authorities shut down eight airports, including the primary international hub in Jakarta, canceling more than 1,500 flights. No casualties were reported, but emergency teams are keeping a close watch on surrounding sea lanes.",
+      "why": "Because volcanic glass grinds jet engines to a halt like fine sand in a blender, a single blast can freeze travel and commerce across an entire regional economy.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "volcano eruption in indonesia strands over 170 000 air travelers",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "Far-right AfD surges to record victory in German state election",
+      "summary": "The anti-immigration Alternative for Germany party took roughly 44 percent of the vote in the eastern state of Saxony-Anhalt, handing Chancellor Friedrich Merz's ruling conservatives a historic loss. The AfD came within a whisker of winning enough seats to govern by itself. Mainstream parties now face a political crisis as they struggle to keep their firewall against working with the far right.",
+      "why": "When Europe's biggest economy and political anchor fractures from within, the entire continent becomes harder to govern and much less predictable.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "far right afd surges to record victory in german state",
+      "date": "2026-09-06"
     }
   ]
 }
