@@ -2839,6 +2839,56 @@
       "mode": "monitor",
       "fp": "us strikes three iranian oil tankers after missile attack on",
       "date": "2026-09-06"
+    },
+    {
+      "headline": "US strikes Iranian tankers as the Persian Gulf standoff heats up",
+      "summary": "The US military disabled and sank three Iranian oil tankers after Iran fired missiles toward American warships. Iran is now threatening swift retaliation, turning the Strait of Hormuz into an active battleground. Commercial shipping through the waterway has slowed to a trickle as both sides trade blows.",
+      "why": "This narrow strait is like the world's main fuel pipe, and choking it off could trigger higher gas prices and inflation across the globe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us strikes iranian tankers as the persian gulf standoff heats",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "Deadly glacial collapse in Nepal leaves thousands missing",
+      "summary": "A glacier collapsed near the Nepal-China border, sending a huge wall of water, ice, and mud ripping through mountain river valleys. Over 1,250 people are confirmed dead, thousands remain missing, and key border highways and power plants were washed away. The United Nations launched an urgent appeal to get clean water, food, and warm shelter to cut-off villages.",
+      "why": "It is a tragic warning of how rapidly warming glaciers can suddenly wipe out entire communities and vital trade links.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "deadly glacial collapse in nepal leaves thousands missing",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "US envoys push a new peace plan in Moscow and Kyiv",
+      "summary": "American envoys Steve Witkoff and Jared Kushner met with Vladimir Putin in Moscow and traveled to Ukraine with a proposal to end the war. Both nations agreed to pause airstrikes on each other's capital cities for 72 hours while talks take place. It marks the most direct diplomatic effort to pause Europe's largest conflict in months.",
+      "why": "Ending the war in Ukraine would halt enormous human suffering and reshape European security and energy markets for decades to come.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us envoys push a new peace plan in moscow and",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "Arab and Muslim nations condemn Israeli talk of Gaza expulsion",
+      "summary": "Eight Arab and Islamic governments strongly denounced recent proposals by Israeli ministers to push hundreds of thousands of Palestinians out of Gaza. The diplomatic outcry came as families in Gaza held mass funerals for 100 victims recently pulled from collapsed buildings. Regional leaders warned that forced displacement violates international law and would derail any chance for lasting peace.",
+      "why": "Displacing populations from Gaza risks igniting broader regional conflict and destroying fragile diplomatic ties between Israel and Arab states.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "arab and muslim nations condemn israeli talk of gaza expulsion",
+      "date": "2026-09-06"
+    },
+    {
+      "headline": "Far-right party aims for historic win in German state election",
+      "summary": "Voters in the eastern state of Saxony-Anhalt headed to the polls, where the far-right Alternative for Germany party leads with over 40 percent support. If the party takes power, it would be the first far-right government to lead a German state since World War II. Mainstream parties are struggling to maintain their firewall pledge to never govern alongside extremists.",
+      "why": "A far-right breakthrough in Europe's biggest economy would shake Germany's postwar stability and embolden nationalist movements across the continent.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "far right party aims for historic win in german state",
+      "date": "2026-09-06"
     }
   ]
 }
