@@ -3029,6 +3029,56 @@
       "mode": "afternoon",
       "fp": "china prepares multi billion stimulus to fix stalled growth",
       "date": "2026-09-07"
+    },
+    {
+      "headline": "Nepal Mourns Over 1,300 Killed in Catastrophic Glacial Floods",
+      "summary": "Nepal observed a national day of mourning after a massive glacier collapse upstream in Tibet sent a wall of mud and water tearing down the Trishuli valley. The sudden deluge wiped out entire villages, wrecked critical hydropower dams, and left around 5,000 people missing. Rescuers are still combing through deep silt, but hopes of finding more people alive have nearly evaporated.",
+      "why": "Beyond the immense human tragedy, it shows how rapidly changing Himalayan ice is turning into an unpredictable, deadly hazard for millions living downstream.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "nepal mourns over 1 300 killed in catastrophic glacial floods",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "Deadly Lebanon Strikes Threaten Fragile Truce Hopes",
+      "summary": "Israeli airstrikes slammed southern Lebanon, killing at least 12 people and flattening homes. Lebanese leaders warn the fresh bombardment is wrecking a delicate, US-backed framework meant to halt border fighting. Both sides continue trading blows, treating the truce talks like a game of high-stakes chicken.",
+      "why": "A breakdown in diplomacy here threatens to drag neighboring powers into a larger conflict that could shut down vital shipping corridors and spike energy markets.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "deadly lebanon strikes threaten fragile truce hopes",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "Far-Right AfD Scores Historic Win in German State Election",
+      "summary": "The hard-right Alternative for Germany party surged to nearly 44% of the vote in Saxony-Anhalt, handing Chancellor Friedrich Merz a stinging defeat. While mainstream parties still refuse to govern with them, the result cracks open Germany's post-war political consensus. It acts like an earthquake under Berlin, showing that traditional leaders can no longer brush off voter anger over economic pain and immigration.",
+      "why": "It destabilizes the political core of Europe's largest economy and signals that outsider parties are becoming the new center of gravity.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "far right afd scores historic win in german state election",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "Beijing Injects $54 Billion to Shore Up Its Financial System",
+      "summary": "China's government announced a massive cash injection into its largest state banks and insurance firms. Persistently slow growth and heavy bad-debt burdens have left lenders feeling like an engine running dangerously low on oil. Beijing is stepping in directly so these institutions have enough cushion to keep credit flowing into the real economy.",
+      "why": "When the world's second-biggest economy has to prop up its banking pillars, global trade, commodity prices, and financial stability all hang in the balance.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "beijing injects 54 billion to shore up its financial system",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "Syria Begins Scrapping Remnants of Assad's Chemical Arsenal",
+      "summary": "United Nations officials confirmed that Syria has started destroying clandestine chemical weapons left behind by the former Assad regime. International teams are overseeing the dismantling to prevent hazardous nerve agents and toxins from spreading into volatile battlegrounds. It amounts to finally defusing a forgotten, lethal bomb sitting in a crowded basement.",
+      "why": "Neutralizing these secret stockpiles removes one of the most terrifying proliferation dangers from the Middle East for good.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "syria begins scrapping remnants of assad s chemical arsenal",
+      "date": "2026-09-07"
     }
   ]
 }
