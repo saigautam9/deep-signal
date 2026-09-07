@@ -3079,6 +3079,16 @@
       "mode": "evening",
       "fp": "syria begins scrapping remnants of assad s chemical arsenal",
       "date": "2026-09-07"
+    },
+    {
+      "headline": "Iran moves to enforce a naval exclusion zone around the Strait of Hormuz",
+      "summary": "Tehran announced plans to establish a maritime exclusion zone outside the Strait of Hormuz, warning it will intercept any ships trying to pass through without its permission. The move follows recent U.S. strikes that destroyed three Iranian oil tankers. It acts essentially like an armed checkpoint slapped onto the world's busiest oil highway, where commercial traffic has already collapsed to a trickle.",
+      "why": "This is a severe military escalation over the world's most vital energy chokepoint. A forced naval blockade threatens to trigger direct combat between Iranian forces and international navies while rattling global energy markets and driving up fuel prices worldwide.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "iran moves to enforce a naval exclusion zone around the",
+      "date": "2026-09-07"
     }
   ]
 }
