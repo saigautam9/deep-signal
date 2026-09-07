@@ -2919,6 +2919,16 @@
       "mode": "monitor",
       "fp": "iran plans exclusion zone around strait of hormuz following strikes",
       "date": "2026-09-07"
+    },
+    {
+      "headline": "U.S. and Iran Trade Tanker Strikes as Tehran Moves to Restrict Strait of Hormuz",
+      "summary": "After Iranian forces launched ballistic missiles at U.S. warships, American forces struck three Iranian oil tankers in the Persian Gulf and Gulf of Oman. Iran's top security council quickly hit back, announcing plans for a sweeping maritime exclusion zone around the Strait of Hormuz to track and intercept unauthorized vessels.",
+      "why": "This marks a sharp military escalation directly inside the world's most vital oil bottleneck. Turning shipping lanes into an active target zone threatens global energy trade, pushing crude prices toward $97 a barrel and risking an uncontrollable spiral into wider war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade tanker strikes as tehran moves",
+      "date": "2026-09-07"
     }
   ]
 }
