@@ -1,106 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and China trade fresh economic punches with new tariffs",
-      "summary": "The United States has put broad new import taxes into effect, triggering a fast response from China with its own retaliatory tariffs. Businesses and stock markets are feeling the pressure as both nations raise the cost of importing goods. Experts warn this back-and-forth could disrupt global electronics and manufacturing supply chains.",
-      "why": "When major nations raise taxes on trade, everyday products and food get more expensive for families everywhere.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us and china trade fresh economic punches with new tariffs",
-      "date": "2026-08-07"
-    },
-    {
-      "headline": "Extreme weather and wildfires force thousands to flee homes",
-      "summary": "Massive wildfires in the northwestern US have forced over 60,000 people to evacuate as extreme heat sparks fast-moving blazes. At the same time, heavy monsoon downpours in Asia caused deadly landslides that swept through vulnerable refugee settlements. Emergency crews in both regions are working around the clock to save lives and restore power.",
-      "why": "Severe climate events are increasingly displacing entire communities and putting massive financial strains on local economies.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "extreme weather and wildfires force thousands to flee homes",
-      "date": "2026-08-07"
-    },
-    {
-      "headline": "Deal near to reopen vital Middle East oil route",
-      "summary": "Iran and Oman are close to an agreement to reopen the Strait of Hormuz. The narrow ocean passage was locked down during recent conflict, cutting off major fuel shipments around the globe. Under the proposed plan, Oman would help manage ship traffic so oil tankers can sail safely again.",
-      "why": "This single narrow channel carries 20 percent of the world's oil, so reopening it will help lower global fuel costs for everyone.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "deal near to reopen vital middle east oil route",
-      "date": "2026-08-07"
-    },
-    {
-      "headline": "Health teams race to stop Ebola outbreak in Central Africa",
-      "summary": "The World Health Organization and Africa CDC are rushing emergency aid to the Democratic Republic of the Congo to tackle an Ebola outbreak. Nearby Uganda successfully stopped its own outbreak last week, showing quick contact tracing works. Health leaders are now focusing on protecting local doctors and delivering vaccines to high-risk areas.",
-      "why": "Stopping a deadly virus early keeps a local emergency from turning into a worldwide pandemic.",
-      "domain": "Health",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "health teams race to stop ebola outbreak in central africa",
-      "date": "2026-08-07"
-    },
-    {
-      "headline": "Mass border surge creates humanitarian crisis in Spanish enclave",
-      "summary": "Thousands of migrants recently crossed into Ceuta, a tiny Spanish territory on the coast of North Africa. Local shelters quickly overflowed, prompting European Union leaders to reconsider how they handle border security with neighboring countries. Aid workers are now scrambling to provide food, medical care, and temporary housing to those stranded.",
-      "why": "This sudden surge highlights how deeply global migration movements are testing infrastructure and political unity in Europe.",
-      "domain": "Society",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "mass border surge creates humanitarian crisis in spanish enclave",
-      "date": "2026-08-07"
-    },
-    {
-      "headline": "Gaza Peace Efforts Wobble as Regional Strikes Resume",
-      "summary": "A proposed peace plan to end fighting in Gaza is hitting major roadblocks after fresh Israeli military strikes in Gaza and southern Lebanon. Meanwhile, rebel attacks in Yemen show how quickly regional violence can reignite.",
-      "why": "Millions of lives hang in the balance, and renewed fighting risks sparking wider conflicts that could choke global trade routes.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "gaza peace efforts wobble as regional strikes resume",
-      "date": "2026-08-07"
-    },
-    {
-      "headline": "Record Wildfires and Extreme Heat Scorch Southern Europe",
-      "summary": "Unprecedented heatwaves have triggered massive wildfires across France, Spain, Italy, and Greece, forcing hundreds of thousands of people from their homes. Scientists say climate change made these record-breaking blazes far more likely and destructive.",
-      "why": "It destroys local livelihoods and shows how extreme weather is hitting essential food, housing, and energy systems like a sledgehammer.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "record wildfires and extreme heat scorch southern europe",
-      "date": "2026-08-07"
-    },
-    {
-      "headline": "US Issues Executive Orders to Restrict Birthright Citizenship",
-      "summary": "The US president signed new executive orders aimed at limiting automatic citizenship for children born in the country to non-citizens. The controversial move attempts to bypass long-standing constitutional rules after recent Supreme Court decisions.",
-      "why": "Changing who gets automatic legal rights alters the lives of millions of families and resets basic rules in the world's largest economy.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us issues executive orders to restrict birthright citizenship",
-      "date": "2026-08-07"
-    },
-    {
-      "headline": "Health Agencies Sound Urgent Alarm Over Ebola Outbreak in Congo",
-      "summary": "The World Health Organization and Africa CDC are rushing emergency aid to the Democratic Republic of the Congo to contain a dangerous Ebola outbreak. Health officials are pushing for rapid testing and vaccines before the virus spreads across borders.",
-      "why": "Containing deadly virus outbreaks early is crucial to prevent global health emergencies that cost countess lives and crash economies.",
-      "domain": "Health",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "health agencies sound urgent alarm over ebola outbreak in congo",
-      "date": "2026-08-07"
-    },
-    {
-      "headline": "High Energy and Fertilizer Costs Threaten Global Food Supplies",
-      "summary": "Ongoing trade spats and shipping disruptions around the Strait of Hormuz have sent fuel and fertilizer prices soaring worldwide. International relief agencies warn these price hikes are already threatening basic crop harvests in vulnerable nations.",
-      "why": "When fertilizer costs spike, farmers grow less food, making everyday groceries harder to afford for millions of families around the globe.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "high energy and fertilizer costs threaten global food supplies",
-      "date": "2026-08-07"
-    },
-    {
       "headline": "Saudi Arabia, Turkey, and Pakistan Sign Trilateral Mecca Defense Pact",
       "summary": "Saudi Arabia, Turkey, and Pakistan signed a joint defense agreement in Mecca. The deal works like NATO's rules: if someone attacks one country, all three promise to respond together.",
       "why": "This creates a huge new military alliance in the Middle East. It brings nuclear-armed Pakistan and NATO member Turkey directly into a shared defense system with Saudi Arabia during the ongoing regional conflict.",
@@ -3009,6 +2909,16 @@
       "mode": "evening",
       "fp": "far right afd surges to record victory in german state",
       "date": "2026-09-06"
+    },
+    {
+      "headline": "Iran plans exclusion zone around Strait of Hormuz following strikes with US",
+      "summary": "Iran announced it will declare a restricted exclusion zone near the Strait of Hormuz to block transiting vessels. The move follows direct clashes over the weekend, where Iranian forces fired ballistic missiles at US Navy warships and the US military hit three Iranian oil tankers.",
+      "why": "The Strait of Hormuz is the main artery for global oil supply. Direct missile fire between US warships and Iranian forces, combined with threats to choke off the passage, brings both nations to the brink of open naval warfare that could instantly disrupt world energy markets.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "iran plans exclusion zone around strait of hormuz following strikes",
+      "date": "2026-09-07"
     }
   ]
 }
