@@ -2979,6 +2979,56 @@
       "mode": "morning",
       "fp": "israeli airstrikes pound southern lebanon as cross border war flares",
       "date": "2026-09-07"
+    },
+    {
+      "headline": "US Envoys Push High-Stakes Ukraine Peace Talks",
+      "summary": "American diplomats met with Ukrainian President Volodymyr Zelenskyy right after holding talks with Russian leader Vladimir Putin. They are trying to hammer out an end to the brutal war that has ground on for years. It feels like a tense relay race where neither side wants to drop the baton or look weak.",
+      "why": "Ending this conflict would save thousands of lives and untangle global trade, but a bad deal could easily trigger future wars.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us envoys push high stakes ukraine peace talks",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "Nepal Mourns After Catastrophic Floods Claim Over 1,300 Lives",
+      "summary": "Nepal held a national day of mourning after torrential rains unleashed massive landslides and flash floods, killing more than 1,300 people. Entire hillside villages were swept away, and rescuers are still digging through heavy mud to reach cut-off valleys. Roads and power lines are completely washed out across huge parts of the country.",
+      "why": "It is a devastating human catastrophe that shows how fast extreme mountain weather can destroy homes, food supplies, and basic survival tools for millions.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "nepal mourns after catastrophic floods claim over 1 300 lives",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "Far-Right Win in Germany Stuns the European Union",
+      "summary": "The far-right AfD party won a crucial state election in eastern Germany, sending shockwaves through the national government. Mainstream parties are refusing to team up with them, but ruling without them is getting harder by the day. Think of it like a family dinner where everyone has to decide if they will sit next to an estranged cousin.",
+      "why": "Germany is Europe's economic engine, and political gridlock there freezes big decisions on defense, energy, and borders for the entire continent.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "far right win in germany stuns the european union",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "Yemen Fighting Explodes in Worst Clashes in Years",
+      "summary": "Deadly fighting between Houthi rebels and government forces flared up, killing more than 300 people in just a few days. It is the bloodiest round of violence the country has seen since an unofficial truce took hold back in 2022. Both sides are battling over strategic ground, threatening to reignite a frozen civil war.",
+      "why": "A renewed war threatens to push millions back into famine and could shut down crucial commercial shipping lanes through the Red Sea again.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "yemen fighting explodes in worst clashes in years",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "China Prepares Multi-Billion Stimulus to Fix Stalled Growth",
+      "summary": "Beijing is drafting a massive multi-billion-dollar cash injection to steady its commercial banks and financial sector. China's economy has been dragging its feet due to a lingering housing slump and nervous shoppers holding onto their wallets. Officials hope giving banks a shot of adrenaline will get loans flowing to small businesses again.",
+      "why": "When China's economic engine slows down, factories around the world make fewer goods, hitting workers and shop prices everywhere.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "china prepares multi billion stimulus to fix stalled growth",
+      "date": "2026-09-07"
     }
   ]
 }
