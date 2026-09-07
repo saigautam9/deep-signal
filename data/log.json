@@ -2929,6 +2929,56 @@
       "mode": "monitor",
       "fp": "u s and iran trade tanker strikes as tehran moves",
       "date": "2026-09-07"
+    },
+    {
+      "headline": "US and Iran trade strikes around the Strait of Hormuz",
+      "summary": "The US military struck three Iranian oil tankers after Iran fired missiles near American warships, and Tehran responded by threatening to block ships entering the area without permission. Crude oil prices jumped toward ninety-seven dollars a barrel as the standoff disrupted routine shipping traffic. Both sides are playing a high-stakes game of chicken inside the narrow gateway where much of the planet gets its fuel.",
+      "why": "This single waterway carries about a fifth of the world's oil supply, so any sustained bottleneck directly pushes up gas and grocery bills worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran trade strikes around the strait of hormuz",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "Nepal mourns over 1,300 killed in catastrophic flash floods",
+      "summary": "Nepal declared a national day of mourning after torrential monsoon rains caused catastrophic landslides and flash floods that swept away entire villages. Key highways, bridges, and power lines were destroyed, leaving thousands of families stranded without shelter or clean drinking water. Emergency teams are digging through mud and debris by hand because heavy rescue equipment cannot reach cut-off mountain valleys.",
+      "why": "It reveals how violently extreme weather can wipe away basic infrastructure in developing regions, leaving entire communities with almost no financial safety net.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "nepal mourns over 1 300 killed in catastrophic flash floods",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "US peace envoys push new settlement plan in Kyiv after meeting Putin",
+      "summary": "American negotiators Jared Kushner and Steve Witkoff arrived in Kyiv to meet Ukrainian President Volodymyr Zelenskyy immediately after holding talks with Vladimir Putin in Moscow. The White House is making a fresh push to end the four-and-a-half-year war, while Ukraine is insisting that European allies sit at the bargaining table too. Both militaries agreed to pause air raids on each other's capital cities so the meetings could happen safely.",
+      "why": "This is the most direct diplomatic effort in months to halt Europe's deadliest conflict and determine Ukraine's long-term survival and borders.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us peace envoys push new settlement plan in kyiv after",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "Far-right AfD wins landmark German state election",
+      "summary": "The anti-immigrant Alternative for Germany party won roughly forty-four percent of the vote in Saxony-Anhalt, handing Chancellor Friedrich Merz's party a crushing defeat. It marks the first time a far-right party has won a German state election since World War II, even though it fell three seats short of a full governing majority. Other mainstream parties refuse to partner with them, leaving the local government in total gridlock.",
+      "why": "The result shatters a foundational political taboo in post-war Germany and leaves the leadership of Europe's biggest economic engine deeply unstable.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "far right afd wins landmark german state election",
+      "date": "2026-09-07"
+    },
+    {
+      "headline": "Israeli airstrikes pound southern Lebanon as cross-border war flares",
+      "summary": "New Israeli airstrikes on towns in southern Lebanon killed at least eleven people, including rescue medics and children. Fighting between Israel and Hezbollah has intensified alongside continued strikes in Gaza, despite earlier efforts to broker lasting truces. Local hospitals are overwhelmed as families flee border towns caught in the crossfire.",
+      "why": "If these border battles fully erupt into an all-out war, they could trigger a massive refugee crisis and pull the wider region into direct combat.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "israeli airstrikes pound southern lebanon as cross border war flares",
+      "date": "2026-09-07"
     }
   ]
 }
