@@ -2989,6 +2989,56 @@
       "mode": "morning",
       "fp": "syria begins scrapping secret chemical weapons arsenals",
       "date": "2026-09-08"
+    },
+    {
+      "headline": "Houthi strikes on Saudi oil sites send crude prices near $100",
+      "summary": "Yemen's Houthi forces launched major drone and missile strikes on oil installations across southern Saudi Arabia, injuring dozens of workers and forcing temporary operational shutdowns. The attacks expand the wider regional conflict directly into the facilities of the world's leading oil exporter. Crude prices quickly climbed toward $100 a barrel as tanker traffic in nearby waterways slowed down.",
+      "why": "Think of Saudi oil like the world economy's main fuel pump; when it takes a hit, shipping costs, gas prices, and grocery bills rise everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "houthi strikes on saudi oil sites send crude prices near",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "Western allies ban Israeli settlement goods, sparking diplomatic feud",
+      "summary": "The United Kingdom barred imports from Israeli settlements in the West Bank, with France and Canada joining in by announcing new sanctions. Israel fired back immediately by shutting down the British consulate in East Jerusalem, accusing long-time partners of hostile posturing. The move represents the sharpest political break between Israel and key Western capitals in decades.",
+      "why": "Allies are swapping diplomatic talk for real economic punches, shattering long-standing geopolitical alignments around the conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "western allies ban israeli settlement goods sparking diplomatic feud",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "Canada's counter-tariffs on US products officially take effect",
+      "summary": "Canada rolled out steep retaliatory tariffs on a wide list of American consumer goods, ranging from dairy products to household merchandise. The measure responds directly to recent US trade penalties, escalating an exchange of cross-border tariff threats. Neither government is backing down, increasing friction between two deeply intertwined economies.",
+      "why": "When trade neighbors start taxing each other's goods, factories face supply bottlenecks and everyday consumers foot the bill.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "canada s counter tariffs on us products officially take effect",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "Far-right AfD wins historic 44% in German state election",
+      "summary": "Germany's far-right Alternative for Germany party won nearly 44% of the vote in Saxony-Anhalt, handing Chancellor Friedrich Merz's party a crushing defeat. While the AfD ended up just three seats short of a full majority, centrist parties now face a nightmare trying to piece together a workable government. The vote effectively punches a hole through Germany's traditional political firewall against far-right rule.",
+      "why": "Europe's economic anchor is splintering from within, which will make it much harder for Germany to pass budgets or guide European policy.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "far right afd wins historic 44 in german state election",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "EU inks $232 million investment deal to keep Greenland close",
+      "summary": "European Union chief Ursula von der Leyen visited Nuuk to sign a $232 million partnership package covering Greenland's infrastructure, clean energy, and rare minerals. The funding aims to anchor the Arctic island firmly inside the European sphere following repeated annexation talk from Washington. It also serves as a pushback against growing Russian and Chinese maritime interest in Arctic waterways.",
+      "why": "As polar ice thins, Greenland sits right on top of the critical minerals that power modern tech, turning the island into the center of a quiet superpower tug-of-war.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "eu inks 232 million investment deal to keep greenland close",
+      "date": "2026-09-08"
     }
   ]
 }
