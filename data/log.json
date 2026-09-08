@@ -3039,6 +3039,56 @@
       "mode": "afternoon",
       "fp": "eu inks 232 million investment deal to keep greenland close",
       "date": "2026-09-08"
+    },
+    {
+      "headline": "Gulf energy sites hit as oil races toward $100",
+      "summary": "Houthi drone and missile strikes hit Saudi energy facilities, injuring 73 people and forcing operations to pause. Coupled with ongoing clashes around the Strait of Hormuz, the damage pushed global crude oil near $100 a barrel. Drivers and businesses are already feeling the pinch from record diesel prices.",
+      "why": "Oil is the fuel pump of the global economy, so disruptions here make shipping, food, and daily commutes more expensive for billions of people.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "gulf energy sites hit as oil races toward 100",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "Deadly strikes pound Kyiv after brief truce crumbles",
+      "summary": "A massive wave of Russian drones and missiles slammed into Kyiv, killing at least five people and hitting a broadcast studio live on air. The attack shattered a temporary weekend pause that was set up while American envoys visited both capitals. The bombardment landed just hours after a direct phone call between Donald Trump and Vladimir Putin ended without a deal.",
+      "why": "",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "deadly strikes pound kyiv after brief truce crumbles",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "Western allies ban trade with Israeli settlements",
+      "summary": "Britain, Canada, and France barred imports from Israeli settlements in the occupied West Bank, warning that settler violence is emptying out Palestinian towns. Israel quickly fired back by shutting down the British consulate in East Jerusalem, while Washington warned of retaliation. Nine other European governments backed the move, marking the deepest Western split with Israel in decades.",
+      "why": "When lifelong allies stop trading over disputed land, it breaks decades of diplomatic consensus and pulls Europe and America further apart.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "western allies ban trade with israeli settlements",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "Far-right election win rattles Germany's government",
+      "summary": "The far-right Alternative for Germany party won a historic victory in Saxony-Anhalt, picking up nearly 44% of the vote. Chancellor Friedrich Merz called the wipeout his party's worst loss in decades, though he insisted mainstream parties will still refuse to govern with them. The shock result puts a hard-right party on the doorstep of state power for the first time since World War II.",
+      "why": "Germany is the anchor of Europe's economy, and if its political dam breaks, the entire continent faces gridlock and turmoil.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "far right election win rattles germany s government",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "Europe rushes cash to Greenland to block American pressure",
+      "summary": "European officials landed in Nuuk to pledge hundreds of millions of euros for Greenland's clean power, satellite networks, and critical mines. The funding is a direct answer to renewed rhetoric from Washington claiming the island should fall under American control. European leaders stated firmly that Greenland's borders and natural resources belong only to its people and Denmark.",
+      "why": "As polar ice melts, the Arctic is turning into a contested frontier where old allies are quietly competing for vital mineral wealth and sea routes.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "europe rushes cash to greenland to block american pressure",
+      "date": "2026-09-08"
     }
   ]
 }
