@@ -3089,6 +3089,16 @@
       "mode": "evening",
       "fp": "europe rushes cash to greenland to block american pressure",
       "date": "2026-09-08"
+    },
+    {
+      "headline": "Houthi strikes hit Saudi energy hubs and injure 73, risking direct Saudi retaliation",
+      "summary": "Yemen's Houthi forces fired a barrage of drones and ballistic missiles into southern Saudi Arabia, hitting multiple cities including Abha and Jazan. The strikes damaged oil installations run by Aramco, sparked large fires, forced a temporary pause in energy operations, and injured at least 73 people.",
+      "why": "This is a severe military escalation that pulls Saudi Arabia back into direct conflict with the Houthis. By taking aim at critical oil installations in the world's top crude exporter, the strikes threaten global fuel supplies and risk broadening ongoing Middle East warfare.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "houthi strikes hit saudi energy hubs and injure 73 risking",
+      "date": "2026-09-08"
     }
   ]
 }
