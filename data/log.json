@@ -2939,6 +2939,56 @@
       "mode": "monitor",
       "fp": "iran moves to enforce a naval exclusion zone around the",
       "date": "2026-09-07"
+    },
+    {
+      "headline": "US and Iran Trade Strikes Around the Strait of Hormuz",
+      "summary": "The US military bombed Iranian minelaying sites after commercial tankers were attacked in the Strait of Hormuz, and Iran fired back with missiles aimed at US bases. Oil prices immediately jumped past $90 a barrel as shippers paused traffic through the gulf. It is like someone squeezing the main fuel pipe that powers the global economy.",
+      "why": "A fifth of the world's petroleum passes through this narrow strait, so blockages here quickly push up gas prices and grocery bills across the globe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran trade strikes around the strait of hormuz",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "Heavy Russian Strikes Pummel Ukraine's Ports and Power Grid",
+      "summary": "Russia launched consecutive days of intense drone and missile barrages targeting Kyiv, railway hubs, and Black Sea grain ports. The attacks hit civilian energy and export facilities just as diplomatic calls for peace from visiting leaders went unanswered. It leaves cities bracing for a harsh freeze with damaged power lines.",
+      "why": "Battering grain terminals and power plants threatens food shipments to poorer nations and leaves millions of civilians without heat.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "heavy russian strikes pummel ukraine s ports and power grid",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "China Pumps $54 Billion into Big State Banks and Insurers",
+      "summary": "China's finance ministry announced a massive $54 billion cash injection into its largest state lenders and insurance firms. Domestic loan demand has slumped to seven-year lows as regular families and businesses pull back on spending. Think of it as a government blood transfusion to keep the country's financial engine from stalling out.",
+      "why": "If the world's second-largest economy stumbles under bad debts, factory orders and export demand drop for everyone else.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "china pumps 54 billion into big state banks and insurers",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "Canada Triggers Retaliatory Tariffs in Widening US Trade Feud",
+      "summary": "Canada put steep new taxes on hundreds of American imports at midnight, firing back against recent US trade restrictions. The dispute is widening quickly, especially as Washington considers new tariffs on imported computer chips. It is a classic eye-for-an-eye squabble where each round of penalties makes doing business across borders harder.",
+      "why": "Tariffs work like a hidden sales tax on regular shoppers, driving up costs for everyday groceries, cars, and electronics.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "canada triggers retaliatory tariffs in widening us trade feud",
+      "date": "2026-09-08"
+    },
+    {
+      "headline": "Syria Begins Scrapping Secret Chemical Weapons Arsenals",
+      "summary": "United Nations monitors confirmed that Syria has formally started locating and destroying clandestine chemical weapons caches left behind from former regime stockpiles. International experts are supervising the neutralization process to safely dispose of deadly nerve agents. It finally closes the door on some of the modern world's most terrifying weapons.",
+      "why": "Destroying these poisons ensures they cannot be stolen by rogue militias or used again against innocent populations.",
+      "domain": "Geopolitics",
+      "severity": "MEDIUM",
+      "mode": "morning",
+      "fp": "syria begins scrapping secret chemical weapons arsenals",
+      "date": "2026-09-08"
     }
   ]
 }
