@@ -3159,6 +3159,56 @@
       "mode": "morning",
       "fp": "un votes to replace the traditional world map to show",
       "date": "2026-09-09"
+    },
+    {
+      "headline": "Oil tops $100 as US and Iran trade strikes in the Persian Gulf",
+      "summary": "The US military struck five Iranian oil tankers, and Iran responded by firing missiles at shipping and American bases in the region. The exchange pushed benchmark crude prices back above $100 a barrel. It is like a fire breaking out next to the world's main fuel pump, leaving everyone bracing for the blast.",
+      "why": "Expensive oil acts like an immediate tax on ordinary families everywhere, quickly driving up grocery bills, commute costs, and factory prices.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "oil tops 100 as us and iran trade strikes in",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "Houthi strikes on Saudi refineries reignite Yemen conflict",
+      "summary": "Yemen's Houthi forces launched a massive drone and missile barrage into southern Saudi Arabia, setting oil facilities ablaze and injuring more than 70 people. Saudi jets answered with dozens of airstrikes across several Yemeni provinces. The exchange blows apart years of relative calm and threatens to pull the wider region into direct fighting.",
+      "why": "A fresh war across the Arabian Peninsula puts vital global oil supplies and Red Sea shipping routes in extreme danger while worsening a massive humanitarian crisis.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "houthi strikes on saudi refineries reignite yemen conflict",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "Peace talks stall as Russia batters Ukrainian energy and cities",
+      "summary": "High-profile diplomatic trips by US envoys to Moscow and Kyiv ended without any peace breakthrough, leaving both capitals ready for a brutal winter campaign. Russia followed up with fresh drone and missile attacks against Ukrainian apartment buildings, border crossings, and power stations. Both armies are increasingly relying on long-range drone strikes far behind the front lines.",
+      "why": "A stalled peace process locks the continent into endless conflict and leaves millions of Ukrainian families facing freezing weather without reliable heat or power.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "peace talks stall as russia batters ukrainian energy and cities",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "US and Canada escalate trade battle with import bans and retaliatory tariffs",
+      "summary": "The White House ordered import bans on Canadian alcohol, dairy, and motorcycles just as Canada's matching 50 percent tariffs on American goods went live. The dispute grew out of collapsed trade talks and has escalated at lightning speed. It is like two longtime neighbors suddenly putting up spiked fences and refusing to share tools.",
+      "why": "Disrupting the world's largest bilateral trade relationship slows factory lines, threatens cross-border supply chains, and forces everyday consumers to pay more.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us and canada escalate trade battle with import bans and",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "Nigeria reportedly secures quiet ceasefire with Boko Haram",
+      "summary": "Reports revealed the Nigerian government brokered a secret three-month truce with Boko Haram, which helped free 360 kidnapped villagers in the northeast. While officials publicly deny negotiating or paying ransoms, fighting on the ground around the border has dropped sharply. The move marks a rare, pragmatic shift in tactics after nearly two decades of military-first operations.",
+      "why": "Even a temporary pause in one of Africa's deadliest insurgencies offers rare safety to millions of civilians and tests whether diplomacy can finally end 17 years of bloodshed.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "nigeria reportedly secures quiet ceasefire with boko haram",
+      "date": "2026-09-09"
     }
   ]
 }
