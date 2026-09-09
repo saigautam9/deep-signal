@@ -3109,6 +3109,56 @@
       "mode": "monitor",
       "fp": "us destroys five iranian tankers following missile attacks on warship",
       "date": "2026-09-09"
+    },
+    {
+      "headline": "Oil Tops $100 as Middle East Tanker Strikes Throttle Energy Routes",
+      "summary": "Global oil prices pushed past $100 a barrel after U.S. strikes hit Iranian tankers and renewed drone attacks damaged Saudi oil facilities. The fighting has choked vessel traffic through the Strait of Hormuz, the narrow sea lane that normally carries a fifth of global petroleum. With tanker movements ground to a crawl, energy markets are bracing for a prolonged supply shock.",
+      "why": "When oil spikes, it acts like a sudden tax hike on everything from trucked groceries to factory power, threatening to trigger fresh interest rate hikes and consumer pain.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "oil tops 100 as middle east tanker strikes throttle energy",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "Canada Hits Back at the U.S. with Retaliatory Tariffs",
+      "summary": "Canada rolled out steep counter-tariffs on roughly $20 billion worth of American imports, matching heavy levies imposed by the Trump administration. In response, Washington slapped new curbs on Canadian products and blocked Canadian firms from bidding on U.S. government contracts. Both leaders have traded sharp warnings as negotiations over auto, steel, and agricultural trade completely broke down.",
+      "why": "A trade fight between two closely linked neighbors pushes up retail prices on both sides of the border and could drag down manufacturing jobs across North America.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "canada hits back at the u s with retaliatory tariffs",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "China Injects $54 Billion into Big Banks to Fight Economic Slump",
+      "summary": "Beijing launched a massive multi-billion dollar capital boost into its state insurers and top commercial banks to steady the country's financial system. The injection is meant to push more loans into the real economy as household spending and the property market continue to cool. Authorities are trying to jump-start growth without causing a fresh pile-up of bad debt.",
+      "why": "China is the world's biggest factory and customer for raw materials, meaning a stalled Chinese economy slows down trade and manufacturing everywhere else.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "china injects 54 billion into big banks to fight economic",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "Russia and North Korea Open Their First Shared Road Bridge",
+      "summary": "Moscow and Pyongyang officially opened the first automobile bridge across the Tumen River, connecting Russian territory directly to North Korea. While both governments claim the new crossing is for everyday trade and tourism, international monitors warn it establishes an overland highway for shipping military equipment and munitions. The bridge formalizes an increasingly tight military and economic pact between the two isolated regimes.",
+      "why": "It builds a permanent, sanctions-proof pipeline between a nuclear-armed rogue state and Russia, complicating both the war in Ukraine and security in East Asia.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "russia and north korea open their first shared road bridge",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "UN Votes to Replace the Traditional World Map to Show Africa's True Scale",
+      "summary": "The United Nations General Assembly passed a resolution encouraging schools, governments, and tech companies to swap out the 16th-century Mercator map for equal-area projections. The centuries-old Mercator map distorts the globe by making northern countries look massive while shrinking equatorial landmasses like Africa, which is actually 14 times larger than Greenland. The measure passed 164 to 1, with the United States casting the sole dissenting vote.",
+      "why": "Changing the basic picture of the world that children see in classrooms reshapes how future leaders and citizens view the geopolitical weight and human importance of the Global South.",
+      "domain": "Society",
+      "severity": "MEDIUM",
+      "mode": "morning",
+      "fp": "un votes to replace the traditional world map to show",
+      "date": "2026-09-09"
     }
   ]
 }
