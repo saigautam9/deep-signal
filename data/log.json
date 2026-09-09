@@ -3209,6 +3209,16 @@
       "mode": "afternoon",
       "fp": "nigeria reportedly secures quiet ceasefire with boko haram",
       "date": "2026-09-09"
+    },
+    {
+      "headline": "US and Iran trade direct military strikes in the Gulf, pushing oil over $100",
+      "summary": "After Iranian forces fired ballistic missiles at an American warship, the US destroyed five Iranian oil tankers in retaliation. Iran struck back today by launching missiles at a US military base in Jordan and attacking vessels around the Strait of Hormuz, sending global oil prices above $100 a barrel.",
+      "why": "Direct military blows between the US and Iran in the world's most vital oil corridor could quickly trigger a broader war and spark an immediate global energy crunch.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran trade direct military strikes in the gulf",
+      "date": "2026-09-09"
     }
   ]
 }
