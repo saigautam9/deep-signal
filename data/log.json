@@ -3099,6 +3099,16 @@
       "mode": "monitor",
       "fp": "us destroys iranian oil tankers after missile strikes on jordan",
       "date": "2026-09-09"
+    },
+    {
+      "headline": "US Destroys Five Iranian Tankers Following Missile Attacks on Warship",
+      "summary": "The US military destroyed five Iranian crude oil tankers after Iranian forces fired ballistic missiles at an American warship twice in 48 hours. This direct clash comes as allied strikes also hit Saudi oil infrastructure, driving crude prices toward $100 a barrel.",
+      "why": "Blowing up commercial tankers and trading missile fire with naval warships is a sharp military escalation. It puts a chokehold on key shipping lanes, risking an all-out regional war and an immediate shock to global energy supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us destroys five iranian tankers following missile attacks on warship",
+      "date": "2026-09-09"
     }
   ]
 }
